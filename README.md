@@ -39,9 +39,27 @@ _____________________________________________________
 
 [ESA](https://www.esa.int/) (website) - The European Space Agency is an intergovernmental organisation of 22 member states dedicated to the exploration of space.
 
+[Gaia](https://sci.esa.int/web/gaia) - Gaia is an ambitious mission to chart a three-dimensional map of our Galaxy, the Milky Way, in the process revealing the composition, formation and evolution of the Galaxy.
+
 # Other Governments' Agences
 
-[POLSA]()
+[CNSA](http://www.cnsa.gov.cn/) (website) - China National Space Administration
+
+[POLSA](https://polsa.gov.pl/) (website) - Polish Space Agency
+
+[CSA](http://www.asc-csa.gc.ca/) (website) - Canadian Space Agency
+
+[UKSA](https://www.gov.uk/ukspaceagency) - UK Space Agency
+
+[DLR](http://www.dlr.de/) - The German Aerospace Center
+
+[ISRO](http://www.isro.gov.in/) - The Indian Space Research Organisation
+
+[ISA](http://space.gov.il/en) - The Israel Space Agency
+
+[ASI](http://www.asi.it/) - The Italian Space Agency
+
+[JAXA](http://www.jaxa.jp/index_e.html) - The Japan Aerospace Exploration Agency
 
 # Comets
 
@@ -63,7 +81,9 @@ Astronomy-related societies, organisations etc on the world.
 
 ### Poland
 
-[TOS](https://pl.wikipedia.org/wiki/Towarzystwo_Obserwator%C3%B3w_S%C5%82o%C5%84ca) - Solar Observers Society
+[SRC](http://www.cbk.waw.pl/) - The Space Research Centre
+
+[TOS](https://pl.wikipedia.org/wiki/Towarzystwo_Obserwator%C3%B3w_S%C5%82o%C5%84ca) - Solar Observers Society (pol. Towarzystwo Obserwatorów Słońca)
 
 # Citizen science
 
