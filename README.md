@@ -11,6 +11,8 @@ A curated list of assets availible on the Internet related to astronomy.
 
 _Inspired by the awesome list thing. You might want to read the complete awesome list._
 
+As you know, that's a large field of science, so any contribution is warmly welcome!
+
 # Content
 
 * [NASA](#nasa)
@@ -43,10 +45,31 @@ _____________________________________________________
 
 # Society
 
+## Europe
+
+### Poland
+
+TOS
+
 # Citizen science
+
+## Sungrazer
+
+## Zooniverse
 
 # Contributing
 
-Kindly go through Contribution Guidelines first.
+Kindly go through [Contribution Guidelines](CONTRIBUTING.md) first.
+
+# Code of Conduct
+
+Examples of behavior that contributes to creating a positive environment include:
+
+    Using welcoming and inclusive language
+    Being respectful of differing viewpoints and experiences
+    Gracefully accepting constructive criticism
+    Focusing on what is best for the community
+    Showing empathy towards other community members
 
 # License
+[MIT](LICENSE.md)
