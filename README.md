@@ -36,11 +36,25 @@ _____________________________________________________
 
 [APOD](https://apod.nasa.gov/apod/astropix.html) (website) - Astronomy Picture of the Day
 
+[DEVELOP](https://develop.larc.nasa.gov/) - is a NASA Applied Sciences Program that conducts research projects applying NASA Earth observations to environmental policy issues around the globe.
+
+[NASA Supercomputing](https://www.nas.nasa.gov/SC18/) - NASA supercomputers enable scientific discoveries and engineering triumphs for missions in aeronautics, Earth and space science, & exploration of the universe.
+
+[NASApeople](https://www.nasa.gov/careers) - Want your career to leave an enduring impact? Join us to explore the extraordinary, every day! 
+
+[NASA Earth](https://www.nasa.gov/topics/earth/index.html) - NASA uses the vantage point of space to increase our understanding of Earth and improve lives.
+
+[NASA Climate](https://climate.nasa.gov/) - "Rocket science isn't enough; we're climate scientists, too".
+
 # ESA 
 
 [ESA](https://www.esa.int/) (website) - The European Space Agency is an intergovernmental organisation of 22 member states dedicated to the exploration of space.
 
 [Gaia](https://sci.esa.int/web/gaia) - Gaia is an ambitious mission to chart a three-dimensional map of our Galaxy, the Milky Way, in the process revealing the composition, formation and evolution of the Galaxy.
+
+[ESA Science](http://www.esa.int/Science_Exploration/Space_Science) - Science @ the European Space Agency ESA, keeping you posted on European space science activities.
+
+[ESA Operations](http://www.esa.int/Enabling_Support/Operations) - From Earth orbit to deep space: sharing the excitement of realtime mission operations at the European Space Agency
 
 # Other Governments' Agences
 
@@ -64,9 +78,17 @@ _____________________________________________________
 
 # Comets
 
+[ICQ](http://www.icq.eps.harvard.edu/) - Comet Information and the International Comet Quarterly (ICQ).
+
+[MPC](https://www.minorplanetcenter.net/iau/mpc.html) - The MPC is responsible for the designation of minor bodies in the solar system: minor planets; comets; and natural satellites
+
 # Asteroids
 
 [TOTAS](https://totas.cosmos.esa.int/) - Teide Observatory Tenerife Asteroid Survey
+
+[ATLAS](http://www.fallingstar.com) - Asteroid Terrestrial-impact Last Alert System: A NASA and University of Hawaii project to patrol the sky every night in search of incoming asteroids.
+
+[Pan-STARRS](http://pswww.ifa.hawaii.edu/pswww) - The Panoramic Survey Telescope and Rapid Response System
 
 # Sun
 
@@ -74,7 +96,9 @@ _____________________________________________________
 
 > _Image of corona from NASA's Solar Dynamics Observatory showing features created by magnetic fields. Image credit: NASA https://spaceplace.nasa.gov/sun-corona/en/_
 
-[](https://sohowww.nascom.nasa.gov/data/realtime-images.html)
+[SOHO](https://sohowww.nascom.nasa.gov/) - The Solar and Heliospheric Observatory
+
+[LASCO](https://lasco-www.nrl.navy.mil/index.php?p=content/about_lasco) - The Large Angle and Spectrometric Coronagraph
 
 # Society
 
@@ -108,7 +132,17 @@ Astronomy-related societies, organisations etc on the world.
 
 [ATel](http://www.astronomerstelegram.org/) - The Astronomer's Telegram is an internet based short notice publication service for quickly disseminating information on new astronomical observations.
 
-[JPL](https://ssd.jpl.nasa.gov/ - This site provides information related to the orbits, physical charateristics, and discovery circumstances for most known natural bodies in orbit around our sun.
+[JPL](https://ssd.jpl.nasa.gov/) - This site provides information related to the orbits, physical charateristics, and discovery circumstances for most known natural bodies in orbit around our sun.
+
+[ESO](https://www.eso.org/public/) - The European Organisation for Astronomical Research in the Southern Hemisphere, is a 16-nation intergovernmental research organisation for ground-based astronomy.
+
+[Mars Society](https://www.marssociety.org/) - is an American worldwide volunteer-driven space-advocacy non-profit organization dedicated to promoting the human exploration and settlement of the planet Mars.
+
+[Astronomy](https://astronomy.com/) - (ISSN 0091-6358) is a monthly American magazine about astronomy.
+
+[S&T](https://skyandtelescope.org/) - Sky & Telescope is a monthly American magazine covering all aspects of amateur astronomy.
+
+[CERN](https://home.cern/) - the European Organization for Nuclear Research, is the world's largest particle physics lab.
 
 # Citizen science
 
@@ -157,11 +191,19 @@ _C/2011 W3 (Lovejoy) - SOHO/LASCO C3 (2011/12/15) - Credits: NASA, ESA (LASCO C3
 
 [arXiv](https://arxiv.org/) - is a free distribution service and an open-access archive for scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. 
 
+[ADS](https://ui.adsabs.harvard.edu/) - Astrophysics Data System is an online database of over eight million astronomy and physics papers from both peer reviewed and non-peer reviewed sources.
+
+[ResearchGate](https://www.researchgate.net/) - is a European commercial social networking site for scientists and researchers to share papers, ask and answer questions, and find collaborators.
+
 # Tools
 
 [FITS](https://en.wikipedia.org/wiki/FITS) - Flexible Image Transport System (FITS) is an open standard defining a digital file format useful for storage, transmission and processing of data: formatted as multi-dimensional arrays (for example a 2D image), or tables (Filename extensions: .fits, .fit, .fts).
 
 [LaTeX](https://en.wikipedia.org/wiki/LaTeX) - is a document preparation system.
+
+[Python](https://www.python.org/) - is an interpreted, high-level, general-purpose programming language.
+
+[R](https://www.r-project.org/) - is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing.
 
 # Social media & groups
 
@@ -169,9 +211,43 @@ Astro groups on Facebook, Yahoo or groups.io etc
 
 ## Twitter
 
+* [TheMarsSociety](https://twitter.com/TheMarsSociety)
+* [ATLAS Project](https://twitter.com/fallingstarIfA)
+* [NASA_DEVELOP](https://twitter.com/NASA_DEVELOP)
+* [ASAS-SN](https://twitter.com/SuperASASSN)
+* [NASA Supercomputing](https://twitter.com/NASA_Supercomp)
+* [NASA People](https://twitter.com/NASApeople)
+* [NASA Goddard Images](https://twitter.com/NASAGoddardPix)
+* [NASA HQ PHOTO](https://twitter.com/nasahqphoto)
+* [NASA Marshall](https://twitter.com/NASA_Marshall)
+* [ATel](https://twitter.com/astronomerstel)
+* [NASA Tournament Lab](https://twitter.com/NASA_NTL)
+* [ESA EarthObservation](https://twitter.com/ESA_EO)
+* [ESA Exhibitions](https://twitter.com/ESAExhibitions)
+* [Astronomy Magazine](https://twitter.com/AstronomyMag)
+* [Sky & Telescope](https://twitter.com/SkyandTelescope)
+* [NASA Earth](https://twitter.com/NASAEarth)
+* [NASA Ice](https://twitter.com/NASA_ICE)
+* [NASA Climate](https://twitter.com/NASAClimate)
+* [CERN](https://twitter.com/CERN)
+* [Scientific American](https://twitter.com/sciam)
+* [NASA JPL](https://twitter.com/NASAJPL)
+* [NASA's Kennedy Space Center](https://twitter.com/NASAKennedy)
+* [LIGO](https://twitter.com/LIGO)
+* [NASA Glenn Research](https://twitter.com/NASAglenn)
+* [ESA Science](https://twitter.com/esascience)
+* [ESA Operations](https://twitter.com/esaoperations)
+* [NASA Solar System](https://twitter.com/NASASolarSystem)
+* [NASA Astronauts](https://twitter.com/NASA_Astronauts)
+* [Pan-STARRS1 NEOwatch](https://twitter.com/PS1NEOwatch)
+
 ## Facebook
 
-## 
+* Comets and Asteroids (page) - [link](https://www.facebook.com/Comets-and-Asteroids-140234731687/)
+
+## Groups
+
+* Comets and Asteroids Group (Facebook) - [link](https://www.facebook.com/groups/1454757177944714/)
 
 # Contributing
 
