@@ -31,13 +31,23 @@ _____________________________________________________
 
 # NASA
 
-# ESA
+[NASA](https://www.nasa.gov/) (website) - The National Aeronautics and Space Administration is an independent agency of the United States Federal Government responsible for the civilian space program, as well as aeronautics and aerospace research
+
+[APOD](https://apod.nasa.gov/apod/astropix.html) (website) - Astronomy Picture of the Day
+
+# ESA 
+
+[ESA](https://www.esa.int/) (website) - The European Space Agency is an intergovernmental organisation of 22 member states dedicated to the exploration of space.
 
 # Other Governments' Agences
+
+[POLSA]()
 
 # Comets
 
 # Asteroids
+
+[TOTAS](https://totas.cosmos.esa.int/) - Teide Observatory Tenerife Asteroid Survey
 
 # Sun
 
@@ -46,6 +56,8 @@ _____________________________________________________
 _Image of corona from NASA's Solar Dynamics Observatory showing features created by magnetic fields. Image credit: NASA https://spaceplace.nasa.gov/sun-corona/en/_
 
 # Society
+
+Astronomy-related societies, organisations etc on the world.
 
 ## Europe
 
@@ -59,17 +71,26 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 
 ## Sungrazer
 
+![Sungrazer-Lovejoy](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/sungrazer-lovejoy.png)
+
+_C/2011 W3 (Lovejoy) - SOHO/LASCO C3 (2011/12/15) - Credits: NASA, ESA (LASCO C3)_
+
+[Sungrazer](https://sungrazer.nrl.navy.mil/) (website) - A NASA-funded Citizen Science Project that enables anyone in the world to become a comet discoverer!
+
 ## Zooniverse
 
-[Zooniverse](https://www.zooniverse.org/) - is a citizen science web portal owned and operated by the Citizen Science Alliance
+[Zooniverse](https://www.zooniverse.org/) (website) - is a citizen science web portal owned and operated by the Citizen Science Alliance
+
+[Zooniverse repo on GitHub](https://github.com/zooniverse)
 
 (selected Space & Physics projects):
 
 
 
+
 # Contributing
 
-Kindly go through [Contribution Guidelines](CONTRIBUTING.md) first.
+Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) first.
 
 # Code of Conduct
 
@@ -83,5 +104,7 @@ Examples of behavior that contributes to creating a positive environment include
 
 # License
 Free [MIT](LICENSE) license.
+
+__________________________________________________
 
 Created by @[mbiesiad](https://github.com/mbiesiad)
