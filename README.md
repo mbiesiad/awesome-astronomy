@@ -13,6 +13,10 @@ As you know, that's a large field of science, so any contribution is warmly welc
 
 _Inspired by the awesome list thing. You might want to read the complete [awesome list](https://github.com/sindresorhus/awesome)._
 
+# Translations
+
+* [English](https://github.com/mbiesiad/awesome-astronomy)
+
 # Content
 
 * [NASA](#nasa)
