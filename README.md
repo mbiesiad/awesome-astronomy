@@ -9,9 +9,9 @@ _Source: NASA - NASA's Hubble Shows Milky Way is Destined for Head-On Collision:
 
 A curated list of assets availible on the Internet related to astronomy.
 
-_Inspired by the awesome list thing. You might want to read the complete awesome list._
-
 As you know, that's a large field of science, so any contribution is warmly welcome!
+
+_Inspired by the awesome list thing. You might want to read the complete [awesome list](https://github.com/sindresorhus/awesome)._
 
 # Content
 
@@ -21,11 +21,9 @@ As you know, that's a large field of science, so any contribution is warmly welc
 * [Comets](#comets)
 * [Asteroids](#asteroids)
 * [Sun](#sun)
-
 * [Society](#society)
-
 * [Citizen science](#citizen-science)
-
+* [Code of Conduct](#code-of-conduct)
 * [Contributing](#contributing)
 * [License](#license)
 
@@ -43,19 +41,31 @@ _____________________________________________________
 
 # Sun
 
+![NASA-Sun-Corona](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/corona2.en.jpg)
+
+_Image of corona from NASA's Solar Dynamics Observatory showing features created by magnetic fields. Image credit: NASA https://spaceplace.nasa.gov/sun-corona/en/_
+
 # Society
 
 ## Europe
 
 ### Poland
 
-TOS
+[TOS](https://pl.wikipedia.org/wiki/Towarzystwo_Obserwator%C3%B3w_S%C5%82o%C5%84ca) - Solar Observers Society
 
 # Citizen science
+
+Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science)) is scientific research conducted, in whole or in part, by amateur (or nonprofessional) scientists.
 
 ## Sungrazer
 
 ## Zooniverse
+
+[Zooniverse](https://www.zooniverse.org/) - is a citizen science web portal owned and operated by the Citizen Science Alliance
+
+(selected Space & Physics projects):
+
+
 
 # Contributing
 
@@ -72,4 +82,6 @@ Examples of behavior that contributes to creating a positive environment include
     Showing empathy towards other community members
 
 # License
-[MIT](LICENSE.md)
+Free [MIT](LICENSE) license.
+
+Created by @[mbiesiad](https://github.com/mbiesiad)
