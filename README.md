@@ -46,6 +46,8 @@ _____________________________________________________
 
 [NASA Climate](https://climate.nasa.gov/) - "Rocket science isn't enough; we're climate scientists, too".
 
+[HUBBLE SPACE TELESCOPE](https://hubblesite.org/) - is a space telescope that was launched into low Earth orbit in 1990 and remains in operation.
+
 # ESA 
 
 [ESA](https://www.esa.int/) (website) - The European Space Agency is an intergovernmental organisation of 22 member states dedicated to the exploration of space.
@@ -77,6 +79,10 @@ _____________________________________________________
 [JAXA](http://www.jaxa.jp/index_e.html) - The Japan Aerospace Exploration Agency
 
 # Comets
+
+![LovejoyComet](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/comet-lovejoy.png)
+
+> Comet Lovejoy2014. Source: [Sky & Telescope](https://skyandtelescope.org/online-gallery/comet-lovejoy-15/)
 
 [ICQ](http://www.icq.eps.harvard.edu/) - Comet Information and the International Comet Quarterly (ICQ).
 
@@ -152,7 +158,7 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 
 ![Sungrazer-Lovejoy](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/sungrazer-lovejoy.png)
 
-_C/2011 W3 (Lovejoy) - SOHO/LASCO C3 (2011/12/15) - Credits: NASA, ESA (LASCO C3)_
+> _C/2011 W3 (Lovejoy) - SOHO/LASCO C3 (2011/12/15) - Credits: NASA, ESA (LASCO C3)_
 
 [Sungrazer](https://sungrazer.nrl.navy.mil/) (website) - A NASA-funded Citizen Science Project that enables anyone in the world to become a comet discoverer!
 
