@@ -3,7 +3,7 @@
 
 ![NASA-Milky-Way](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/GSFC_20171208_Archive_e001738%7Eorig.jpg)
 
-_Source: NASA - NASA's Hubble Shows Milky Way is Destined for Head-On Collision: https://images.nasa.gov/details-GSFC_20171208_Archive_e001738_
+> _Source: NASA - NASA's Hubble Shows Milky Way is Destined for Head-On Collision: https://images.nasa.gov/details-GSFC_20171208_Archive_e001738_
 
 
 
@@ -71,7 +71,7 @@ _____________________________________________________
 
 ![NASA-Sun-Corona](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/corona2.en.jpg)
 
-_Image of corona from NASA's Solar Dynamics Observatory showing features created by magnetic fields. Image credit: NASA https://spaceplace.nasa.gov/sun-corona/en/_
+> _Image of corona from NASA's Solar Dynamics Observatory showing features created by magnetic fields. Image credit: NASA https://spaceplace.nasa.gov/sun-corona/en/_
 
 # Society
 
@@ -84,6 +84,14 @@ Astronomy-related societies, organisations etc on the world.
 [SRC](http://www.cbk.waw.pl/) - The Space Research Centre
 
 [TOS](https://pl.wikipedia.org/wiki/Towarzystwo_Obserwator%C3%B3w_S%C5%82o%C5%84ca) - Solar Observers Society (pol. Towarzystwo Obserwatorów Słońca)
+
+[PTA](http://www.pta.edu.pl/) - The Polish Astronomical Society (pol. Polskie Towarzystwo Astronomiczne)
+
+[PTF](http://www.ptf.net.pl/) - The Polish Physical Society (pol. Polskie Towarzystwo Fizyczne)
+
+[PTMA](http://ptma.pl/) - Polish Society of Amateur Astronomers (pol. Polskie Towarzystwo Miłośników Astronomii)
+
+[Urania – Postępy Astronomii](http://www.urania.edu.pl/) - Polish astronomical magazine
 
 # Citizen science
 
@@ -101,11 +109,32 @@ _C/2011 W3 (Lovejoy) - SOHO/LASCO C3 (2011/12/15) - Credits: NASA, ESA (LASCO C3
 
 [Zooniverse](https://www.zooniverse.org/) (website) - is a citizen science web portal owned and operated by the Citizen Science Alliance
 
-[Zooniverse repo on GitHub](https://github.com/zooniverse)
+[Zooniverse repo on GitHub](https://github.com/zooniverse) - Zooniverse' repositories on the GitHub
 
 (selected Space & Physics projects):
 
-
+* Galaxy Zoo [(website)](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo)
+* Variable Star Zoo [(website)](https://www.zooniverse.org/projects/ilacerna/variable-star-zoo)
+* SuperWASP Variable Stars [(website)](https://www.zooniverse.org/projects/ajnorton/superwasp-variable-stars)
+* Planet Hunters TESS [(website)](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess)
+* Muon Hunters 2.0 [(website)](https://www.zooniverse.org/projects/dwright04/muon-hunters-2-dot-0)
+* Hubble Asteroid Hunter [(website)](https://www.zooniverse.org/projects/sandorkruk/hubble-asteroid-hunter)
+* Galaxy Zoo Mobile [(website)](https://www.zooniverse.org/projects/mikewalmsley/galaxy-zoo-mobile)
+* Solar Stormwatch II [(website)](https://www.zooniverse.org/projects/shannon-/solar-stormwatch-ii)
+* Backyard Worlds: Planet 9 [(website)](https://www.zooniverse.org/projects/marckuchner/backyard-worlds-planet-9)
+* Gravity Spy [(website)](https://www.zooniverse.org/projects/zooniverse/gravity-spy)
+* Radio Meteor Zoo [(website)](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo)
+* Comet Hunters [(website)](https://www.zooniverse.org/projects/mschwamb/comet-hunters)
+* Pulsar Hunters [(website)](https://www.zooniverse.org/projects/zooniverse/pulsar-hunters)
+* Supernova Hunters [(website)](https://www.zooniverse.org/projects/dwright04/supernova-hunters)
+* Disk Detective [(website)](https://www.diskdetective.org/#/)
+* Planet Hunters TESS [(website)](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess#/)
+* Higgs Hunters [(website)](https://www.higgshunters.org/#/)
+* Galaxy Zoo: Bar Lengths [(website)](https://www.zooniverse.org/projects/vrooje/galaxy-zoo-bar-lengths)
+* Milky Way Project [(website)](https://www.zooniverse.org/projects/povich/milky-way-project)
+* Radio Galaxy Zoo [(website)](https://radio.galaxyzoo.org/#/)
+* Astronomy Rewind [(website)](https://www.zooniverse.org/projects/zooniverse/astronomy-rewind)
+* Radio Meteor Zoo [(website)](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo)
 
 
 # Contributing
