@@ -23,6 +23,7 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 * [Sun](#sun)
 * [Society](#society)
 * [Citizen science](#citizen-science)
+* [Sources for scientific papers](#sources-for-scientific-papers)
 * [Code of Conduct](#code-of-conduct)
 * [Contributing](#contributing)
 * [License](#license)
@@ -73,6 +74,8 @@ _____________________________________________________
 
 > _Image of corona from NASA's Solar Dynamics Observatory showing features created by magnetic fields. Image credit: NASA https://spaceplace.nasa.gov/sun-corona/en/_
 
+[](https://sohowww.nascom.nasa.gov/data/realtime-images.html)
+
 # Society
 
 Astronomy-related societies, organisations etc on the world.
@@ -92,6 +95,20 @@ Astronomy-related societies, organisations etc on the world.
 [PTMA](http://ptma.pl/) - Polish Society of Amateur Astronomers (pol. Polskie Towarzystwo Miłośników Astronomii)
 
 [Urania – Postępy Astronomii](http://www.urania.edu.pl/) - Polish astronomical magazine
+
+[PKiM](http://www.pkim.org/) - Polish Fireball Network
+
+## International
+
+[IAU](https://www.iau.org/) - International Astronomical Union
+
+[MPC](https://www.minorplanetcenter.net/iau/mpc.html) - Minor Planet Center is the official worldwide organization in charge of collecting observational data for minor planets (such as asteroids), calculating their orbits and publishing this information via the Minor Planet Circulars.
+
+[CBAT](http://www.cbat.eps.harvard.edu/) - The Central Bureau for Astronomical Telegrams is the official international clearing house for information relating to transient astronomical events. The CBAT collects and distributes information on comets, natural satellites, novae, supernovae and other transient astronomical events.
+
+[ATel](http://www.astronomerstelegram.org/) - The Astronomer's Telegram is an internet based short notice publication service for quickly disseminating information on new astronomical observations.
+
+[JPL](https://ssd.jpl.nasa.gov/ - This site provides information related to the orbits, physical charateristics, and discovery circumstances for most known natural bodies in orbit around our sun.
 
 # Citizen science
 
@@ -136,6 +153,25 @@ _C/2011 W3 (Lovejoy) - SOHO/LASCO C3 (2011/12/15) - Credits: NASA, ESA (LASCO C3
 * Astronomy Rewind [(website)](https://www.zooniverse.org/projects/zooniverse/astronomy-rewind)
 * Radio Meteor Zoo [(website)](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo)
 
+# Sources for scientific papers
+
+[arXiv](https://arxiv.org/) - is a free distribution service and an open-access archive for scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. 
+
+# Tools
+
+[FITS](https://en.wikipedia.org/wiki/FITS) - Flexible Image Transport System (FITS) is an open standard defining a digital file format useful for storage, transmission and processing of data: formatted as multi-dimensional arrays (for example a 2D image), or tables (Filename extensions: .fits, .fit, .fts).
+
+[LaTeX](https://en.wikipedia.org/wiki/LaTeX) - is a document preparation system.
+
+# Social media & groups
+
+Astro groups on Facebook, Yahoo or groups.io etc
+
+## Twitter
+
+## Facebook
+
+## 
 
 # Contributing
 
