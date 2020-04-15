@@ -167,7 +167,7 @@ Społeczności, organizacje etc. związane z astronomią na świecie.
 
 [CERN](https://home.cern/) - Europejska Organizacja Badań Jądrowych jest największym na świecie laboratorium fizyki cząstek elementarnych.
 
-# Citizen science
+# Citizen science - nauka obywatelska
 
 Citizen science (z [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science)) to badania naukowe prowadzone w całości lub w części przez miłośników, amatorów (lub nieprofesjonalnych) naukowców.
 
