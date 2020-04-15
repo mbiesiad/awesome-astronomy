@@ -19,6 +19,7 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 # Translations
 
 * [English](https://github.com/mbiesiad/awesome-astronomy)
+* [Polish])(https://github.com/mbiesiad/awesome-astronomy/tree/pl_PL)
 
 # Content
 
