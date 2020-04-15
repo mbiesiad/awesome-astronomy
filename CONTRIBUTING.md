@@ -1,19 +1,19 @@
-# Contribution
+# Współtworzenie
 
-Your contribution is warmly welcome!
+Twój wkład w rozwój projektu jest mile widziany!
 
-If you see something incorrect, please use an issue or contact with me directly.
-If you want add or improve something - just make a fork & PR, fell free.
+Jeśli zauważysz coś niepoprawnego, użyj issue lub skontaktuj się ze mną bezpośrednio.
+Jeśli chcesz coś dodać lub ulepszyć - po prostu zrób fork i PR, śmiało.
 
 ## TODO:
-:white_check_mark: Good to see - languages versions.
+:white_check_mark: Mile widziane - wersje językowe.
 
-:white_check_mark: More awesome resources.
+:white_check_mark: Więcej wspaniałych materiałów awesome.
 
-:white_check_mark: Sort alphabetically (ie. Zooniverse' projects)
+:white_check_mark: Posortować alfabetycznie (np. projekty Zooniverse)
 
-## Translations
+## Tłumaczenia
 
-For translations please make other branch for your changes & before PR (ie. for Spain will be: es_ES etc).
+W przypadku tłumaczeń proszę stworzyć inny branch (gałąź) dla swoich zmian i przed PR (np. dla Hiszpanii będzie: es_ES itp.).
 
-If you want, you can also add 'Translated by:' (ie. @JohnSmith) with link to your GitHub account or Twitter handle. Thank you!
+Jeśli chcesz, możesz również dodać "Przetłumaczone przez:" (np. @JohnSmith) z linkiem do konta GitHub lub Twittera. Dziękujemy!
