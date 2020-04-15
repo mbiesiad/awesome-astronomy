@@ -31,7 +31,7 @@ _Zainspirowana awesome list. Możesz zobaczyć całą [awesome list](https://git
 * [Słońce](#słońce)
 * [Księżyc](#księżyc)
 * [Społeczności](#społeczności)
-* [Citizen science - nauka obywatelska](#citizen-science--nauka-obywatelska)
+* [Citizen science - nauka obywatelska](#citizen-science---nauka-obywatelska)
 * [Źródła artykułów naukowych](#źródła-artykułów-naukowych)
 * [Kodeks postępowania](#kodeks-postępowania)
 * [Współtworzenie](#współtworzenie)
