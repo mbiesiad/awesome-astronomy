@@ -28,6 +28,7 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 * [Comets](#comets)
 * [Asteroids](#asteroids)
 * [Sun](#sun)
+* [The Moon](#the-moon)
 * [Society](#society)
 * [Citizen science](#citizen-science)
 * [Sources for scientific papers](#sources-for-scientific-papers)
@@ -112,6 +113,14 @@ _____________________________________________________
 [SOHO](https://sohowww.nascom.nasa.gov/) - The Solar and Heliospheric Observatory
 
 [LASCO](https://lasco-www.nrl.navy.mil/index.php?p=content/about_lasco) - The Large Angle and Spectrometric Coronagraph
+
+# The Moon
+
+![Moon-Nasa](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/moon-nasa.png)
+
+> _A full moon captured July 18, 2008. Credit: NASA/Sean Smith https://asd.gsfc.nasa.gov/blueshift/index.php/2015/02/12/no-mardi-gras-under-a-full-moon/_
+
+[Moon Society](https://www.moonsociety.org/) - is a space advocacy organization, founded in 2000, and dedicated to promoting large-scale human exploration, research, and settlement of the Moon.
 
 # Society
 
@@ -257,6 +266,7 @@ Astro groups on Facebook, Yahoo or groups.io etc
 ## Facebook
 
 * Comets and Asteroids (page) - [link](https://www.facebook.com/Comets-and-Asteroids-140234731687/)
+* The Moon Appreciation Society (page) - [link](https://www.facebook.com/MoonAppSoc/)
 
 ## Groups
 
