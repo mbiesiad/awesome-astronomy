@@ -11,3 +11,7 @@ If you want add or improve something - just make a fork & PR, fell free.
 :white_check_mark: More awesome resources.
 
 :white_check_mark: Sort alphabetically (ie. Zooniverse' projects)
+
+## Translations
+
+For translations please make other branch for your changes & before PR (ie. for Spain will be: es_ES etc).
