@@ -67,7 +67,7 @@ _____________________________________________________
 
 [ESA Operations](http://www.esa.int/Enabling_Support/Operations) - Z orbity Ziemi w głęboki kosmos: dzielenie się emocjami związanymi z misjami w czasie rzeczywistym w Europejskiej Agencji Kosmicznej
 
-# Other Governments' Agences
+# Inne agencje rządowe
 
 [CNSA](http://www.cnsa.gov.cn/) (strona) - Chińska Narodowa Agencja Kosmiczna
 
@@ -91,7 +91,7 @@ _____________________________________________________
 
 ![LovejoyComet](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/comet-lovejoy.png)
 
-> Comet Lovejoy2014. Source: [Sky & Telescope](https://skyandtelescope.org/online-gallery/comet-lovejoy-15/)
+> Comet Lovejoy2014. Źródło: [Sky & Telescope](https://skyandtelescope.org/online-gallery/comet-lovejoy-15/)
 
 [ICQ](http://www.icq.eps.harvard.edu/) - Comet Information and the International Comet Quarterly (ICQ).
 
