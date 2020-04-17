@@ -32,6 +32,7 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 * [The Moon](#the-moon)
 * [Experiments](#experiments)
 * [Observatories](#observatories)
+* [Exoplanet projects](#exoplanet-projects)
 * [Astrophotography](#astrophotography)
 * [Society](#society)
 * [Citizen science](#citizen-science)
@@ -132,7 +133,15 @@ _____________________________________________________
 
 # Observatories
 
-* [VO](http://ivoa.net/) - Virtual observatory. Collection of interoperating data archives and software tools which utilize the internet to form a scientific research environment in which astronomical research programs can be conducted. 
+* [VO](http://ivoa.net/) - Virtual observatory. Collection of interoperating data archives and software tools which utilize the internet to form a scientific research environment in which astronomical research programs can be conducted.
+
+# Exoplanet projects
+
+* [Exoplanet Exploration Program](https://exoplanets.nasa.gov/) - Exoplanet Exploration Program. NASA's search for habitable planets and life beyond our solar system.
+* [SRON](https://www.sron.nl/exoplanets) - SRON's Exoplanets programme.
+* [NASAExoplanetArchive](https://exoplanetarchive.ipac.caltech.edu/) - A service of NASA Exoplanet Science Institute
+* [MOA](http://www.phys.canterbury.ac.nz/moa/) - Microlensing Observations in Astrophysics
+* [List of exoplanet search projects](https://en.wikipedia.org/wiki/List_of_exoplanet_search_projects) - List of exoplanet search projects by Wikipedia.
 
 # Astrophotography
 
