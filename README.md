@@ -32,6 +32,7 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 * [The Moon](#the-moon)
 * [Experiments](#experiments)
 * [Observatories](#observatories)
+* [Astrophotography](#astrophotography)
 * [Society](#society)
 * [Citizen science](#citizen-science)
 * [Sources for scientific papers](#sources-for-scientific-papers)
@@ -132,6 +133,12 @@ _____________________________________________________
 # Observatories
 
 * [VO](http://ivoa.net/) - Virtual observatory. Collection of interoperating data archives and software tools which utilize the internet to form a scientific research environment in which astronomical research programs can be conducted. 
+
+# Astrophotography
+
+* [Astrophotography/ Amateur Astronomy Enthusiasts](https://www.facebook.com/groups/astrophotographers/) - Facebook' group
+* [Astrophotography tips](https://skyandtelescope.org/astronomy-resources/astrophotography-tips/) - Astrophotography: Tips & Techniques (skyandtelescope.org)
+* [Astrophotography how-to](http://www.astropix.com/html/i_astrop/toc_ap.html) - Catching the Light. Astrophotography by Jerry Lodriguss
 
 # Society
 
