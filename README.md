@@ -133,7 +133,7 @@ _____________________________________________________
 
 # Obserwatoria
 
-* [VO](http://ivoa.net/) - to zbiór współpracujących archiwów danych i narzędzi programistycznych, które wykorzystują Internet do stworzenia środowiska badań naukowych, w którym można prowadzić astronomiczne programy badawcze.
+* [VO](http://ivoa.net/) - Virtual observatory. To zbiór współpracujących archiwów danych i narzędzi programistycznych, które wykorzystują Internet do stworzenia środowiska badań naukowych, w którym można prowadzić astronomiczne programy badawcze.
 
 # Planety pozasłoneczne
 
