@@ -30,6 +30,10 @@ _Zainspirowana awesome list. Możesz zobaczyć całą [awesome list](https://git
 * [Asteroidy](#asteroidy)
 * [Słońce](#słońce)
 * [Księżyc](#księżyc)
+* [Eksperymenty](#eksperymenty)
+* [Obserwatoria](#obserwatoria)
+* [Planety pozasłoneczne](#planety-pozasłoneczne)
+* [Astrofotografia](#astrofotografia)
 * [Społeczności](#społeczności)
 * [Citizen science - nauka obywatelska](#citizen-science---nauka-obywatelska)
 * [Źródła artykułów naukowych](#źródła-artykułów-naukowych)
@@ -41,51 +45,51 @@ _____________________________________________________
 
 # NASA
 
-[NASA](https://www.nasa.gov/) (strona) - National Aeronautics and Space Administration to niezależna agencja rządu federalnego Stanów Zjednoczonych odpowiedzialna za cywilny program kosmiczny, a także badania w dziedzinie lotnictwa i kosmonautyki
+* [NASA](https://www.nasa.gov/) (strona) - National Aeronautics and Space Administration to niezależna agencja rządu federalnego Stanów Zjednoczonych odpowiedzialna za cywilny program kosmiczny, a także badania w dziedzinie lotnictwa i kosmonautyki
 
-[APOD](https://apod.nasa.gov/apod/astropix.html) (strona) - Astronomy Picture of the Day, Astronomiczne zdjęcie dnia
+* [APOD](https://apod.nasa.gov/apod/astropix.html) (strona) - Astronomy Picture of the Day, Astronomiczne zdjęcie dnia
 
-[DEVELOP](https://develop.larc.nasa.gov/) - to Program Nauk Stosowanych NASA, który prowadzi projekty badawcze z wykorzystaniem obserwacji Ziemi NASA do kwestii polityki ochrony środowiska na całym świecie.
+* [DEVELOP](https://develop.larc.nasa.gov/) - to Program Nauk Stosowanych NASA, który prowadzi projekty badawcze z wykorzystaniem obserwacji Ziemi NASA do kwestii polityki ochrony środowiska na całym świecie.
 
-[NASA Supercomputing](https://www.nas.nasa.gov/SC18/) - Superkomputery NASA umożliwiają odkrycia naukowe i triumfy inżynieryjne dla misji w aeronautyce, nauce o Ziemi i kosmosie oraz eksploracji wszechświata.
+* [NASA Supercomputing](https://www.nas.nasa.gov/SC18/) - Superkomputery NASA umożliwiają odkrycia naukowe i triumfy inżynieryjne dla misji w aeronautyce, nauce o Ziemi i kosmosie oraz eksploracji wszechświata.
 
-[NASApeople](https://www.nasa.gov/careers) - Chcesz, aby Twoja kariera pozostawiła trwały wpływ? Dołącz do nas, aby odkrywać niezwykłe, każdego dnia!
+* [NASApeople](https://www.nasa.gov/careers) - Chcesz, aby Twoja kariera pozostawiła trwały wpływ? Dołącz do nas, aby odkrywać niezwykłe, każdego dnia!
 
-[NASA Earth](https://www.nasa.gov/topics/earth/index.html) - NASA wykorzystuje punkt obserwacyjny przestrzeni kosmicznej, aby lepiej zrozumieć Ziemię i poprawić życie.
+* [NASA Earth](https://www.nasa.gov/topics/earth/index.html) - NASA wykorzystuje punkt obserwacyjny przestrzeni kosmicznej, aby lepiej zrozumieć Ziemię i poprawić życie.
 
-[NASA Climate](https://climate.nasa.gov/) - "Rocket science to za mało; jesteśmy też klimatologami".
+* [NASA Climate](https://climate.nasa.gov/) - "Rocket science to za mało; jesteśmy też klimatologami".
 
-[HUBBLE SPACE TELESCOPE](https://hubblesite.org/) - to teleskop kosmiczny wystrzelony na niską orbitę ziemską w 1990 r. i nadal działa.
+* [HUBBLE SPACE TELESCOPE](https://hubblesite.org/) - to teleskop kosmiczny wystrzelony na niską orbitę ziemską w 1990 r. i nadal działa.
 
 # ESA 
 
-[ESA](https://www.esa.int/) (strona) - Europejska Agencja Kosmiczna to międzyrządowa organizacja 22 państw członkowskich zajmująca się eksploracją kosmosu.
+* [ESA](https://www.esa.int/) (strona) - Europejska Agencja Kosmiczna to międzyrządowa organizacja 22 państw członkowskich zajmująca się eksploracją kosmosu.
 
-[Gaia](https://sci.esa.int/web/gaia) - Gaia to ambitna misja nakreślenia trójwymiarowej mapy naszej Galaktyki, Drogi Mlecznej, w trakcie której ujawnia się skład, formowanie i ewolucję Galaktyki.
+* [Gaia](https://sci.esa.int/web/gaia) - Gaia to ambitna misja nakreślenia trójwymiarowej mapy naszej Galaktyki, Drogi Mlecznej, w trakcie której ujawnia się skład, formowanie i ewolucję Galaktyki.
 
-[ESA Science](http://www.esa.int/Science_Exploration/Space_Science) - Science @ the European Space Agency ESA, informuje ciebie o działaniach związanych z europejską nauką kosmiczną.
+* [ESA Science](http://www.esa.int/Science_Exploration/Space_Science) - Science @ the European Space Agency ESA, informuje ciebie o działaniach związanych z europejską nauką kosmiczną.
 
-[ESA Operations](http://www.esa.int/Enabling_Support/Operations) - Z orbity Ziemi w głęboki kosmos: dzielenie się emocjami związanymi z misjami w czasie rzeczywistym w Europejskiej Agencji Kosmicznej
+* [ESA Operations](http://www.esa.int/Enabling_Support/Operations) - Z orbity Ziemi w głęboki kosmos: dzielenie się emocjami związanymi z misjami w czasie rzeczywistym w Europejskiej Agencji Kosmicznej
 
 # Inne agencje rządowe
 
-[CNSA](http://www.cnsa.gov.cn/) (strona) - Chińska Narodowa Agencja Kosmiczna
+* [CNSA](http://www.cnsa.gov.cn/) (strona) - Chińska Narodowa Agencja Kosmiczna
 
-[POLSA](https://polsa.gov.pl/) (strona) - Polska Agencja Kosmiczna
+* [POLSA](https://polsa.gov.pl/) (strona) - Polska Agencja Kosmiczna
 
-[CSA](http://www.asc-csa.gc.ca/) (strona) - Kanadyjska Agencja Kosmiczna
+* [CSA](http://www.asc-csa.gc.ca/) (strona) - Kanadyjska Agencja Kosmiczna
 
-[UKSA](https://www.gov.uk/ukspaceagency) - Brytyjska Agencja Kosmiczna
+* [UKSA](https://www.gov.uk/ukspaceagency) - Brytyjska Agencja Kosmiczna
 
-[DLR](http://www.dlr.de/) - Niemiecka Agencja Kosmiczna
+* [DLR](http://www.dlr.de/) - Niemiecka Agencja Kosmiczna
 
-[ISRO](http://www.isro.gov.in/) - Indyjska organizacja badań kosmicznych
+* [ISRO](http://www.isro.gov.in/) - Indyjska organizacja badań kosmicznych
 
-[ISA](http://space.gov.il/en) - Izraelska Agencja Kosmiczna
+* [ISA](http://space.gov.il/en) - Izraelska Agencja Kosmiczna
 
-[ASI](http://www.asi.it/) - Włoska Agencja Kosmiczna
+* [ASI](http://www.asi.it/) - Włoska Agencja Kosmiczna
 
-[JAXA](http://www.jaxa.jp/index_e.html) - Japońska Agencja Eksploracji Aerokosmicznej
+* [JAXA](http://www.jaxa.jp/index_e.html) - Japońska Agencja Eksploracji Aerokosmicznej
 
 # Komety
 
@@ -93,17 +97,17 @@ _____________________________________________________
 
 > Comet Lovejoy2014. Źródło: [Sky & Telescope](https://skyandtelescope.org/online-gallery/comet-lovejoy-15/)
 
-[ICQ](http://www.icq.eps.harvard.edu/) - Comet Information and the International Comet Quarterly (ICQ).
+* [ICQ](http://www.icq.eps.harvard.edu/) - Comet Information and the International Comet Quarterly (ICQ).
 
-[MPC](https://www.minorplanetcenter.net/iau/mpc.html) - MPC odpowiada za wyznaczenie mniejszych ciał w Układzie Słonecznym: planetoid; komet; i naturalnych satelit
+* [MPC](https://www.minorplanetcenter.net/iau/mpc.html) - MPC odpowiada za wyznaczenie mniejszych ciał w Układzie Słonecznym: planetoid; komet; i naturalnych satelit
 
 # Asteroidy
 
-[TOTAS](https://totas.cosmos.esa.int/) - Teide Observatory Tenerife Asteroid Survey
+* [TOTAS](https://totas.cosmos.esa.int/) - Teide Observatory Tenerife Asteroid Survey
 
-[ATLAS](http://www.fallingstar.com) - Asteroid Terrestrial-impact Last Alert System: Projekt NASA i University of Hawaii ma na celu patrolowanie nieba każdej nocy w poszukiwaniu nadlatujących asteroid.
+* [ATLAS](http://www.fallingstar.com) - Asteroid Terrestrial-impact Last Alert System: Projekt NASA i University of Hawaii ma na celu patrolowanie nieba każdej nocy w poszukiwaniu nadlatujących asteroid.
 
-[Pan-STARRS](http://pswww.ifa.hawaii.edu/pswww) - The Panoramic Survey Telescope and Rapid Response System
+* [Pan-STARRS](http://pswww.ifa.hawaii.edu/pswww) - The Panoramic Survey Telescope and Rapid Response System
 
 # Słońce
 
@@ -111,9 +115,9 @@ _____________________________________________________
 
 > _Image of corona from NASA's Solar Dynamics Observatory showing features created by magnetic fields. Image credit: NASA https://spaceplace.nasa.gov/sun-corona/en/_
 
-[SOHO](https://sohowww.nascom.nasa.gov/) - The Solar and Heliospheric Observatory
+* [SOHO](https://sohowww.nascom.nasa.gov/) - The Solar and Heliospheric Observatory
 
-[LASCO](https://lasco-www.nrl.navy.mil/index.php?p=content/about_lasco) - The Large Angle and Spectrometric Coronagraph
+* [LASCO](https://lasco-www.nrl.navy.mil/index.php?p=content/about_lasco) - The Large Angle and Spectrometric Coronagraph
 
 # Księżyc
 
@@ -121,7 +125,31 @@ _____________________________________________________
 
 > _A full moon captured July 18, 2008. Źródło: NASA/Sean Smith https://asd.gsfc.nasa.gov/blueshift/index.php/2015/02/12/no-mardi-gras-under-a-full-moon/_
 
-[Moon Society](https://www.moonsociety.org/) - jest organizacją zajmującą się promowaniem kosmosu, założoną w 2000 roku i zajmującą się promowaniem eksploracji, badań i osadnictwa na Księżycu na dużą skalę.
+* [Moon Society](https://www.moonsociety.org/) - jest organizacją zajmującą się promowaniem kosmosu, założoną w 2000 roku i zajmującą się promowaniem eksploracji, badań i osadnictwa na Księżycu na dużą skalę.
+
+# Eksperymenty
+
+* [LIGO](https://www.ligo.caltech.edu/) - (Laser Interferometer Gravitational Wave Observatory) detektor fal grawitacyjnych, bazujący na zasadzie interferometru Michelsona. LIGO jest wspólnym przedsięwzięciem naukowców z MIT, Caltech i wielu innych szkół wyższych.
+
+# Obserwatoria
+
+* [VO](http://ivoa.net/) - to zbiór współpracujących archiwów danych i narzędzi programistycznych, które wykorzystują Internet do stworzenia środowiska badań naukowych, w którym można prowadzić astronomiczne programy badawcze.
+
+# Planety pozasłoneczne
+
+* [Exoplanet Exploration Program](https://exoplanets.nasa.gov/) - Program eksploracji plan pozasłonecznych. NASA szuka planet nadających się do zamieszkania i życia poza naszym Układem Słonecznym.
+* [SRON](https://www.sron.nl/exoplanets) - Program egzoplanet SRON.
+* [NASAExoplanetArchive](https://exoplanetarchive.ipac.caltech.edu/) - A service of NASA Exoplanet Science Institute
+* [MOA](http://www.phys.canterbury.ac.nz/moa/) - Microlensing Observations in Astrophysics
+* [List of exoplanet search projects](https://en.wikipedia.org/wiki/List_of_exoplanet_search_projects) - List of exoplanet search projects by Wikipedia.
+
+
+# Astrofotografia
+
+* [Astrophotography/ Amateur Astronomy Enthusiasts](https://www.facebook.com/groups/astrophotographers/) - grupa na Facebook
+* [Astrophotography tips](https://skyandtelescope.org/astronomy-resources/astrophotography-tips/) - Astrophotography: Tips & Techniques (skyandtelescope.org)
+* [Astrophotography how-to](http://www.astropix.com/html/i_astrop/toc_ap.html) - Catching the Light. Astrophotography od Jerry Lodriguss
+
 
 # Społeczności
 
@@ -131,41 +159,41 @@ Społeczności, organizacje etc. związane z astronomią na świecie.
 
 ### Polska
 
-[SRC](http://www.cbk.waw.pl/) - The Space Research Centre, Centrum Badań Kosmicznych
+* [SRC](http://www.cbk.waw.pl/) - The Space Research Centre, Centrum Badań Kosmicznych
 
-[TOS](https://pl.wikipedia.org/wiki/Towarzystwo_Obserwator%C3%B3w_S%C5%82o%C5%84ca) - Towarzystwo Obserwatorów Słońca (ang. Solar Observers Society)
+* [TOS](https://pl.wikipedia.org/wiki/Towarzystwo_Obserwator%C3%B3w_S%C5%82o%C5%84ca) - Towarzystwo Obserwatorów Słońca (ang. Solar Observers Society)
 
-[PTA](http://www.pta.edu.pl/) - Polskie Towarzystwo Astronomiczne (ang. The Polish Astronomical Society)
+* [PTA](http://www.pta.edu.pl/) - Polskie Towarzystwo Astronomiczne (ang. The Polish Astronomical Society)
 
-[PTF](http://www.ptf.net.pl/) - Polskie Towarzystwo Fizyczne (ang. The Polish Physical Society)
+* [PTF](http://www.ptf.net.pl/) - Polskie Towarzystwo Fizyczne (ang. The Polish Physical Society)
 
-[PTMA](http://ptma.pl/) - Polskie Towarzystwo Miłośników Astronomii (ang. Polish Society of Amateur Astronomers)
+* [PTMA](http://ptma.pl/) - Polskie Towarzystwo Miłośników Astronomii (ang. Polish Society of Amateur Astronomers)
 
-[Urania – Postępy Astronomii](http://www.urania.edu.pl/) - polski magazyn astronomiczny
+* [Urania – Postępy Astronomii](http://www.urania.edu.pl/) - polski magazyn astronomiczny
 
-[PKiM](http://www.pkim.org/) - Polish Fireball Network, Pracowania Komet i Meteorów.
+* [PKiM](http://www.pkim.org/) - Polish Fireball Network, Pracowania Komet i Meteorów.
 
 ## Międzynarodowe
 
-[IAU](https://www.iau.org/) - International Astronomical Union, Międzynarodowa Unia Astronomiczna.
+* [IAU](https://www.iau.org/) - International Astronomical Union, Międzynarodowa Unia Astronomiczna.
 
-[MPC](https://www.minorplanetcenter.net/iau/mpc.html) - Minor Planet Center jest oficjalną ogólnoświatową organizacją odpowiedzialną za zbieranie danych obserwacyjnych dla mniejszych planet (takich jak asteroidy), obliczanie ich orbit i publikowanie tych informacji za pośrednictwem Circulars Minor Planet.
+* [MPC](https://www.minorplanetcenter.net/iau/mpc.html) - Minor Planet Center jest oficjalną ogólnoświatową organizacją odpowiedzialną za zbieranie danych obserwacyjnych dla mniejszych planet (takich jak asteroidy), obliczanie ich orbit i publikowanie tych informacji za pośrednictwem Circulars Minor Planet.
 
-[CBAT](http://www.cbat.eps.harvard.edu/) - The Central Bureau for Astronomical Telegrams jest oficjalną międzynarodową izbą rozliczeniową zajmującą się informacjami dotyczącymi przejściowych wydarzeń astronomicznych. CBAT gromadzi i rozpowszechnia informacje o kometach, naturalnych satelitach, nowych, supernowych i innych przejściowych zdarzeniach astronomicznych.
+* [CBAT](http://www.cbat.eps.harvard.edu/) - The Central Bureau for Astronomical Telegrams jest oficjalną międzynarodową izbą rozliczeniową zajmującą się informacjami dotyczącymi przejściowych wydarzeń astronomicznych. CBAT gromadzi i rozpowszechnia informacje o kometach, naturalnych satelitach, nowych, supernowych i innych przejściowych zdarzeniach astronomicznych.
 
-[ATel](http://www.astronomerstelegram.org/) - The Astronomer's Telegram to internetowa publikacja z krótkim wyprzedzeniem służąca do szybkiego rozpowszechniania informacji o nowych obserwacjach astronomicznych.
+* [ATel](http://www.astronomerstelegram.org/) - The Astronomer's Telegram to internetowa publikacja z krótkim wyprzedzeniem służąca do szybkiego rozpowszechniania informacji o nowych obserwacjach astronomicznych.
 
-[JPL](https://ssd.jpl.nasa.gov/) - Ta strona zawiera informacje związane z orbitami, właściwościami fizycznymi i okolicznościami odkrycia dla najbardziej znanych naturalnych ciał na orbicie wokół naszego Słońca.
+* [JPL](https://ssd.jpl.nasa.gov/) - Ta strona zawiera informacje związane z orbitami, właściwościami fizycznymi i okolicznościami odkrycia dla najbardziej znanych naturalnych ciał na orbicie wokół naszego Słońca.
 
-[ESO](https://www.eso.org/public/) - Europejska Organizacja Badań Astronomicznych na półkuli południowej jest 16-narodową międzyrządową organizacją badawczą zajmującą się astronomią naziemną.
+* [ESO](https://www.eso.org/public/) - Europejska Organizacja Badań Astronomicznych na półkuli południowej jest 16-narodową międzyrządową organizacją badawczą zajmującą się astronomią naziemną.
 
-[Mars Society](https://www.marssociety.org/) - jest amerykańską organizacją non-profit działającą za pomocą wolontariatu, działającą na rzecz organizacji kosmicznych na całym świecie, zajmującą się promowaniem ludzkiej eksploracji i osadnictwa na planecie Mars.
+* [Mars Society](https://www.marssociety.org/) - jest amerykańską organizacją non-profit działającą za pomocą wolontariatu, działającą na rzecz organizacji kosmicznych na całym świecie, zajmującą się promowaniem ludzkiej eksploracji i osadnictwa na planecie Mars.
 
-[Astronomy](https://astronomy.com/) - (ISSN 0091-6358) to miesięcznik amerykański o astronomii.
+* [Astronomy](https://astronomy.com/) - (ISSN 0091-6358) to miesięcznik amerykański o astronomii.
 
-[S&T](https://skyandtelescope.org/) - Sky & Telescope to miesięcznik amerykański, obejmujący wszystkie aspekty astronomii amatorskiej.
+* [S&T](https://skyandtelescope.org/) - Sky & Telescope to miesięcznik amerykański, obejmujący wszystkie aspekty astronomii amatorskiej.
 
-[CERN](https://home.cern/) - Europejska Organizacja Badań Jądrowych jest największym na świecie laboratorium fizyki cząstek elementarnych.
+* [CERN](https://home.cern/) - Europejska Organizacja Badań Jądrowych jest największym na świecie laboratorium fizyki cząstek elementarnych.
 
 # Citizen science - nauka obywatelska
 
@@ -181,9 +209,9 @@ Citizen science (z [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science)) t
 
 ## Zooniverse
 
-[Zooniverse](https://www.zooniverse.org/) (strona) - to portal nauki obywatelskiej będący własnością i wspierany przez Citizen Science Alliance
+* [Zooniverse](https://www.zooniverse.org/) (strona) - to portal nauki obywatelskiej będący własnością i wspierany przez Citizen Science Alliance
 
-[Repozytorium Zooniverse na GitHub](https://github.com/zooniverse) - Repozytoria Zooniverse w serwisie GitHub
+* [Repozytorium Zooniverse na GitHub](https://github.com/zooniverse) - Repozytoria Zooniverse w serwisie GitHub
 
 (wybrane projekty z działu Space & Physics):
 
@@ -212,21 +240,21 @@ Citizen science (z [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science)) t
 
 # Źródła artykułów naukowych
 
-[arXiv](https://arxiv.org/) - elektroniczne archiwum naukowych preprintów. Gromadzi artykuły z następujących dziedzin: fizyki z astronomią, matematyki, informatyki, statystyki i biologii (quantitative biology) i matematyki finansowej
+* [arXiv](https://arxiv.org/) - elektroniczne archiwum naukowych preprintów. Gromadzi artykuły z następujących dziedzin: fizyki z astronomią, matematyki, informatyki, statystyki i biologii (quantitative biology) i matematyki finansowej
 
-[ADS](https://ui.adsabs.harvard.edu/) - Astrophysics Data System to internetowa baza danych zawierająca ponad osiem milionów artykułów astronomicznych i fizycznych z recenzowanych i nierecenzowanych źródeł.
+* [ADS](https://ui.adsabs.harvard.edu/) - Astrophysics Data System to internetowa baza danych zawierająca ponad osiem milionów artykułów astronomicznych i fizycznych z recenzowanych i nierecenzowanych źródeł.
 
-[ResearchGate](https://www.researchgate.net/) - to europejski komercyjny portal społecznościowy dla naukowców i badaczy, umożliwiający dzielenie się artykułami, zadawanie pytań i udzielanie odpowiedzi oraz znajdowanie współpracowników.
+* [ResearchGate](https://www.researchgate.net/) - to europejski komercyjny portal społecznościowy dla naukowców i badaczy, umożliwiający dzielenie się artykułami, zadawanie pytań i udzielanie odpowiedzi oraz znajdowanie współpracowników.
 
 # Narzędzia
 
-[FITS](https://en.wikipedia.org/wiki/FITS) - Flexible Image Transport System (FITS) to otwarty standard definiujący cyfrowy format pliku przydatny do przechowywania, przesyłania i przetwarzania danych: sformatowany jako tablice wielowymiarowe (na przykład obraz 2D) lub tabele (rozszerzenia nazw plików: .fits, .fit, .fts).
+* [FITS](https://en.wikipedia.org/wiki/FITS) - Flexible Image Transport System (FITS) to otwarty standard definiujący cyfrowy format pliku przydatny do przechowywania, przesyłania i przetwarzania danych: sformatowany jako tablice wielowymiarowe (na przykład obraz 2D) lub tabele (rozszerzenia nazw plików: .fits, .fit, .fts).
 
-[LaTeX](https://en.wikipedia.org/wiki/LaTeX) - to system przygotowania dokumentów.
+* [LaTeX](https://en.wikipedia.org/wiki/LaTeX) - to system przygotowania dokumentów.
 
-[Python](https://www.python.org/) - jest interpretowanym, wysokopoziomowym językiem programowania ogólnego przeznaczenia.
+* [Python](https://www.python.org/) - jest interpretowanym, wysokopoziomowym językiem programowania ogólnego przeznaczenia.
 
-[R](https://www.r-project.org/) - to język programowania i środowisko wolnego oprogramowania do obliczeń statystycznych i grafiki wspierane przez R Foundation for Statistics Computing.
+* [R](https://www.r-project.org/) - to język programowania i środowisko wolnego oprogramowania do obliczeń statystycznych i grafiki wspierane przez R Foundation for Statistics Computing.
 
 # Media społecznościowe & grupy
 
