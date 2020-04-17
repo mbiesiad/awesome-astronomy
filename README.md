@@ -30,6 +30,8 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 * [Asteroids](#asteroids)
 * [Sun](#sun)
 * [The Moon](#the-moon)
+* [Experiments](#experiments)
+* [Observatories](#observatories)
 * [Society](#society)
 * [Citizen science](#citizen-science)
 * [Sources for scientific papers](#sources-for-scientific-papers)
@@ -121,7 +123,15 @@ _____________________________________________________
 
 > _A full moon captured July 18, 2008. Credit: NASA/Sean Smith https://asd.gsfc.nasa.gov/blueshift/index.php/2015/02/12/no-mardi-gras-under-a-full-moon/_
 
-[Moon Society](https://www.moonsociety.org/) - is a space advocacy organization, founded in 2000, and dedicated to promoting large-scale human exploration, research, and settlement of the Moon.
+[Moon Society](https://www.moonsociety.org/) - space advocacy organization, founded in 2000, and dedicated to promoting large-scale human exploration, research, and settlement of the Moon.
+
+# Experiments
+
+* [LIGO](https://www.ligo.caltech.edu/) - large-scale physics experiment and observatory to detect cosmic gravitational waves and to develop gravitational-wave observations as an astronomical tool.
+
+# Observatories
+
+* [VO](http://ivoa.net/) - Virtual observatory. Collection of interoperating data archives and software tools which utilize the internet to form a scientific research environment in which astronomical research programs can be conducted. 
 
 # Society
 
