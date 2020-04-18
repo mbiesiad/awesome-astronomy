@@ -131,6 +131,8 @@ _____________________________________________________
 
 * [LIGO](https://www.ligo.caltech.edu/) - large-scale physics experiment and observatory to detect cosmic gravitational waves and to develop gravitational-wave observations as an astronomical tool.
 
+* [ET](http://www.et-gw.eu/) - Einstein Telescope (ET) or Einstein Observatory, is a proposed third-generation ground-based gravitational wave detector, currently under study by some institutions in the European Union.
+
 # Observatories
 
 * [VO](http://ivoa.net/) - Virtual observatory. Collection of interoperating data archives and software tools which utilize the internet to form a scientific research environment in which astronomical research programs can be conducted.
