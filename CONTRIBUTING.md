@@ -16,4 +16,6 @@ If you want add or improve something - just make a fork & PR, fell free.
 
 For translations please make other branch for your changes & before PR (ie. for Spain will be: es_ES etc).
 
+See here (example): [awesome-astronomy](https://github.com/mbiesiad/awesome-astronomy) and here: [awesome-astronomy-pl_PL](https://github.com/mbiesiad/awesome-astronomy/tree/pl_PL)
+
 If you want, you can also add 'Translated by:' (ie. @JohnSmith) with link to your GitHub account or Twitter handle. Thank you!
