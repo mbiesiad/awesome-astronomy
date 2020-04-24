@@ -10,7 +10,7 @@
 
 
 
-A curated list of assets availible on the Internet related to astronomy.
+A curated list of assets available on the Internet related to the astronomy.
 
 As you know, that's a large field of science, so any contribution is warmly welcome!
 
