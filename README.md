@@ -37,6 +37,7 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 * [Society](#society)
 * [Citizen science](#citizen-science)
 * [Sources for scientific papers](#sources-for-scientific-papers)
+* [Awesome links](#awesome-links)
 * [Code of Conduct](#code-of-conduct)
 * [Contributing](#contributing)
 * [License](#license)
@@ -300,6 +301,14 @@ Astro groups on Facebook, Yahoo or groups.io etc
 ## Groups
 
 * Comets and Asteroids Group (Facebook) - [link](https://www.facebook.com/groups/1454757177944714/)
+
+# Awesome links
+
+Other awesome links!
+
+* [SpaceX](https://www.spacex.com/) - is a private American aerospace manufacturer and space transportation services company headquartered in Hawthorne, California. It was founded in 2002 by Elon Musk with the goal of reducing space transportation costs to enable the colonization of Mars. SpaceX has developed several launch vehicles and the Dragon spacecraft. 
+* [BRITE-PL](http://www.brite-pl.pl/) - Heweliusz (also called BRITE-PL) is the second Polish scientific satellite launched in 2014 as part of the Bright-star Target Explorer (BRITE) programme. The spacecraft was launched aboard a Chang Zheng 4B rocket in August 2014.
+* [BRITE-Constellation](https://brite-constellation.at/) - BRITE (BRIght Target Explorer) Constellation is a network of five nanosatellites to investigate stellar structure and evolution of the brightest stars in the sky and their interaction with the local environment.
 
 # Contributing
 
