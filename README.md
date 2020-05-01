@@ -37,6 +37,9 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 * [Society](#society)
 * [Citizen science](#citizen-science)
 * [Sources for scientific papers](#sources-for-scientific-papers)
+* [Databases](#databases)
+* [Tools](#tools)
+* [Social media & groups](#social-media--groups)
 * [Awesome links](#awesome-links)
 * [Code of Conduct](#code-of-conduct)
 * [Contributing](#contributing)
@@ -246,6 +249,10 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 * [ADS](https://ui.adsabs.harvard.edu/) - Astrophysics Data System is an online database of over eight million astronomy and physics papers from both peer reviewed and non-peer reviewed sources.
 
 * [ResearchGate](https://www.researchgate.net/) - is a European commercial social networking site for scientists and researchers to share papers, ask and answer questions, and find collaborators.
+
+# Databases
+
+
 
 # Tools
 
