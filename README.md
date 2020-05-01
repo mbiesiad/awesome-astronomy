@@ -252,7 +252,7 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 
 # Databases
 
-
+* [NASA/IPAC Extragalactic Database](http://ned.ipac.caltech.edu/)
 
 # Tools
 
