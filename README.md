@@ -325,6 +325,10 @@ Other awesome links!
 
 Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) first.
 
+# Conferences
+
+* [waset.org - astronomy](https://waset.org/astronomy-conferences) - is an indexed listing of upcoming meetings, seminars, congresses, workshops, programs, continuing CME courses, trainings, summits, and weekly, annual or monthly symposiums
+
 # Code of Conduct
 
 Examples of behavior that contributes to creating a positive environment include:
