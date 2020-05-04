@@ -314,6 +314,7 @@ Astro groups on Facebook, Yahoo or groups.io etc
 Other awesome links!
 
 * [SpaceX](https://www.spacex.com/) - is a private American aerospace manufacturer and space transportation services company headquartered in Hawthorne, California. It was founded in 2002 by Elon Musk with the goal of reducing space transportation costs to enable the colonization of Mars. SpaceX has developed several launch vehicles and the Dragon spacecraft. 
+* [Starlink](https://www.starlink.com/) - is a satellite constellation being constructed by SpaceX to provide satellite Internet access.
 * [BRITE-PL](http://www.brite-pl.pl/) - Heweliusz (also called BRITE-PL) is the second Polish scientific satellite launched in 2014 as part of the Bright-star Target Explorer (BRITE) programme. The spacecraft was launched aboard a Chang Zheng 4B rocket in August 2014.
 * [BRITE-Constellation](https://brite-constellation.at/) - BRITE (BRIght Target Explorer) Constellation is a network of five nanosatellites to investigate stellar structure and evolution of the brightest stars in the sky and their interaction with the local environment.
 
