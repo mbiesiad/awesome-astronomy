@@ -41,6 +41,7 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 * [Tools](#tools)
 * [Social media & groups](#social-media--groups)
 * [Awesome links](#awesome-links)
+* [Conferences](#conferences)
 * [Code of Conduct](#code-of-conduct)
 * [Contributing](#contributing)
 * [License](#license)
