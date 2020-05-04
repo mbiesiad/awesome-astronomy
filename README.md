@@ -322,13 +322,13 @@ Other awesome links!
 * [consensys.space](https://www.consensys.space/) - Open Source Space
 * [University Rover Challenge](http://urc.marssociety.org/) - is a robotics competition for university level students that challenges teams to design and build a rover that would be of use to early explorers on Mars
 
-# Contributing
-
-Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) first.
-
 # Conferences
 
 * [waset.org - astronomy](https://waset.org/astronomy-conferences) - is an indexed listing of upcoming meetings, seminars, congresses, workshops, programs, continuing CME courses, trainings, summits, and weekly, annual or monthly symposiums
+
+# Contributing
+
+Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) first.
 
 # Code of Conduct
 
