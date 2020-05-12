@@ -321,6 +321,7 @@ Other awesome links!
 * [PlanetaryResources](https://github.com/PlanetaryResources) - repo on GitHub and [page](https://www.planetaryresources.com/)
 * [consensys.space](https://www.consensys.space/) - Open Source Space
 * [University Rover Challenge](http://urc.marssociety.org/) - is a robotics competition for university level students that challenges teams to design and build a rover that would be of use to early explorers on Mars
+* [KRAKsat](https://www.kraksat.pl/space/) - Satellite build by the team has docked to International Space Station with Cygnus spaceship
 
 # Conferences
 
