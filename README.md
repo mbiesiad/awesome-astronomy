@@ -322,6 +322,8 @@ Other awesome links!
 * [consensys.space](https://www.consensys.space/) - Open Source Space
 * [University Rover Challenge](http://urc.marssociety.org/) - is a robotics competition for university level students that challenges teams to design and build a rover that would be of use to early explorers on Mars
 * [KRAKsat](https://www.kraksat.pl/space/) - Satellite build by the team has docked to International Space Station with Cygnus spaceship
+* [Scorpio](http://www.scorpio.pwr.edu.pl/language/en/project-scorpio/) - Scorpio rovers family
+* [Space is More](https://www.spaceismore.com/) - is a research team focused on space architecture and engineering
 
 # Conferences
 
