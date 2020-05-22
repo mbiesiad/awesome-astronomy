@@ -324,6 +324,9 @@ Other awesome links!
 * [KRAKsat](https://www.kraksat.pl/space/) - Satellite build by the team has docked to International Space Station with Cygnus spaceship
 * [Scorpio](http://www.scorpio.pwr.edu.pl/language/en/project-scorpio/) - Scorpio rovers family
 * [Space is More](https://www.spaceismore.com/) - is a research team focused on space architecture and engineering
+* [Messier marathon](https://en.wikipedia.org/wiki/Messier_marathon) - is an attempt, usually organized by amateur astronomers, to find as many Messier objects as possible during one night
+* [SEDS USA](https://seds.org/) - Students for the Exploration and Development of Space is an international student organization whose purpose is to promote space exploration and development through educational and engineering projects
+* [The Virgo experiment](http://www.virgo-gw.eu/) - is a large interferometer designed to detect gravitational waves predicted by the general theory of relativity
 
 # Conferences
 
