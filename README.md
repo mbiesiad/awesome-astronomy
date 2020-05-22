@@ -126,6 +126,8 @@ _____________________________________________________
 
 * [LASCO](https://lasco-www.nrl.navy.mil/index.php?p=content/about_lasco) - The Large Angle and Spectrometric Coronagraph
 
+* [SWAN](http://swan.projet.latmos.ipsl.fr/) - The SWAN Instrument is designed to observe the solar Lyman alpha photons (121.6 nm) backscattered by the neutral hydrogen atoms present in the interplanetary medium
+
 # The Moon
 
 ![Moon-Nasa](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/moon-nasa.png)
