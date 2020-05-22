@@ -263,6 +263,8 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 
 * [FITS](https://en.wikipedia.org/wiki/FITS) - Flexible Image Transport System (FITS) is an open standard defining a digital file format useful for storage, transmission and processing of data: formatted as multi-dimensional arrays (for example a 2D image), or tables (Filename extensions: .fits, .fit, .fts).
 
+* [Fitswork](https://www.fitswork.de/software/softw_en.php) - is a windows image processing program, mainly designed for astronomic purposes
+
 * [LaTeX](https://en.wikipedia.org/wiki/LaTeX) - is a document preparation system.
 
 * [Python](https://www.python.org/) - is an interpreted, high-level, general-purpose programming language.
