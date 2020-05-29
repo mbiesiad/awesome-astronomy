@@ -128,6 +128,14 @@ _____________________________________________________
 
 * [SWAN](http://swan.projet.latmos.ipsl.fr/) - The SWAN Instrument is designed to observe the solar Lyman alpha photons (121.6 nm) backscattered by the neutral hydrogen atoms present in the interplanetary medium
 
+* [sdac.virtualsolar.org](https://sdac.virtualsolar.org/cgi/search)
+
+* [Max-Planck Institute for Solar System Research - correlated](https://star.mps.mpg.de/sunrise/) - A mission to study the structure and dynamics of the solar magnetic field
+
+* [star.mpae.gwdg.de](http://star.mpae.gwdg.de/) - Max Planck Institute for solar system research, solar and stellar coronae group
+
+* [mps.mpg.de](https://www.mps.mpg.de/solar-physics) - Max Planck Institute for solar system research
+
 # The Moon
 
 ![Moon-Nasa](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/moon-nasa.png)
