@@ -346,7 +346,7 @@ Other awesome links!
 * [SEDS USA](https://seds.org/) - Students for the Exploration and Development of Space is an international student organization whose purpose is to promote space exploration and development through educational and engineering projects
 * [The Virgo experiment](http://www.virgo-gw.eu/) - is a large interferometer designed to detect gravitational waves predicted by the general theory of relativity
 * [SpaceWeather](https://www.spaceweather.com/) - news and information about the Sun-Earth environment
-* [Space weather prediction center](https://www.swpc.noaa.gov/) - Space weather prediction center, national oceanic and atmospheric administration
+* [SWPC](https://www.swpc.noaa.gov/) - Space Weather Prediction Center, National Oceanic and Atmospheric Administration
 
 # Conferences
 
