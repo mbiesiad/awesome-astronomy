@@ -66,6 +66,8 @@ _____________________________________________________
 
 * [HUBBLE SPACE TELESCOPE](https://hubblesite.org/) - is a space telescope that was launched into low Earth orbit in 1990 and remains in operation.
 
+* [NASCOM](https://sohowww.nascom.nasa.gov/) - The NASA (Ground) Communications System (NASCOM) manages terrestrial communications between ground stations, mission control centers, and other elements of spacecraft ground segments, providing worldwide, near real-time transmission of commands, telemetry, voice, and television signals. It is managed out of NASA's Goddard Space Flight Center in Greenbelt, Maryland.
+
 # ESA 
 
 * [ESA](https://www.esa.int/) (website) - The European Space Agency is an intergovernmental organisation of 22 member states dedicated to the exploration of space.
@@ -135,6 +137,8 @@ _____________________________________________________
 * [star.mpae.gwdg.de](http://star.mpae.gwdg.de/) - Max Planck Institute for solar system research, solar and stellar coronae group
 
 * [mps.mpg.de](https://www.mps.mpg.de/solar-physics) - Max Planck Institute for solar system research
+
+* [SDAC](https://umbra.nascom.nasa.gov/index.html/) - Solar Data Analysis Center
 
 # The Moon
 
@@ -342,6 +346,7 @@ Other awesome links!
 * [SEDS USA](https://seds.org/) - Students for the Exploration and Development of Space is an international student organization whose purpose is to promote space exploration and development through educational and engineering projects
 * [The Virgo experiment](http://www.virgo-gw.eu/) - is a large interferometer designed to detect gravitational waves predicted by the general theory of relativity
 * [SpaceWeather](https://www.spaceweather.com/) - news and information about the Sun-Earth environment
+* [Space weather prediction center](https://www.swpc.noaa.gov/) - Space weather prediction center, national oceanic and atmospheric administration
 
 # Conferences
 
