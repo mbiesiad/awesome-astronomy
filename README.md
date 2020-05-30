@@ -108,7 +108,7 @@ _____________________________________________________
 
 * [ICQ](http://www.icq.eps.harvard.edu/) - Comet Information and the International Comet Quarterly (ICQ).
 
-* [MPC](https://www.minorplanetcenter.net/iau/mpc.html) - The MPC is responsible for the designation of minor bodies in the solar system: minor planets; comets; and natural satellites.
+* [MPC](https://www.minorplanetcenter.net/iau/mpc.html) - The MPC is responsible for the designation of minor bodies in the solar system: minor planets, comets, and natural satellites.
 
 # Asteroids
 
