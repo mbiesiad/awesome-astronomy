@@ -231,28 +231,28 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 
 (selected Space & Physics projects):
 
-* Galaxy Zoo [(website)](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo)
-* Variable Star Zoo [(website)](https://www.zooniverse.org/projects/ilacerna/variable-star-zoo)
-* SuperWASP Variable Stars [(website)](https://www.zooniverse.org/projects/ajnorton/superwasp-variable-stars)
-* Planet Hunters TESS [(website)](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess)
-* Muon Hunters 2.0 [(website)](https://www.zooniverse.org/projects/dwright04/muon-hunters-2-dot-0)
-* Hubble Asteroid Hunter [(website)](https://www.zooniverse.org/projects/sandorkruk/hubble-asteroid-hunter)
-* Galaxy Zoo Mobile [(website)](https://www.zooniverse.org/projects/mikewalmsley/galaxy-zoo-mobile)
-* Solar Stormwatch II [(website)](https://www.zooniverse.org/projects/shannon-/solar-stormwatch-ii)
-* Backyard Worlds: Planet 9 [(website)](https://www.zooniverse.org/projects/marckuchner/backyard-worlds-planet-9)
-* Gravity Spy [(website)](https://www.zooniverse.org/projects/zooniverse/gravity-spy)
-* Radio Meteor Zoo [(website)](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo)
-* Comet Hunters [(website)](https://www.zooniverse.org/projects/mschwamb/comet-hunters)
-* Pulsar Hunters [(website)](https://www.zooniverse.org/projects/zooniverse/pulsar-hunters)
-* Supernova Hunters [(website)](https://www.zooniverse.org/projects/dwright04/supernova-hunters)
-* Disk Detective [(website)](https://www.diskdetective.org/#/)
-* Planet Hunters TESS [(website)](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess#/)
-* Higgs Hunters [(website)](https://www.higgshunters.org/#/)
-* Galaxy Zoo: Bar Lengths [(website)](https://www.zooniverse.org/projects/vrooje/galaxy-zoo-bar-lengths)
-* Milky Way Project [(website)](https://www.zooniverse.org/projects/povich/milky-way-project)
-* Radio Galaxy Zoo [(website)](https://radio.galaxyzoo.org/#/)
-* Astronomy Rewind [(website)](https://www.zooniverse.org/projects/zooniverse/astronomy-rewind)
-* Radio Meteor Zoo [(website)](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo)
+* Galaxy Zoo [(website)](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo) - Zooniverse project.
+* Variable Star Zoo [(website)](https://www.zooniverse.org/projects/ilacerna/variable-star-zoo) - Zooniverse project.
+* SuperWASP Variable Stars [(website)](https://www.zooniverse.org/projects/ajnorton/superwasp-variable-stars) - Zooniverse project.
+* Planet Hunters TESS [(website)](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess) - Zooniverse project.
+* Muon Hunters 2.0 [(website)](https://www.zooniverse.org/projects/dwright04/muon-hunters-2-dot-0) - Zooniverse project.
+* Hubble Asteroid Hunter [(website)](https://www.zooniverse.org/projects/sandorkruk/hubble-asteroid-hunter) - Zooniverse project.
+* Galaxy Zoo Mobile [(website)](https://www.zooniverse.org/projects/mikewalmsley/galaxy-zoo-mobile) - Zooniverse project.
+* Solar Stormwatch II [(website)](https://www.zooniverse.org/projects/shannon-/solar-stormwatch-ii) - Zooniverse project.
+* Backyard Worlds: Planet 9 [(website)](https://www.zooniverse.org/projects/marckuchner/backyard-worlds-planet-9) - Zooniverse project.
+* Gravity Spy [(website)](https://www.zooniverse.org/projects/zooniverse/gravity-spy) - Zooniverse project.
+* Radio Meteor Zoo [(website)](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo) - Zooniverse project.
+* Comet Hunters [(website)](https://www.zooniverse.org/projects/mschwamb/comet-hunters) - Zooniverse project.
+* Pulsar Hunters [(website)](https://www.zooniverse.org/projects/zooniverse/pulsar-hunters) - Zooniverse project.
+* Supernova Hunters [(website)](https://www.zooniverse.org/projects/dwright04/supernova-hunters) - Zooniverse project.
+* Disk Detective [(website)](https://www.diskdetective.org/#/) - Zooniverse project.
+* Planet Hunters TESS [(website)](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess#/) - Zooniverse project.
+* Higgs Hunters [(website)](https://www.higgshunters.org/#/) - Zooniverse project.
+* Galaxy Zoo: Bar Lengths [(website)](https://www.zooniverse.org/projects/vrooje/galaxy-zoo-bar-lengths) - Zooniverse project.
+* Milky Way Project [(website)](https://www.zooniverse.org/projects/povich/milky-way-project) - Zooniverse project.
+* Radio Galaxy Zoo [(website)](https://radio.galaxyzoo.org/#/) - Zooniverse project.
+* Astronomy Rewind [(website)](https://www.zooniverse.org/projects/zooniverse/astronomy-rewind) - Zooniverse project.
+* Radio Meteor Zoo [(website)](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo) - Zooniverse project.
 
 # Sources for scientific papers
 
@@ -284,40 +284,40 @@ Astro groups on Facebook, Yahoo or groups.io etc.
 
 ## Twitter
 
-* [TheMarsSociety](https://twitter.com/TheMarsSociety)
-* [ATLAS Project](https://twitter.com/fallingstarIfA)
-* [NASA_DEVELOP](https://twitter.com/NASA_DEVELOP)
-* [ASAS-SN](https://twitter.com/SuperASASSN)
-* [NASA Supercomputing](https://twitter.com/NASA_Supercomp)
-* [NASA People](https://twitter.com/NASApeople)
-* [NASA Goddard Images](https://twitter.com/NASAGoddardPix)
-* [NASA HQ PHOTO](https://twitter.com/nasahqphoto)
-* [NASA Marshall](https://twitter.com/NASA_Marshall)
-* [ATel](https://twitter.com/astronomerstel)
-* [NASA Tournament Lab](https://twitter.com/NASA_NTL)
-* [ESA EarthObservation](https://twitter.com/ESA_EO)
-* [ESA Exhibitions](https://twitter.com/ESAExhibitions)
-* [Astronomy Magazine](https://twitter.com/AstronomyMag)
-* [Sky & Telescope](https://twitter.com/SkyandTelescope)
-* [NASA Earth](https://twitter.com/NASAEarth)
-* [NASA Ice](https://twitter.com/NASA_ICE)
-* [NASA Climate](https://twitter.com/NASAClimate)
-* [CERN](https://twitter.com/CERN)
-* [Scientific American](https://twitter.com/sciam)
-* [NASA JPL](https://twitter.com/NASAJPL)
-* [NASA's Kennedy Space Center](https://twitter.com/NASAKennedy)
-* [LIGO](https://twitter.com/LIGO)
-* [NASA Glenn Research](https://twitter.com/NASAglenn)
-* [ESA Science](https://twitter.com/esascience)
-* [ESA Operations](https://twitter.com/esaoperations)
-* [NASA Solar System](https://twitter.com/NASASolarSystem)
-* [NASA Astronauts](https://twitter.com/NASA_Astronauts)
-* [Pan-STARRS1 NEOwatch](https://twitter.com/PS1NEOwatch)
+* [TheMarsSociety](https://twitter.com/TheMarsSociety) - Twitter handle.
+* [ATLAS Project](https://twitter.com/fallingstarIfA) - Twitter handle.
+* [NASA_DEVELOP](https://twitter.com/NASA_DEVELOP) - Twitter handle.
+* [ASAS-SN](https://twitter.com/SuperASASSN) - Twitter handle.
+* [NASA Supercomputing](https://twitter.com/NASA_Supercomp) - Twitter handle.
+* [NASA People](https://twitter.com/NASApeople) - Twitter handle.
+* [NASA Goddard Images](https://twitter.com/NASAGoddardPix) - Twitter handle.
+* [NASA HQ PHOTO](https://twitter.com/nasahqphoto) - Twitter handle.
+* [NASA Marshall](https://twitter.com/NASA_Marshall) - Twitter handle.
+* [ATel](https://twitter.com/astronomerstel) - Twitter handle.
+* [NASA Tournament Lab](https://twitter.com/NASA_NTL) - Twitter handle.
+* [ESA EarthObservation](https://twitter.com/ESA_EO) - Twitter handle.
+* [ESA Exhibitions](https://twitter.com/ESAExhibitions) - Twitter handle.
+* [Astronomy Magazine](https://twitter.com/AstronomyMag) - Twitter handle.
+* [Sky & Telescope](https://twitter.com/SkyandTelescope) - Twitter handle.
+* [NASA Earth](https://twitter.com/NASAEarth) - Twitter handle.
+* [NASA Ice](https://twitter.com/NASA_ICE) - Twitter handle.
+* [NASA Climate](https://twitter.com/NASAClimate) - Twitter handle.
+* [CERN](https://twitter.com/CERN) - Twitter handle.
+* [Scientific American](https://twitter.com/sciam) - Twitter handle.
+* [NASA JPL](https://twitter.com/NASAJPL) - Twitter handle.
+* [NASA's Kennedy Space Center](https://twitter.com/NASAKennedy) - Twitter handle.
+* [LIGO](https://twitter.com/LIGO) - Twitter handle.
+* [NASA Glenn Research](https://twitter.com/NASAglenn) - Twitter handle.
+* [ESA Science](https://twitter.com/esascience) - Twitter handle.
+* [ESA Operations](https://twitter.com/esaoperations) - Twitter handle.
+* [NASA Solar System](https://twitter.com/NASASolarSystem) - Twitter handle.
+* [NASA Astronauts](https://twitter.com/NASA_Astronauts) - Twitter handle.
+* [Pan-STARRS1 NEOwatch](https://twitter.com/PS1NEOwatch) - Twitter handle.
 
 ## Facebook
 
-* Comets and Asteroids - [page](https://www.facebook.com/Comets-and-Asteroids-140234731687/).
-* The Moon Appreciation Society - [page](https://www.facebook.com/MoonAppSoc/).
+* Comets and Asteroids - Facebook [page](https://www.facebook.com/Comets-and-Asteroids-140234731687/).
+* The Moon Appreciation Society - Facebook [page](https://www.facebook.com/MoonAppSoc/).
 
 ## Groups
 
