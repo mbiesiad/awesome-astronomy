@@ -46,21 +46,13 @@ _____________________________________________________
 # NASA
 
 * [NASA](https://www.nasa.gov/) - The National Aeronautics and Space Administration (website).
-
 * [APOD](https://apod.nasa.gov/apod/astropix.html) - Astronomy Picture of the Day (website).
-
 * [DEVELOP](https://develop.larc.nasa.gov/) - A NASA Applied Sciences Program.
-
 * [NASA Supercomputing](https://www.nas.nasa.gov/SC18/) - NASA supercomputers.
-
 * [NASApeople](https://www.nasa.gov/careers) - NASA' career.
-
 * [NASA Earth](https://www.nasa.gov/topics/earth/index.html) - NASA about the Earth and lives.
-
 * [NASA Climate](https://climate.nasa.gov/) - NASA about the climate.
-
 * [HUBBLE SPACE TELESCOPE](https://hubblesite.org/) - A space telescope.
-
 * [NASCOM](https://sohowww.nascom.nasa.gov/) - The NASA (Ground) Communications System (NASCOM).
 
 # ESA 
