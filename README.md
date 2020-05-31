@@ -1,4 +1,4 @@
-# awesome-astronomy
+# Awesome Astronomy
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
@@ -54,7 +54,7 @@ _____________________________________________________
 
 * [APOD](https://apod.nasa.gov/apod/astropix.html) (website) - Astronomy Picture of the Day.
 
-* [DEVELOP](https://develop.larc.nasa.gov/) - is a NASA Applied Sciences Program that conducts research projects applying NASA Earth observations to environmental policy issues around the globe.
+* [DEVELOP](https://develop.larc.nasa.gov/) - A NASA Applied Sciences Program that conducts research projects applying NASA Earth observations to environmental policy issues around the globe.
 
 * [NASA Supercomputing](https://www.nas.nasa.gov/SC18/) - NASA supercomputers enable scientific discoveries and engineering triumphs for missions in aeronautics, Earth and space science, & exploration of the universe.
 
@@ -64,7 +64,7 @@ _____________________________________________________
 
 * [NASA Climate](https://climate.nasa.gov/) - "Rocket science isn't enough; we're climate scientists, too".
 
-* [HUBBLE SPACE TELESCOPE](https://hubblesite.org/) - is a space telescope that was launched into low Earth orbit in 1990 and remains in operation.
+* [HUBBLE SPACE TELESCOPE](https://hubblesite.org/) - A space telescope that was launched into low Earth orbit in 1990 and remains in operation.
 
 * [NASCOM](https://sohowww.nascom.nasa.gov/) - The NASA (Ground) Communications System (NASCOM) manages terrestrial communications between ground stations, mission control centers, and other elements of spacecraft ground segments, providing worldwide, near real-time transmission of commands, telemetry, voice, and television signals. It is managed out of NASA's Goddard Space Flight Center in Greenbelt, Maryland.
 
@@ -78,7 +78,7 @@ _____________________________________________________
 
 * [ESA Operations](http://www.esa.int/Enabling_Support/Operations) - From Earth orbit to deep space: sharing the excitement of realtime mission operations at the European Space Agency.
 
-* [ESAC](http://www.esa.int/About_Us/ESAC) - is the ESA's centre for space science (astronomy, solar system exploration and fundamental physics).
+* [ESAC](http://www.esa.int/About_Us/ESAC) - The ESA's centre for space science (astronomy, solar system exploration and fundamental physics).
 
 # Other Governments' Agences
 
@@ -146,11 +146,11 @@ _____________________________________________________
 
 > _A full moon captured July 18, 2008. Credit: NASA/Sean Smith https://asd.gsfc.nasa.gov/blueshift/index.php/2015/02/12/no-mardi-gras-under-a-full-moon/_
 
-* [Moon Society](https://www.moonsociety.org/) - space advocacy organization, founded in 2000, and dedicated to promoting large-scale human exploration, research, and settlement of the Moon.
+* [Moon Society](https://www.moonsociety.org/) - Space advocacy organization, founded in 2000, and dedicated to promoting large-scale human exploration, research, and settlement of the Moon.
 
 # Experiments
 
-* [LIGO](https://www.ligo.caltech.edu/) - large-scale physics experiment and observatory to detect cosmic gravitational waves and to develop gravitational-wave observations as an astronomical tool.
+* [LIGO](https://www.ligo.caltech.edu/) - Large-scale physics experiment and observatory to detect cosmic gravitational waves and to develop gravitational-wave observations as an astronomical tool.
 
 * [ET](http://www.et-gw.eu/) - Einstein Telescope (ET) or Einstein Observatory, is a proposed third-generation ground-based gravitational wave detector, currently under study by some institutions in the European Union.
 
@@ -208,13 +208,13 @@ Astronomy-related societies, organisations etc on the world.
 
 * [ESO](https://www.eso.org/public/) - The European Organisation for Astronomical Research in the Southern Hemisphere, is a 16-nation intergovernmental research organisation for ground-based astronomy.
 
-* [Mars Society](https://www.marssociety.org/) - is an American worldwide volunteer-driven space-advocacy non-profit organization dedicated to promoting the human exploration and settlement of the planet Mars.
+* [Mars Society](https://www.marssociety.org/) - An American worldwide volunteer-driven space-advocacy non-profit organization dedicated to promoting the human exploration and settlement of the planet Mars.
 
 * [Astronomy](https://astronomy.com/) - (ISSN 0091-6358) is a monthly American magazine about astronomy.
 
 * [S&T](https://skyandtelescope.org/) - Sky & Telescope is a monthly American magazine covering all aspects of amateur astronomy.
 
-* [CERN](https://home.cern/) - the European Organization for Nuclear Research, is the world's largest particle physics lab.
+* [CERN](https://home.cern/) - The European Organization for Nuclear Research, is the world's largest particle physics lab.
 
 # Citizen science
 
@@ -230,7 +230,7 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 
 ## Zooniverse
 
-* [Zooniverse](https://www.zooniverse.org/) (website) - is a citizen science web portal owned and operated by the Citizen Science Alliance.
+* [Zooniverse](https://www.zooniverse.org/) (website) - A citizen science web portal owned and operated by the Citizen Science Alliance.
 
 * [Zooniverse repo on GitHub](https://github.com/zooniverse) - Zooniverse' repositories on the GitHub.
 
@@ -261,11 +261,11 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 
 # Sources for scientific papers
 
-* [arXiv](https://arxiv.org/) - is a free distribution service and an open-access archive for scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. 
+* [arXiv](https://arxiv.org/) - A free distribution service and an open-access archive for scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. 
 
 * [ADS](https://ui.adsabs.harvard.edu/) - Astrophysics Data System is an online database of over eight million astronomy and physics papers from both peer reviewed and non-peer reviewed sources.
 
-* [ResearchGate](https://www.researchgate.net/) - is a European commercial social networking site for scientists and researchers to share papers, ask and answer questions, and find collaborators.
+* [ResearchGate](https://www.researchgate.net/) - A European commercial social networking site for scientists and researchers to share papers, ask and answer questions, and find collaborators.
 
 # Databases
 
@@ -275,13 +275,13 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 
 * [FITS](https://en.wikipedia.org/wiki/FITS) - Flexible Image Transport System (FITS) is an open standard defining a digital file format useful for storage, transmission and processing of data: formatted as multi-dimensional arrays (for example a 2D image), or tables (Filename extensions: .fits, .fit, .fts).
 
-* [Fitswork](https://www.fitswork.de/software/softw_en.php) - is a windows image processing program, mainly designed for astronomic purposes.
+* [Fitswork](https://www.fitswork.de/software/softw_en.php) - A windows image processing program, mainly designed for astronomic purposes.
 
-* [LaTeX](https://en.wikipedia.org/wiki/LaTeX) - is a document preparation system.
+* [LaTeX](https://en.wikipedia.org/wiki/LaTeX) - A document preparation system.
 
-* [Python](https://www.python.org/) - is an interpreted, high-level, general-purpose programming language.
+* [Python](https://www.python.org/) - An interpreted, high-level, general-purpose programming language.
 
-* [R](https://www.r-project.org/) - is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing.
+* [R](https://www.r-project.org/) - Programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing.
 
 # Social media & groups
 
@@ -332,20 +332,20 @@ Astro groups on Facebook, Yahoo or groups.io etc.
 
 Other awesome links!
 
-* [SpaceX](https://www.spacex.com/) - is a private American aerospace manufacturer and space transportation services company headquartered in Hawthorne, California. It was founded in 2002 by Elon Musk with the goal of reducing space transportation costs to enable the colonization of Mars. SpaceX has developed several launch vehicles and the Dragon spacecraft. 
-* [Starlink](https://www.starlink.com/) - is a satellite constellation being constructed by SpaceX to provide satellite Internet access.
+* [SpaceX](https://www.spacex.com/) - A private American aerospace manufacturer and space transportation services company headquartered in Hawthorne, California. It was founded in 2002 by Elon Musk with the goal of reducing space transportation costs to enable the colonization of Mars. SpaceX has developed several launch vehicles and the Dragon spacecraft. 
+* [Starlink](https://www.starlink.com/) - Satellite constellation being constructed by SpaceX to provide satellite Internet access.
 * [BRITE-PL](http://www.brite-pl.pl/) - Heweliusz (also called BRITE-PL) is the second Polish scientific satellite launched in 2014 as part of the Bright-star Target Explorer (BRITE) programme. The spacecraft was launched aboard a Chang Zheng 4B rocket in August 2014.
 * [BRITE-Constellation](https://brite-constellation.at/) - BRITE (BRIght Target Explorer) Constellation is a network of five nanosatellites to investigate stellar structure and evolution of the brightest stars in the sky and their interaction with the local environment.
-* [PlanetaryResources](https://github.com/PlanetaryResources) - repo on GitHub and [page](https://www.planetaryresources.com/).
+* [PlanetaryResources](https://github.com/PlanetaryResources) - Repo on GitHub and [page](https://www.planetaryresources.com/).
 * [consensys.space](https://www.consensys.space/) - Open Source Space.
-* [University Rover Challenge](http://urc.marssociety.org/) - is a robotics competition for university level students that challenges teams to design and build a rover that would be of use to early explorers on Mars.
+* [University Rover Challenge](http://urc.marssociety.org/) - Robotics competition for university level students that challenges teams to design and build a rover that would be of use to early explorers on Mars.
 * [KRAKsat](https://www.kraksat.pl/space/) - Satellite build by the team has docked to International Space Station with Cygnus spaceship.
 * [Scorpio](http://www.scorpio.pwr.edu.pl/language/en/project-scorpio/) - Scorpio rovers family.
-* [Space is More](https://www.spaceismore.com/) - is a research team focused on space architecture and engineering.
-* [Messier marathon](https://en.wikipedia.org/wiki/Messier_marathon) - is an attempt, usually organized by amateur astronomers, to find as many Messier objects as possible during one night.
+* [Space is More](https://www.spaceismore.com/) - Research team focused on space architecture and engineering.
+* [Messier marathon](https://en.wikipedia.org/wiki/Messier_marathon) - An attempt, usually organized by amateur astronomers, to find as many Messier objects as possible during one night.
 * [SEDS USA](https://seds.org/) - Students for the Exploration and Development of Space is an international student organization whose purpose is to promote space exploration and development through educational and engineering projects.
-* [The Virgo experiment](http://www.virgo-gw.eu/) - is a large interferometer designed to detect gravitational waves predicted by the general theory of relativity.
-* [SpaceWeather](https://www.spaceweather.com/) - news and information about the Sun-Earth environment.
+* [The Virgo experiment](http://www.virgo-gw.eu/) - Large interferometer designed to detect gravitational waves predicted by the general theory of relativity.
+* [SpaceWeather](https://www.spaceweather.com/) - News and information about the Sun-Earth environment.
 * [SWPC](https://www.swpc.noaa.gov/) - Space Weather Prediction Center, National Oceanic and Atmospheric Administration.
 
 # Conferences
@@ -367,7 +367,9 @@ Examples of behavior that contributes to creating a positive environment include
     Showing empathy towards other community members
 
 # License
-Free [MIT](LICENSE) license.
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Free [license](LICENSE).
 
 See also other [AWESOME here](https://github.com/mbiesiad/awesome-chess).
 
