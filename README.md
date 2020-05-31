@@ -8,21 +8,13 @@
 
 > _Source: NASA - NASA's Hubble Shows Milky Way is Destined for Head-On Collision: https://images.nasa.gov/details-GSFC_20171208_Archive_e001738_
 
+A curated list of assets available on the Internet related to the astronomy. As you know, that's a large field of science, so any contribution is warmly welcome!
 
-
-A curated list of assets available on the Internet related to the astronomy.
-
-As you know, that's a large field of science, so any contribution is warmly welcome!
-
-_Inspired by the awesome list thing. You might want to read the complete [awesome list](https://github.com/sindresorhus/awesome)._
-
-# Translations
-
-* [English](https://github.com/mbiesiad/awesome-astronomy)
-* [Polish](https://github.com/mbiesiad/awesome-astronomy/tree/pl_PL)
+_Inspired by the [awesome list](https://github.com/sindresorhus/awesome)._
 
 # Contents
 
+* [Translations](#translations)
 * [NASA](#nasa)
 * [ESA](#esa)
 * [Other governments' Agences](#other-governments-agences)
@@ -45,6 +37,11 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 * [Code of Conduct](#code-of-conduct)
 * [Contributing](#contributing)
 * [License](#license)
+
+# Translations
+
+* [English](https://github.com/mbiesiad/awesome-astronomy)
+* [Polish](https://github.com/mbiesiad/awesome-astronomy/tree/pl_PL)
 
 _____________________________________________________
 
