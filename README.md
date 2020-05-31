@@ -221,11 +221,11 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 
 > _C/2011 W3 (Lovejoy) - SOHO/LASCO C3 (2011/12/15) - Credits: NASA, ESA (LASCO C3)_
 
-* [Sungrazer](https://sungrazer.nrl.navy.mil/) (website) - A NASA-funded Citizen Science Project.
+* [Sungrazer](https://sungrazer.nrl.navy.mil/) - A NASA-funded Citizen Science Project (website).
 
 ## Zooniverse
 
-* [Zooniverse](https://www.zooniverse.org/) (website) - A citizen science web portal owned and operated by the Citizen Science Alliance.
+* [Zooniverse](https://www.zooniverse.org/) - A citizen science web portal owned and operated by the Citizen Science Alliance (website).
 
 * [Zooniverse repo on GitHub](https://github.com/zooniverse) - Zooniverse' repositories on the GitHub.
 
@@ -345,7 +345,7 @@ Other awesome links!
 
 # Conferences
 
-* [waset.org - astronomy](https://waset.org/astronomy-conferences) - An indexed listing of upcoming meetings, seminars and other.
+* [Waset.org - astronomy](https://waset.org/astronomy-conferences) - An indexed listing of upcoming meetings, seminars and other.
 
 # Contributing
 
