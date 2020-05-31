@@ -350,7 +350,7 @@ Other awesome links!
 
 # Conferences
 
-* [waset.org - astronomy](https://waset.org/astronomy-conferences) - is an indexed listing of upcoming meetings, seminars, congresses, workshops, programs, continuing CME courses, trainings, summits, and weekly, annual or monthly symposiums.
+* [waset.org - astronomy](https://waset.org/astronomy-conferences) - An indexed listing of upcoming meetings, seminars, congresses, workshops, programs, continuing CME courses, trainings, summits, and weekly, annual or monthly symposiums.
 
 # Contributing
 
