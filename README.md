@@ -1,6 +1,4 @@
-# Awesome Astronomy
-
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Astronomy [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 😎 Awesome lists about Astronomy stuff
 
@@ -47,43 +45,43 @@ _____________________________________________________
 
 # NASA
 
-* [NASA](https://www.nasa.gov/) (website) - The National Aeronautics and Space Administration is an independent agency of the United States Federal Government responsible for the civilian space program, as well as aeronautics and aerospace research.
+* [NASA](https://www.nasa.gov/) - The National Aeronautics and Space Administration (website).
 
-* [APOD](https://apod.nasa.gov/apod/astropix.html) (website) - Astronomy Picture of the Day.
+* [APOD](https://apod.nasa.gov/apod/astropix.html) - Astronomy Picture of the Day (website).
 
 * [DEVELOP](https://develop.larc.nasa.gov/) - A NASA Applied Sciences Program that conducts research projects applying NASA Earth observations to environmental policy issues around the globe.
 
-* [NASA Supercomputing](https://www.nas.nasa.gov/SC18/) - NASA supercomputers enable scientific discoveries and engineering triumphs for missions in aeronautics, Earth and space science, & exploration of the universe.
+* [NASA Supercomputing](https://www.nas.nasa.gov/SC18/) - NASA supercomputers.
 
-* [NASApeople](https://www.nasa.gov/careers) - Want your career to leave an enduring impact? Join us to explore the extraordinary, every day! 
+* [NASApeople](https://www.nasa.gov/careers) - NASA' career.
 
-* [NASA Earth](https://www.nasa.gov/topics/earth/index.html) - NASA uses the vantage point of space to increase our understanding of Earth and improve lives.
+* [NASA Earth](https://www.nasa.gov/topics/earth/index.html) - NASA about the Earth and lives.
 
-* [NASA Climate](https://climate.nasa.gov/) - "Rocket science isn't enough; we're climate scientists, too".
+* [NASA Climate](https://climate.nasa.gov/) - NASA about the climate.
 
-* [HUBBLE SPACE TELESCOPE](https://hubblesite.org/) - A space telescope that was launched into low Earth orbit in 1990 and remains in operation.
+* [HUBBLE SPACE TELESCOPE](https://hubblesite.org/) - A space telescope.
 
-* [NASCOM](https://sohowww.nascom.nasa.gov/) - The NASA (Ground) Communications System (NASCOM) manages terrestrial communications between ground stations, mission control centers, and other elements of spacecraft ground segments, providing worldwide, near real-time transmission of commands, telemetry, voice, and television signals. It is managed out of NASA's Goddard Space Flight Center in Greenbelt, Maryland.
+* [NASCOM](https://sohowww.nascom.nasa.gov/) - The NASA (Ground) Communications System (NASCOM).
 
 # ESA 
 
-* [ESA](https://www.esa.int/) (website) - The European Space Agency is an intergovernmental organisation of 22 member states dedicated to the exploration of space.
+* [ESA](https://www.esa.int/) - The European Space Agency (website).
 
-* [Gaia](https://sci.esa.int/web/gaia) - Gaia is an ambitious mission to chart a three-dimensional map of our Galaxy, the Milky Way, in the process revealing the composition, formation and evolution of the Galaxy.
+* [Gaia](https://sci.esa.int/web/gaia) - Mission to chart a three-dimensional map of the Milky Way.
 
-* [ESA Science](http://www.esa.int/Science_Exploration/Space_Science) - Science @ the European Space Agency ESA, keeping you posted on European space science activities.
+* [ESA Science](http://www.esa.int/Science_Exploration/Space_Science) - Science at the European Space Agency ESA.
 
-* [ESA Operations](http://www.esa.int/Enabling_Support/Operations) - From Earth orbit to deep space: sharing the excitement of realtime mission operations at the European Space Agency.
+* [ESA Operations](http://www.esa.int/Enabling_Support/Operations) - Realtime mission operations at the European Space Agency.
 
-* [ESAC](http://www.esa.int/About_Us/ESAC) - The ESA's centre for space science (astronomy, solar system exploration and fundamental physics).
+* [ESAC](http://www.esa.int/About_Us/ESAC) - The ESA's centre for space science.
 
 # Other Governments' Agences
 
-* [CNSA](http://www.cnsa.gov.cn/) (website) - China National Space Administration.
+* [CNSA](http://www.cnsa.gov.cn/) - China National Space Administration (website).
 
-* [POLSA](https://polsa.gov.pl/) (website) - Polish Space Agency.
+* [POLSA](https://polsa.gov.pl/) - Polish Space Agency (website).
 
-* [CSA](http://www.asc-csa.gc.ca/) (website) - Canadian Space Agency.
+* [CSA](http://www.asc-csa.gc.ca/) - Canadian Space Agency (website).
 
 * [UKSA](https://www.gov.uk/ukspaceagency) - UK Space Agency.
 
@@ -105,13 +103,13 @@ _____________________________________________________
 
 * [ICQ](http://www.icq.eps.harvard.edu/) - Comet Information and the International Comet Quarterly (ICQ).
 
-* [MPC](https://www.minorplanetcenter.net/iau/mpc.html) - The MPC is responsible for the designation of minor bodies in the solar system: minor planets, comets, and natural satellites.
+* [MPC](https://www.minorplanetcenter.net/iau/mpc.html) - Designation of minor bodies in the solar system.
 
 # Asteroids
 
 * [TOTAS](https://totas.cosmos.esa.int/) - Teide Observatory Tenerife Asteroid Survey.
 
-* [ATLAS](http://www.fallingstar.com) - Asteroid Terrestrial-impact Last Alert System: A NASA and University of Hawaii project to patrol the sky every night in search of incoming asteroids.
+* [ATLAS](http://www.fallingstar.com) - Asteroid Terrestrial-impact Last Alert System.
 
 * [Pan-STARRS](http://pswww.ifa.hawaii.edu/pswww) - The Panoramic Survey Telescope and Rapid Response System.
 
@@ -125,11 +123,11 @@ _____________________________________________________
 
 * [LASCO](https://lasco-www.nrl.navy.mil/index.php?p=content/about_lasco) - The Large Angle and Spectrometric Coronagraph.
 
-* [SWAN](http://swan.projet.latmos.ipsl.fr/) - The SWAN Instrument is designed to observe the solar Lyman alpha photons (121.6 nm) backscattered by the neutral hydrogen atoms present in the interplanetary medium.
+* [SWAN](http://swan.projet.latmos.ipsl.fr/) - The SWAN Instrument.
 
 * [sdac.virtualsolar.org](https://sdac.virtualsolar.org/cgi/search)
 
-* [Max-Planck Institute for Solar System Research - correlated](https://star.mps.mpg.de/sunrise/) - A mission to study the structure and dynamics of the solar magnetic field.
+* [Max-Planck Institute for Solar System Research - correlated](https://star.mps.mpg.de/sunrise/) - Study the structure and dynamics of the solar magnetic field.
 
 * [star.mpae.gwdg.de](http://star.mpae.gwdg.de/) - Max Planck Institute for solar system research, solar and stellar coronae group.
 
@@ -143,21 +141,21 @@ _____________________________________________________
 
 > _A full moon captured July 18, 2008. Credit: NASA/Sean Smith https://asd.gsfc.nasa.gov/blueshift/index.php/2015/02/12/no-mardi-gras-under-a-full-moon/_
 
-* [Moon Society](https://www.moonsociety.org/) - Space advocacy organization, founded in 2000, and dedicated to promoting large-scale human exploration, research, and settlement of the Moon.
+* [Moon Society](https://www.moonsociety.org/) - Space advocacy organization.
 
 # Experiments
 
-* [LIGO](https://www.ligo.caltech.edu/) - Large-scale physics experiment and observatory to detect cosmic gravitational waves and to develop gravitational-wave observations as an astronomical tool.
+* [LIGO](https://www.ligo.caltech.edu/) - Large-scale physics experiment and observatory.
 
-* [ET](http://www.et-gw.eu/) - Einstein Telescope (ET) or Einstein Observatory, is a proposed third-generation ground-based gravitational wave detector, currently under study by some institutions in the European Union.
+* [ET](http://www.et-gw.eu/) - Einstein Telescope (ET) also know as Einstein Observatory.
 
 # Observatories
 
-* [VO](http://ivoa.net/) - Virtual observatory. Collection of interoperating data archives and software tools which utilize the internet to form a scientific research environment in which astronomical research programs can be conducted.
+* [VO](http://ivoa.net/) - Virtual observatory.
 
 # Exoplanet projects
 
-* [Exoplanet Exploration Program](https://exoplanets.nasa.gov/) - Exoplanet Exploration Program. NASA's search for habitable planets and life beyond our solar system.
+* [Exoplanet Exploration Program](https://exoplanets.nasa.gov/) - NASA's Exoplanet Exploration Program.
 * [SRON](https://www.sron.nl/exoplanets) - SRON's Exoplanets programme.
 * [NASAExoplanetArchive](https://exoplanetarchive.ipac.caltech.edu/) - A service of NASA Exoplanet Science Institute.
 * [MOA](http://www.phys.canterbury.ac.nz/moa/) - Microlensing Observations in Astrophysics.
@@ -195,17 +193,17 @@ Astronomy-related societies, organisations etc on the world.
 
 * [IAU](https://www.iau.org/) - International Astronomical Union.
 
-* [MPC](https://www.minorplanetcenter.net/iau/mpc.html) - Minor Planet Center is the official worldwide organization in charge of collecting observational data for minor planets (such as asteroids), calculating their orbits and publishing this information via the Minor Planet Circulars.
+* [MPC](https://www.minorplanetcenter.net/iau/mpc.html) - Minor Planet Center.
 
-* [CBAT](http://www.cbat.eps.harvard.edu/) - The Central Bureau for Astronomical Telegrams is the official international clearing house for information relating to transient astronomical events. The CBAT collects and distributes information on comets, natural satellites, novae, supernovae and other transient astronomical events.
+* [CBAT](http://www.cbat.eps.harvard.edu/) - The Central Bureau for Astronomical Telegrams.
 
-* [ATel](http://www.astronomerstelegram.org/) - The Astronomer's Telegram is an internet based short notice publication service for quickly disseminating information on new astronomical observations.
+* [ATel](http://www.astronomerstelegram.org/) - The Astronomer's Telegram.
 
-* [JPL](https://ssd.jpl.nasa.gov/) - This site provides information related to the orbits, physical charateristics, and discovery circumstances for most known natural bodies in orbit around our sun.
+* [JPL](https://ssd.jpl.nasa.gov/) - This site provides information related to the orbits, physical charateristics, and discovery circumstances.
 
-* [ESO](https://www.eso.org/public/) - The European Organisation for Astronomical Research in the Southern Hemisphere, is a 16-nation intergovernmental research organisation for ground-based astronomy.
+* [ESO](https://www.eso.org/public/) - The European Organisation for Astronomical Research in the Southern Hemisphere.
 
-* [Mars Society](https://www.marssociety.org/) - An American worldwide volunteer-driven space-advocacy non-profit organization dedicated to promoting the human exploration and settlement of the planet Mars.
+* [Mars Society](https://www.marssociety.org/) - An American worldwide volunteer-driven space-advocacy.
 
 * [Astronomy](https://astronomy.com/) - (ISSN 0091-6358) is a monthly American magazine about astronomy.
 
@@ -223,7 +221,7 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 
 > _C/2011 W3 (Lovejoy) - SOHO/LASCO C3 (2011/12/15) - Credits: NASA, ESA (LASCO C3)_
 
-* [Sungrazer](https://sungrazer.nrl.navy.mil/) (website) - A NASA-funded Citizen Science Project that enables anyone in the world to become a comet discoverer!
+* [Sungrazer](https://sungrazer.nrl.navy.mil/) (website) - A NASA-funded Citizen Science Project.
 
 ## Zooniverse
 
@@ -258,11 +256,11 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 
 # Sources for scientific papers
 
-* [arXiv](https://arxiv.org/) - A free distribution service and an open-access archive for scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. 
+* [arXiv](https://arxiv.org/) - A free distribution service and an open-access archive.
 
-* [ADS](https://ui.adsabs.harvard.edu/) - Astrophysics Data System is an online database of over eight million astronomy and physics papers from both peer reviewed and non-peer reviewed sources.
+* [ADS](https://ui.adsabs.harvard.edu/) - Astrophysics Data System.
 
-* [ResearchGate](https://www.researchgate.net/) - A European commercial social networking site for scientists and researchers to share papers, ask and answer questions, and find collaborators.
+* [ResearchGate](https://www.researchgate.net/) - A European commercial social networking site for scientists and researchers.
 
 # Databases
 
@@ -270,15 +268,15 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 
 # Tools
 
-* [FITS](https://en.wikipedia.org/wiki/FITS) - Flexible Image Transport System (FITS) is an open standard defining a digital file format useful for storage, transmission and processing of data: formatted as multi-dimensional arrays (for example a 2D image), or tables (Filename extensions: .fits, .fit, .fts).
+* [FITS](https://en.wikipedia.org/wiki/FITS) - Flexible Image Transport System.
 
-* [Fitswork](https://www.fitswork.de/software/softw_en.php) - A windows image processing program, mainly designed for astronomic purposes.
+* [Fitswork](https://www.fitswork.de/software/softw_en.php) - A windows image processing program.
 
 * [LaTeX](https://en.wikipedia.org/wiki/LaTeX) - A document preparation system.
 
 * [Python](https://www.python.org/) - An interpreted, high-level, general-purpose programming language.
 
-* [R](https://www.r-project.org/) - Programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing.
+* [R](https://www.r-project.org/) - Programming language and free software environment for statistical computing and graphics.
 
 # Social media & groups
 
@@ -318,36 +316,36 @@ Astro groups on Facebook, Yahoo or groups.io etc.
 
 ## Facebook
 
-* Comets and Asteroids (page) - [link](https://www.facebook.com/Comets-and-Asteroids-140234731687/).
-* The Moon Appreciation Society (page) - [link](https://www.facebook.com/MoonAppSoc/).
+* Comets and Asteroids - [page](https://www.facebook.com/Comets-and-Asteroids-140234731687/).
+* The Moon Appreciation Society - [page](https://www.facebook.com/MoonAppSoc/).
 
 ## Groups
 
-* Comets and Asteroids Group (Facebook) - [link](https://www.facebook.com/groups/1454757177944714/).
+* Comets and Asteroids Group - [Facebook link](https://www.facebook.com/groups/1454757177944714/).
 
 # Awesome links
 
 Other awesome links!
 
-* [SpaceX](https://www.spacex.com/) - A private American aerospace manufacturer and space transportation services company headquartered in Hawthorne, California. It was founded in 2002 by Elon Musk with the goal of reducing space transportation costs to enable the colonization of Mars. SpaceX has developed several launch vehicles and the Dragon spacecraft. 
-* [Starlink](https://www.starlink.com/) - Satellite constellation being constructed by SpaceX to provide satellite Internet access.
-* [BRITE-PL](http://www.brite-pl.pl/) - Heweliusz (also called BRITE-PL) is the second Polish scientific satellite launched in 2014 as part of the Bright-star Target Explorer (BRITE) programme. The spacecraft was launched aboard a Chang Zheng 4B rocket in August 2014.
-* [BRITE-Constellation](https://brite-constellation.at/) - BRITE (BRIght Target Explorer) Constellation is a network of five nanosatellites to investigate stellar structure and evolution of the brightest stars in the sky and their interaction with the local environment.
+* [SpaceX](https://www.spacex.com/) - A private American aerospace manufacturer and space transportation services company.
+* [Starlink](https://www.starlink.com/) - Satellite constellation being constructed by SpaceX.
+* [BRITE-PL](http://www.brite-pl.pl/) - Heweliusz (also called BRITE-PL) is the second Polish scientific satellite.
+* [BRITE-Constellation](https://brite-constellation.at/) - A network of five nanosatellites.
 * [PlanetaryResources](https://github.com/PlanetaryResources) - Repo on GitHub and [page](https://www.planetaryresources.com/).
 * [consensys.space](https://www.consensys.space/) - Open Source Space.
-* [University Rover Challenge](http://urc.marssociety.org/) - Robotics competition for university level students that challenges teams to design and build a rover that would be of use to early explorers on Mars.
-* [KRAKsat](https://www.kraksat.pl/space/) - Satellite build by the team has docked to International Space Station with Cygnus spaceship.
+* [University Rover Challenge](http://urc.marssociety.org/) - Robotics competition for university level students.
+* [KRAKsat](https://www.kraksat.pl/space/) - Satellite has docked to International Space Station with Cygnus spaceship.
 * [Scorpio](http://www.scorpio.pwr.edu.pl/language/en/project-scorpio/) - Scorpio rovers family.
 * [Space is More](https://www.spaceismore.com/) - Research team focused on space architecture and engineering.
-* [Messier marathon](https://en.wikipedia.org/wiki/Messier_marathon) - An attempt, usually organized by amateur astronomers, to find as many Messier objects as possible during one night.
-* [SEDS USA](https://seds.org/) - Students for the Exploration and Development of Space is an international student organization whose purpose is to promote space exploration and development through educational and engineering projects.
-* [The Virgo experiment](http://www.virgo-gw.eu/) - Large interferometer designed to detect gravitational waves predicted by the general theory of relativity.
+* [Messier marathon](https://en.wikipedia.org/wiki/Messier_marathon) - An attempt, usually organized by amateur astronomers.
+* [SEDS USA](https://seds.org/) - Students for the Exploration and Development of Space is an international student organization.
+* [The Virgo experiment](http://www.virgo-gw.eu/) - Large interferometer designed to detect gravitational waves.
 * [SpaceWeather](https://www.spaceweather.com/) - News and information about the Sun-Earth environment.
 * [SWPC](https://www.swpc.noaa.gov/) - Space Weather Prediction Center, National Oceanic and Atmospheric Administration.
 
 # Conferences
 
-* [waset.org - astronomy](https://waset.org/astronomy-conferences) - An indexed listing of upcoming meetings, seminars, congresses, workshops, programs, continuing CME courses, trainings, summits, and weekly, annual or monthly symposiums.
+* [waset.org - astronomy](https://waset.org/astronomy-conferences) - An indexed listing of upcoming meetings, seminars and other.
 
 # Contributing
 
