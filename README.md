@@ -58,33 +58,21 @@ _____________________________________________________
 # ESA 
 
 * [ESA](https://www.esa.int/) - The European Space Agency (website).
-
 * [Gaia](https://sci.esa.int/web/gaia) - Mission to chart a three-dimensional map of the Milky Way.
-
 * [ESA Science](http://www.esa.int/Science_Exploration/Space_Science) - Science at the European Space Agency ESA.
-
 * [ESA Operations](http://www.esa.int/Enabling_Support/Operations) - Realtime mission operations at the European Space Agency.
-
 * [ESAC](http://www.esa.int/About_Us/ESAC) - The ESA's centre for space science.
 
 # Other Governments' Agences
 
 * [CNSA](http://www.cnsa.gov.cn/) - China National Space Administration (website).
-
 * [POLSA](https://polsa.gov.pl/) - Polish Space Agency (website).
-
 * [CSA](http://www.asc-csa.gc.ca/) - Canadian Space Agency (website).
-
 * [UKSA](https://www.gov.uk/ukspaceagency) - UK Space Agency.
-
 * [DLR](http://www.dlr.de/) - The German Aerospace Center.
-
 * [ISRO](http://www.isro.gov.in/) - The Indian Space Research Organisation.
-
 * [ISA](http://space.gov.il/en) - The Israel Space Agency.
-
 * [ASI](http://www.asi.it/) - The Italian Space Agency.
-
 * [JAXA](http://www.jaxa.jp/index_e.html) - The Japan Aerospace Exploration Agency.
 
 # Comets
@@ -94,15 +82,12 @@ _____________________________________________________
 > Comet Lovejoy2014. Source: [Sky & Telescope](https://skyandtelescope.org/online-gallery/comet-lovejoy-15/)
 
 * [ICQ](http://www.icq.eps.harvard.edu/) - Comet Information and the International Comet Quarterly (ICQ).
-
 * [MPC](https://www.minorplanetcenter.net/iau/mpc.html) - Designation of minor bodies in the solar system.
 
 # Asteroids
 
 * [TOTAS](https://totas.cosmos.esa.int/) - Teide Observatory Tenerife Asteroid Survey.
-
 * [ATLAS](http://www.fallingstar.com) - Asteroid Terrestrial-impact Last Alert System.
-
 * [Pan-STARRS](http://pswww.ifa.hawaii.edu/pswww) - The Panoramic Survey Telescope and Rapid Response System.
 
 # Sun
@@ -112,19 +97,12 @@ _____________________________________________________
 > _Image of corona from NASA's Solar Dynamics Observatory showing features created by magnetic fields. Image credit: NASA https://spaceplace.nasa.gov/sun-corona/en/_
 
 * [SOHO](https://sohowww.nascom.nasa.gov/) - The Solar and Heliospheric Observatory.
-
 * [LASCO](https://lasco-www.nrl.navy.mil/index.php?p=content/about_lasco) - The Large Angle and Spectrometric Coronagraph.
-
 * [SWAN](http://swan.projet.latmos.ipsl.fr/) - The SWAN Instrument.
-
-* [sdac.virtualsolar.org](https://sdac.virtualsolar.org/cgi/search)
-
+* [SDAC.virtualsolar.org](https://sdac.virtualsolar.org/cgi/search)
 * [Max-Planck Institute for Solar System Research - correlated](https://star.mps.mpg.de/sunrise/) - Study the structure and dynamics of the solar magnetic field.
-
 * [star.mpae.gwdg.de](http://star.mpae.gwdg.de/) - Max Planck Institute for solar system research, solar and stellar coronae group.
-
 * [mps.mpg.de](https://www.mps.mpg.de/solar-physics) - Max Planck Institute for solar system research.
-
 * [SDAC](https://umbra.nascom.nasa.gov/index.html/) - Solar Data Analysis Center.
 
 # The Moon
@@ -138,7 +116,6 @@ _____________________________________________________
 # Experiments
 
 * [LIGO](https://www.ligo.caltech.edu/) - Large-scale physics experiment and observatory.
-
 * [ET](http://www.et-gw.eu/) - Einstein Telescope (ET) also know as Einstein Observatory.
 
 # Observatories
@@ -168,39 +145,24 @@ Astronomy-related societies, organisations etc on the world.
 ### Poland
 
 * [SRC](http://www.cbk.waw.pl/) - The Space Research Centre.
-
 * [TOS](https://pl.wikipedia.org/wiki/Towarzystwo_Obserwator%C3%B3w_S%C5%82o%C5%84ca) - Solar Observers Society (pol. Towarzystwo Obserwatorów Słońca).
-
 * [PTA](http://www.pta.edu.pl/) - The Polish Astronomical Society (pol. Polskie Towarzystwo Astronomiczne).
-
 * [PTF](http://www.ptf.net.pl/) - The Polish Physical Society (pol. Polskie Towarzystwo Fizyczne).
-
 * [PTMA](http://ptma.pl/) - Polish Society of Amateur Astronomers (pol. Polskie Towarzystwo Miłośników Astronomii).
-
 * [Urania – Postępy Astronomii](http://www.urania.edu.pl/) - Polish astronomical magazine.
-
 * [PKiM](http://www.pkim.org/) - Polish Fireball Network.
 
 ## International
 
 * [IAU](https://www.iau.org/) - International Astronomical Union.
-
 * [MPC](https://www.minorplanetcenter.net/iau/mpc.html) - Minor Planet Center.
-
 * [CBAT](http://www.cbat.eps.harvard.edu/) - The Central Bureau for Astronomical Telegrams.
-
 * [ATel](http://www.astronomerstelegram.org/) - The Astronomer's Telegram.
-
 * [JPL](https://ssd.jpl.nasa.gov/) - This site provides information related to the orbits, physical charateristics, and discovery circumstances.
-
 * [ESO](https://www.eso.org/public/) - The European Organisation for Astronomical Research in the Southern Hemisphere.
-
 * [Mars Society](https://www.marssociety.org/) - An American worldwide volunteer-driven space-advocacy.
-
 * [Astronomy](https://astronomy.com/) - (ISSN 0091-6358) is a monthly American magazine about astronomy.
-
 * [S&T](https://skyandtelescope.org/) - Sky & Telescope is a monthly American magazine covering all aspects of amateur astronomy.
-
 * [CERN](https://home.cern/) - The European Organization for Nuclear Research, is the world's largest particle physics lab.
 
 # Citizen science
@@ -218,7 +180,6 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 ## Zooniverse
 
 * [Zooniverse](https://www.zooniverse.org/) - A citizen science web portal owned and operated by the Citizen Science Alliance (website).
-
 * [Zooniverse repo on GitHub](https://github.com/zooniverse) - Zooniverse' repositories on the GitHub.
 
 (selected Space & Physics projects):
@@ -249,9 +210,7 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 # Sources for scientific papers
 
 * [arXiv](https://arxiv.org/) - A free distribution service and an open-access archive.
-
 * [ADS](https://ui.adsabs.harvard.edu/) - Astrophysics Data System.
-
 * [ResearchGate](https://www.researchgate.net/) - A European commercial social networking site for scientists and researchers.
 
 # Databases
@@ -261,13 +220,9 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 # Tools
 
 * [FITS](https://en.wikipedia.org/wiki/FITS) - Flexible Image Transport System.
-
 * [Fitswork](https://www.fitswork.de/software/softw_en.php) - A windows image processing program.
-
 * [LaTeX](https://en.wikipedia.org/wiki/LaTeX) - A document preparation system.
-
 * [Python](https://www.python.org/) - An interpreted, high-level, general-purpose programming language.
-
 * [R](https://www.r-project.org/) - Programming language and free software environment for statistical computing and graphics.
 
 # Social media & groups
