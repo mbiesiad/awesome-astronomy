@@ -49,7 +49,7 @@ _____________________________________________________
 
 * [APOD](https://apod.nasa.gov/apod/astropix.html) - Astronomy Picture of the Day (website).
 
-* [DEVELOP](https://develop.larc.nasa.gov/) - A NASA Applied Sciences Program that conducts research projects applying NASA Earth observations to environmental policy issues around the globe.
+* [DEVELOP](https://develop.larc.nasa.gov/) - A NASA Applied Sciences Program.
 
 * [NASA Supercomputing](https://www.nas.nasa.gov/SC18/) - NASA supercomputers.
 
@@ -231,28 +231,28 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 
 (selected Space & Physics projects):
 
-* Galaxy Zoo [(website)](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo) - Zooniverse project.
-* Variable Star Zoo [(website)](https://www.zooniverse.org/projects/ilacerna/variable-star-zoo) - Zooniverse project.
-* SuperWASP Variable Stars [(website)](https://www.zooniverse.org/projects/ajnorton/superwasp-variable-stars) - Zooniverse project.
-* Planet Hunters TESS [(website)](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess) - Zooniverse project.
-* Muon Hunters 2.0 [(website)](https://www.zooniverse.org/projects/dwright04/muon-hunters-2-dot-0) - Zooniverse project.
-* Hubble Asteroid Hunter [(website)](https://www.zooniverse.org/projects/sandorkruk/hubble-asteroid-hunter) - Zooniverse project.
-* Galaxy Zoo Mobile [(website)](https://www.zooniverse.org/projects/mikewalmsley/galaxy-zoo-mobile) - Zooniverse project.
-* Solar Stormwatch II [(website)](https://www.zooniverse.org/projects/shannon-/solar-stormwatch-ii) - Zooniverse project.
-* Backyard Worlds: Planet 9 [(website)](https://www.zooniverse.org/projects/marckuchner/backyard-worlds-planet-9) - Zooniverse project.
-* Gravity Spy [(website)](https://www.zooniverse.org/projects/zooniverse/gravity-spy) - Zooniverse project.
-* Radio Meteor Zoo [(website)](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo) - Zooniverse project.
-* Comet Hunters [(website)](https://www.zooniverse.org/projects/mschwamb/comet-hunters) - Zooniverse project.
-* Pulsar Hunters [(website)](https://www.zooniverse.org/projects/zooniverse/pulsar-hunters) - Zooniverse project.
-* Supernova Hunters [(website)](https://www.zooniverse.org/projects/dwright04/supernova-hunters) - Zooniverse project.
-* Disk Detective [(website)](https://www.diskdetective.org/#/) - Zooniverse project.
-* Planet Hunters TESS [(website)](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess#/) - Zooniverse project.
-* Higgs Hunters [(website)](https://www.higgshunters.org/#/) - Zooniverse project.
-* Galaxy Zoo: Bar Lengths [(website)](https://www.zooniverse.org/projects/vrooje/galaxy-zoo-bar-lengths) - Zooniverse project.
-* Milky Way Project [(website)](https://www.zooniverse.org/projects/povich/milky-way-project) - Zooniverse project.
-* Radio Galaxy Zoo [(website)](https://radio.galaxyzoo.org/#/) - Zooniverse project.
-* Astronomy Rewind [(website)](https://www.zooniverse.org/projects/zooniverse/astronomy-rewind) - Zooniverse project.
-* Radio Meteor Zoo [(website)](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo) - Zooniverse project.
+* Galaxy Zoo - Zooniverse project [(website)](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo).
+* Variable Star Zoo - Zooniverse project [(website)](https://www.zooniverse.org/projects/ilacerna/variable-star-zoo).
+* SuperWASP Variable Stars - Zooniverse project [(website)](https://www.zooniverse.org/projects/ajnorton/superwasp-variable-stars).
+* Planet Hunters TESS - Zooniverse project [(website)](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess).
+* Muon Hunters 2.0 - Zooniverse project [(website)](https://www.zooniverse.org/projects/dwright04/muon-hunters-2-dot-0).
+* Hubble Asteroid Hunter - Zooniverse project [(website)](https://www.zooniverse.org/projects/sandorkruk/hubble-asteroid-hunter).
+* Galaxy Zoo Mobile - Zooniverse project [(website)](https://www.zooniverse.org/projects/mikewalmsley/galaxy-zoo-mobile).
+* Solar Stormwatch II - Zooniverse project [(website)](https://www.zooniverse.org/projects/shannon-/solar-stormwatch-ii).
+* Backyard Worlds: Planet 9 - Zooniverse project [(website)](https://www.zooniverse.org/projects/marckuchner/backyard-worlds-planet-9).
+* Gravity Spy - Zooniverse project [(website)](https://www.zooniverse.org/projects/zooniverse/gravity-spy).
+* Radio Meteor Zoo - Zooniverse project [(website)](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo).
+* Comet Hunters - Zooniverse project [(website)](https://www.zooniverse.org/projects/mschwamb/comet-hunters).
+* Pulsar Hunters - Zooniverse project [(website)](https://www.zooniverse.org/projects/zooniverse/pulsar-hunters).
+* Supernova Hunters - Zooniverse project [(website)](https://www.zooniverse.org/projects/dwright04/supernova-hunters).
+* Disk Detective - Zooniverse project [(website)](https://www.diskdetective.org/#/).
+* Planet Hunters - Zooniverse project TESS [(website)](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess#/).
+* Higgs Hunters - Zooniverse project [(website)](https://www.higgshunters.org/#/).
+* Galaxy Zoo: Bar Lengths - Zooniverse project [(website)](https://www.zooniverse.org/projects/vrooje/galaxy-zoo-bar-lengths).
+* Milky Way Project - Zooniverse project [(website)](https://www.zooniverse.org/projects/povich/milky-way-project).
+* Radio Galaxy Zoo - Zooniverse project [(website)](https://radio.galaxyzoo.org/#/).
+* Astronomy Rewind - Zooniverse project [(website)](https://www.zooniverse.org/projects/zooniverse/astronomy-rewind).
+* Radio Meteor Zoo - Zooniverse project [(website)](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo).
 
 # Sources for scientific papers
 
