@@ -1,6 +1,6 @@
 # Awesome Astronomy [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-😎 Awesome lists about Astronomy stuff
+😎 Awesome lists about Astronomy stuff.
 
 ![NASA-Milky-Way](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/GSFC_20171208_Archive_e001738%7Eorig.jpg)
 
