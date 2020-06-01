@@ -10,40 +10,38 @@ A curated list of assets available on the Internet related to the astronomy. As 
 
 _Inspired by the [awesome list](https://github.com/sindresorhus/awesome)._
 
-# Contents
+## Contents
 
-* [Translations](#translations)
-* [NASA](#nasa)
-* [ESA](#esa)
-* [Other governments' Agences](#other-governments-agences)
-* [Comets](#comets)
-* [Asteroids](#asteroids)
-* [Sun](#sun)
-* [The Moon](#the-moon)
-* [Experiments](#experiments)
-* [Observatories](#observatories)
-* [Exoplanet projects](#exoplanet-projects)
-* [Astrophotography](#astrophotography)
-* [Society](#society)
-* [Citizen science](#citizen-science)
-* [Sources for scientific papers](#sources-for-scientific-papers)
-* [Databases](#databases)
-* [Tools](#tools)
-* [Social media & groups](#social-media--groups)
-* [Awesome links](#awesome-links)
-* [Conferences](#conferences)
-* [Code of Conduct](#code-of-conduct)
-* [Contributing](#contributing)
-* [License](#license)
+1. [Translations](#translations)
+2. [NASA](#nasa)
+3. [ESA](#esa)
+4. [Other Governments' Agences](#other-governments-agences)
+5. [Comets](#comets)
+6. [Asteroids](#asteroids)
+7. [Sun](#sun)
+8. [The Moon](#the-moon)
+9. [Experiments](#experiments)
+10. [Observatories](#observatories)
+11. [Exoplanet projects](#exoplanet-projects)
+12. [Astrophotography](#astrophotography)
+13. [Society](#society)
+14. [Citizen science](#citizen-science)
+15. [Sources for scientific papers](#sources-for-scientific-papers)
+16. [Databases](#databases)
+17. [Tools](#tools)
+18. [Social media & groups](#social-media--groups)
+19. [Awesome links](#awesome-links)
+20. [Conferences](#conferences)
+21. [Code of Conduct](#code-of-conduct)
 
-# Translations
+## Translations
 
 * [English](https://github.com/mbiesiad/awesome-astronomy)
 * [Polish](https://github.com/mbiesiad/awesome-astronomy/tree/pl_PL)
 
-_____________________________________________________
+---
 
-# NASA
+## NASA
 
 * [NASA](https://www.nasa.gov/) - The National Aeronautics and Space Administration (website).
 * [APOD](https://apod.nasa.gov/apod/astropix.html) - Astronomy Picture of the Day (website).
@@ -55,7 +53,7 @@ _____________________________________________________
 * [HUBBLE SPACE TELESCOPE](https://hubblesite.org/) - A space telescope.
 * [NASCOM](https://sohowww.nascom.nasa.gov/) - The NASA (Ground) Communications System (NASCOM).
 
-# ESA 
+## ESA 
 
 * [ESA](https://www.esa.int/) - The European Space Agency (website).
 * [Gaia](https://sci.esa.int/web/gaia) - Mission to chart a three-dimensional map of the Milky Way.
@@ -63,7 +61,7 @@ _____________________________________________________
 * [ESA Operations](http://www.esa.int/Enabling_Support/Operations) - Realtime mission operations at the European Space Agency.
 * [ESAC](http://www.esa.int/About_Us/ESAC) - The ESA's centre for space science.
 
-# Other Governments' Agences
+## Other Governments' Agences
 
 * [CNSA](http://www.cnsa.gov.cn/) - China National Space Administration (website).
 * [POLSA](https://polsa.gov.pl/) - Polish Space Agency (website).
@@ -75,7 +73,7 @@ _____________________________________________________
 * [ASI](http://www.asi.it/) - The Italian Space Agency.
 * [JAXA](http://www.jaxa.jp/index_e.html) - The Japan Aerospace Exploration Agency.
 
-# Comets
+## Comets
 
 ![LovejoyComet](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/comet-lovejoy.png)
 
@@ -84,13 +82,13 @@ _____________________________________________________
 * [ICQ](http://www.icq.eps.harvard.edu/) - Comet Information and the International Comet Quarterly (ICQ).
 * [MPC](https://www.minorplanetcenter.net/iau/mpc.html) - Designation of minor bodies in the solar system.
 
-# Asteroids
+## Asteroids
 
 * [TOTAS](https://totas.cosmos.esa.int/) - Teide Observatory Tenerife Asteroid Survey.
 * [ATLAS](http://www.fallingstar.com) - Asteroid Terrestrial-impact Last Alert System.
 * [Pan-STARRS](http://pswww.ifa.hawaii.edu/pswww) - The Panoramic Survey Telescope and Rapid Response System.
 
-# Sun
+## Sun
 
 ![NASA-Sun-Corona](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/corona2.en.jpg)
 
@@ -105,7 +103,7 @@ _____________________________________________________
 * [mps.mpg.de](https://www.mps.mpg.de/solar-physics) - Max Planck Institute for solar system research.
 * [SDAC](https://umbra.nascom.nasa.gov/index.html/) - Solar Data Analysis Center.
 
-# The Moon
+## The Moon
 
 ![Moon-Nasa](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/moon-nasa.png)
 
@@ -113,34 +111,33 @@ _____________________________________________________
 
 * [Moon Society](https://www.moonsociety.org/) - Space advocacy organization.
 
-# Experiments
+## Experiments
 
 * [LIGO](https://www.ligo.caltech.edu/) - Large-scale physics experiment and observatory.
 * [ET](http://www.et-gw.eu/) - Einstein Telescope (ET) also know as Einstein Observatory.
 
-# Observatories
+## Observatories
 
 * [VO](http://ivoa.net/) - Virtual observatory.
 
-# Exoplanet projects
+## Exoplanet projects
 
 * [Exoplanet Exploration Program](https://exoplanets.nasa.gov/) - NASA's Exoplanet Exploration Program.
 * [SRON](https://www.sron.nl/exoplanets) - SRON's Exoplanets programme.
 * [NASAExoplanetArchive](https://exoplanetarchive.ipac.caltech.edu/) - A service of NASA Exoplanet Science Institute.
-* [MOA](http://www.phys.canterbury.ac.nz/moa/) - Microlensing Observations in Astrophysics.
 * [List of exoplanet search projects](https://en.wikipedia.org/wiki/List_of_exoplanet_search_projects) - List of exoplanet search projects by Wikipedia.
 
-# Astrophotography
+## Astrophotography
 
 * [Astrophotography/ Amateur Astronomy Enthusiasts](https://www.facebook.com/groups/astrophotographers/) - Facebook' group.
 * [Astrophotography tips](https://skyandtelescope.org/astronomy-resources/astrophotography-tips/) - Astrophotography: Tips & Techniques (skyandtelescope.org).
 * [Astrophotography how-to](http://www.astropix.com/html/i_astrop/toc_ap.html) - Catching the Light. Astrophotography by Jerry Lodriguss.
 
-# Society
+## Society
 
 Astronomy-related societies, organisations etc on the world.
 
-## Europe
+### Europe
 
 ### Poland
 
@@ -152,7 +149,7 @@ Astronomy-related societies, organisations etc on the world.
 * [Urania – Postępy Astronomii](http://www.urania.edu.pl/) - Polish astronomical magazine.
 * [PKiM](http://www.pkim.org/) - Polish Fireball Network.
 
-## International
+### International
 
 * [IAU](https://www.iau.org/) - International Astronomical Union.
 * [MPC](https://www.minorplanetcenter.net/iau/mpc.html) - Minor Planet Center.
@@ -165,11 +162,11 @@ Astronomy-related societies, organisations etc on the world.
 * [S&T](https://skyandtelescope.org/) - Sky & Telescope is a monthly American magazine covering all aspects of amateur astronomy.
 * [CERN](https://home.cern/) - The European Organization for Nuclear Research, is the world's largest particle physics lab.
 
-# Citizen science
+## Citizen science
 
 Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science)) is scientific research conducted, in whole or in part, by amateur (or nonprofessional) scientists.
 
-## Sungrazer
+### Sungrazer
 
 ![Sungrazer-Lovejoy](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/sungrazer-lovejoy.png)
 
@@ -177,7 +174,7 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 
 * [Sungrazer](https://sungrazer.nrl.navy.mil/) - A NASA-funded Citizen Science Project (website).
 
-## Zooniverse
+### Zooniverse
 
 * [Zooniverse](https://www.zooniverse.org/) - A citizen science web portal owned and operated by the Citizen Science Alliance (website).
 * [Zooniverse repo on GitHub](https://github.com/zooniverse) - Zooniverse' repositories on the GitHub.
@@ -207,17 +204,17 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 * Astronomy Rewind - Zooniverse project [(website)](https://www.zooniverse.org/projects/zooniverse/astronomy-rewind).
 * Radio Meteor Zoo - Zooniverse project [(website)](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo).
 
-# Sources for scientific papers
+## Sources for scientific papers
 
 * [arXiv](https://arxiv.org/) - A free distribution service and an open-access archive.
 * [ADS](https://ui.adsabs.harvard.edu/) - Astrophysics Data System.
 * [ResearchGate](https://www.researchgate.net/) - A European commercial social networking site for scientists and researchers.
 
-# Databases
+## Databases
 
 * [NASA/IPAC Extragalactic Database](http://ned.ipac.caltech.edu/)
 
-# Tools
+## Tools
 
 * [FITS](https://en.wikipedia.org/wiki/FITS) - Flexible Image Transport System.
 * [Fitswork](https://www.fitswork.de/software/softw_en.php) - A windows image processing program.
@@ -225,11 +222,11 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 * [Python](https://www.python.org/) - An interpreted, high-level, general-purpose programming language.
 * [R](https://www.r-project.org/) - Programming language and free software environment for statistical computing and graphics.
 
-# Social media & groups
+## Social media & groups
 
 Astro groups on Facebook, Yahoo or groups.io etc.
 
-## Twitter
+### Twitter
 
 * [TheMarsSociety](https://twitter.com/TheMarsSociety) - Twitter handle.
 * [ATLAS Project](https://twitter.com/fallingstarIfA) - Twitter handle.
@@ -261,16 +258,16 @@ Astro groups on Facebook, Yahoo or groups.io etc.
 * [NASA Astronauts](https://twitter.com/NASA_Astronauts) - Twitter handle.
 * [Pan-STARRS1 NEOwatch](https://twitter.com/PS1NEOwatch) - Twitter handle.
 
-## Facebook
+### Facebook
 
 * Comets and Asteroids - Facebook [page](https://www.facebook.com/Comets-and-Asteroids-140234731687/).
 * The Moon Appreciation Society - Facebook [page](https://www.facebook.com/MoonAppSoc/).
 
-## Groups
+### Groups
 
 * Comets and Asteroids Group - [Facebook link](https://www.facebook.com/groups/1454757177944714/).
 
-# Awesome links
+## Awesome links
 
 Other awesome links!
 
@@ -290,31 +287,30 @@ Other awesome links!
 * [SpaceWeather](https://www.spaceweather.com/) - News and information about the Sun-Earth environment.
 * [SWPC](https://www.swpc.noaa.gov/) - Space Weather Prediction Center, National Oceanic and Atmospheric Administration.
 
-# Conferences
+## Conferences
 
 * [Waset.org - astronomy](https://waset.org/astronomy-conferences) - An indexed listing of upcoming meetings, seminars and other.
 
-# Contributing
+## Contributing
 
 Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) first.
 
-# Code of Conduct
+## Code of Conduct
 
 Examples of behavior that contributes to creating a positive environment include:
 
-    Using welcoming and inclusive language
-    Being respectful of differing viewpoints and experiences
-    Gracefully accepting constructive criticism
-    Focusing on what is best for the community
-    Showing empathy towards other community members
+'    Using welcoming and inclusive language
+'    Being respectful of differing viewpoints and experiences
+'    Gracefully accepting constructive criticism
+'    Focusing on what is best for the community
+'    Showing empathy towards other community members
 
-# License
+## License
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Free [license](LICENSE).
 
 See also other [AWESOME here](https://github.com/mbiesiad/awesome-chess).
 
-__________________________________________________
-
+---
 Created by @[mbiesiad](https://github.com/mbiesiad) & awesome [contributors](https://github.com/mbiesiad/awesome-astronomy/graphs/contributors)!
