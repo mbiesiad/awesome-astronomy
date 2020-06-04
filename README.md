@@ -260,12 +260,12 @@ Astro groups on Facebook, Yahoo or groups.io etc.
 
 ### Facebook
 
-* Comets and Asteroids - Facebook [page](https://www.facebook.com/Comets-and-Asteroids-140234731687/).
-* The Moon Appreciation Society - Facebook [page](https://www.facebook.com/MoonAppSoc/).
+* [Comets and Asteroids](https://www.facebook.com/Comets-and-Asteroids-140234731687/) - Facebook link.
+* [The Moon Appreciation Society](https://www.facebook.com/MoonAppSoc/) - Facebook link.
 
 ### Groups
 
-* Comets and Asteroids Group - [Facebook link](https://www.facebook.com/groups/1454757177944714/).
+* [Comets and Asteroids Group](https://www.facebook.com/groups/1454757177944714/) - Facebook link.
 
 ## Awesome links
 
