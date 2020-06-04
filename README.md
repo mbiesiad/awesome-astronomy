@@ -1,14 +1,8 @@
 # Awesome Astronomy [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-😎 Awesome lists about Astronomy stuff.
-
-![NASA-Milky-Way](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/GSFC_20171208_Archive_e001738%7Eorig.jpg)
-
-> _Source: NASA - NASA's Hubble Shows Milky Way is Destined for Head-On Collision: https://images.nasa.gov/details-GSFC_20171208_Archive_e001738_
+Astronomy-related awesome list.
 
 A curated list of assets available on the Internet related to the astronomy. As you know, that's a large field of science, so any contribution is warmly welcome!
-
-_Inspired by the [awesome list](https://github.com/sindresorhus/awesome)._
 
 ## Contents
 
@@ -43,19 +37,19 @@ _Inspired by the [awesome list](https://github.com/sindresorhus/awesome)._
 
 ## NASA
 
-* [NASA](https://www.nasa.gov/) - The National Aeronautics and Space Administration (website).
-* [APOD](https://apod.nasa.gov/apod/astropix.html) - Astronomy Picture of the Day (website).
+* [NASA](https://www.nasa.gov/) - The National Aeronautics and Space Administration.
+* [APOD](https://apod.nasa.gov/apod/astropix.html) - Astronomy Picture of the Day.
 * [DEVELOP](https://develop.larc.nasa.gov/) - A NASA Applied Sciences Program.
 * [NASA Supercomputing](https://www.nas.nasa.gov/SC18/) - NASA supercomputers.
 * [NASApeople](https://www.nasa.gov/careers) - NASA' career.
 * [NASA Earth](https://www.nasa.gov/topics/earth/index.html) - NASA about the Earth and lives.
 * [NASA Climate](https://climate.nasa.gov/) - NASA about the climate.
 * [HUBBLE SPACE TELESCOPE](https://hubblesite.org/) - A space telescope.
-* [NASCOM](https://sohowww.nascom.nasa.gov/) - The NASA (Ground) Communications System (NASCOM).
+* [NASCOM](https://sohowww.nascom.nasa.gov/) - The NASA (Ground) Communications System.
 
 ## ESA 
 
-* [ESA](https://www.esa.int/) - The European Space Agency (website).
+* [ESA](https://www.esa.int/) - The European Space Agency.
 * [Gaia](https://sci.esa.int/web/gaia) - Mission to chart a three-dimensional map of the Milky Way.
 * [ESA Science](http://www.esa.int/Science_Exploration/Space_Science) - Science at the European Space Agency ESA.
 * [ESA Operations](http://www.esa.int/Enabling_Support/Operations) - Realtime mission operations at the European Space Agency.
@@ -63,9 +57,9 @@ _Inspired by the [awesome list](https://github.com/sindresorhus/awesome)._
 
 ## Other Governments' Agences
 
-* [CNSA](http://www.cnsa.gov.cn/) - China National Space Administration (website).
-* [POLSA](https://polsa.gov.pl/) - Polish Space Agency (website).
-* [CSA](http://www.asc-csa.gc.ca/) - Canadian Space Agency (website).
+* [CNSA](http://www.cnsa.gov.cn/) - China National Space Administration.
+* [POLSA](https://polsa.gov.pl/) - Polish Space Agency.
+* [CSA](http://www.asc-csa.gc.ca/) - Canadian Space Agency.
 * [UKSA](https://www.gov.uk/ukspaceagency) - UK Space Agency.
 * [DLR](http://www.dlr.de/) - The German Aerospace Center.
 * [ISRO](http://www.isro.gov.in/) - The Indian Space Research Organisation.
@@ -74,10 +68,6 @@ _Inspired by the [awesome list](https://github.com/sindresorhus/awesome)._
 * [JAXA](http://www.jaxa.jp/index_e.html) - The Japan Aerospace Exploration Agency.
 
 ## Comets
-
-![LovejoyComet](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/comet-lovejoy.png)
-
-> Comet Lovejoy2014. Source: [Sky & Telescope](https://skyandtelescope.org/online-gallery/comet-lovejoy-15/)
 
 * [ICQ](http://www.icq.eps.harvard.edu/) - Comet Information and the International Comet Quarterly (ICQ).
 * [MPC](https://www.minorplanetcenter.net/iau/mpc.html) - Designation of minor bodies in the solar system.
@@ -90,10 +80,6 @@ _Inspired by the [awesome list](https://github.com/sindresorhus/awesome)._
 
 ## Sun
 
-![NASA-Sun-Corona](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/corona2.en.jpg)
-
-> _Image of corona from NASA's Solar Dynamics Observatory showing features created by magnetic fields. Image credit: NASA https://spaceplace.nasa.gov/sun-corona/en/_
-
 * [SOHO](https://sohowww.nascom.nasa.gov/) - The Solar and Heliospheric Observatory.
 * [LASCO](https://lasco-www.nrl.navy.mil/index.php?p=content/about_lasco) - The Large Angle and Spectrometric Coronagraph.
 * [SWAN](http://swan.projet.latmos.ipsl.fr/) - The SWAN Instrument.
@@ -104,10 +90,6 @@ _Inspired by the [awesome list](https://github.com/sindresorhus/awesome)._
 * [SDAC](https://umbra.nascom.nasa.gov/index.html/) - Solar Data Analysis Center.
 
 ## The Moon
-
-![Moon-Nasa](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/moon-nasa.png)
-
-> _A full moon captured July 18, 2008. Credit: NASA/Sean Smith https://asd.gsfc.nasa.gov/blueshift/index.php/2015/02/12/no-mardi-gras-under-a-full-moon/_
 
 * [Moon Society](https://www.moonsociety.org/) - Space advocacy organization.
 
@@ -158,7 +140,7 @@ Astronomy-related societies, organisations etc on the world.
 * [JPL](https://ssd.jpl.nasa.gov/) - This site provides information related to the orbits, physical charateristics, and discovery circumstances.
 * [ESO](https://www.eso.org/public/) - The European Organisation for Astronomical Research in the Southern Hemisphere.
 * [Mars Society](https://www.marssociety.org/) - An American worldwide volunteer-driven space-advocacy.
-* [Astronomy](https://astronomy.com/) - (ISSN 0091-6358) is a monthly American magazine about astronomy.
+* [Astronomy](https://astronomy.com/) - A monthly American magazine about astronomy.
 * [S&T](https://skyandtelescope.org/) - Sky & Telescope is a monthly American magazine covering all aspects of amateur astronomy.
 * [CERN](https://home.cern/) - The European Organization for Nuclear Research, is the world's largest particle physics lab.
 
@@ -168,18 +150,14 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 
 ### Sungrazer
 
-![Sungrazer-Lovejoy](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/sungrazer-lovejoy.png)
-
-> _C/2011 W3 (Lovejoy) - SOHO/LASCO C3 (2011/12/15) - Credits: NASA, ESA (LASCO C3)_
-
-* [Sungrazer](https://sungrazer.nrl.navy.mil/) - A NASA-funded Citizen Science Project (website).
+* [Sungrazer](https://sungrazer.nrl.navy.mil/) - A NASA-funded Citizen Science Project.
 
 ### Zooniverse
 
-* [Zooniverse](https://www.zooniverse.org/) - A citizen science web portal owned and operated by the Citizen Science Alliance (website).
+* [Zooniverse](https://www.zooniverse.org/) - A citizen science web portal owned and operated by the Citizen Science Alliance.
 * [Zooniverse repo on GitHub](https://github.com/zooniverse) - Zooniverse' repositories on the GitHub.
 
-(selected Space & Physics projects):
+Selected Space & Physics projects:
 
 * [Galaxy Zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo) - Zooniverse project.
 * [Variable Star Zoo](https://www.zooniverse.org/projects/ilacerna/variable-star-zoo) - Zooniverse project.
@@ -273,9 +251,9 @@ Other awesome links!
 
 * [SpaceX](https://www.spacex.com/) - A private American aerospace manufacturer and space transportation services company.
 * [Starlink](https://www.starlink.com/) - Satellite constellation being constructed by SpaceX.
-* [BRITE-PL](http://www.brite-pl.pl/) - Heweliusz (also called BRITE-PL) is the second Polish scientific satellite.
+* [BRITE-PL](http://www.brite-pl.pl/) - Heweliusz is the second Polish scientific satellite.
 * [BRITE-Constellation](https://brite-constellation.at/) - A network of five nanosatellites.
-* [PlanetaryResources](https://github.com/PlanetaryResources) - Repo on GitHub and [page](https://www.planetaryresources.com/).
+* [PlanetaryResources](https://github.com/PlanetaryResources) - Repo on GitHub.
 * [consensys.space](https://www.consensys.space/) - Open Source Space.
 * [University Rover Challenge](http://urc.marssociety.org/) - Robotics competition for university level students.
 * [KRAKsat](https://www.kraksat.pl/space/) - Satellite has docked to International Space Station with Cygnus spaceship.
@@ -299,12 +277,7 @@ Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) fir
 
 See [Code of Conduct](CODE-OF-CONDUCT.md).
 
-## License
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-Free [license](LICENSE).
-
+---
 See also other [AWESOME here](https://github.com/mbiesiad/awesome-chess).
 
----
 Created by @[mbiesiad](https://github.com/mbiesiad) & awesome [contributors](https://github.com/mbiesiad/awesome-astronomy/graphs/contributors)!
