@@ -297,7 +297,7 @@ Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) fir
 
 ## Code of Conduct
 
-See [Code of Conduct](#code-of-conduct).
+See [Code of Conduct](CODE-OF-CONDUCT.md).
 
 ## License
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
