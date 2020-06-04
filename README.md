@@ -277,7 +277,3 @@ Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) fir
 
 See [Code of Conduct](CODE-OF-CONDUCT.md).
 
----
-See also other [AWESOME here](https://github.com/mbiesiad/awesome-chess).
-
-Created by @[mbiesiad](https://github.com/mbiesiad) & awesome [contributors](https://github.com/mbiesiad/awesome-astronomy/graphs/contributors)!
