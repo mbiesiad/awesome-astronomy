@@ -297,14 +297,8 @@ Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) fir
 
 ## Code of Conduct
 
-Examples of behavior that contributes to creating a positive environment include:
-```
-    Using welcoming and inclusive language
-    Being respectful of differing viewpoints and experiences
-    Gracefully accepting constructive criticism
-    Focusing on what is best for the community
-    Showing empathy towards other community members
-```
+See [Code of Conduct](#code-of-conduct).
+
 ## License
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
