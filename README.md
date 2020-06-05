@@ -88,6 +88,8 @@ A curated list of assets available on the Internet related to the astronomy. As 
 * [star.mpae.gwdg.de](http://star.mpae.gwdg.de/) - Max Planck Institute for solar system research, solar and stellar coronae group.
 * [mps.mpg.de](https://www.mps.mpg.de/solar-physics) - Max Planck Institute for solar system research.
 * [SDAC](https://umbra.nascom.nasa.gov/index.html/) - Solar Data Analysis Center.
+* [PSP](http://parkersolarprobe.jhuapl.edu/) - The Parker Solar Probe.
+* [WISPR](https://wispr.nrl.navy.mil/) - The Wide-Field Imager for Solar Probe.
 
 ## The Moon
 
