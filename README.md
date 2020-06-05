@@ -97,8 +97,9 @@ A curated list of assets available on the Internet related to the astronomy. As 
 
 ## Experiments
 
-* [LIGO](https://www.ligo.caltech.edu/) - Large-scale physics experiment and observatory.
-* [ET](http://www.et-gw.eu/) - Einstein Telescope (ET) also know as Einstein Observatory.
+* [LIGO](https://www.ligo.caltech.edu/) - Laser Interferometer Gravitational Wave Observatory.
+* [ET](http://www.et-gw.eu/) - Einstein Telescope also know as Einstein Observatory.
+* [OGLE](http://ogle.astrouw.edu.pl/) - The Optical Gravitational Lensing Experiment.
 
 ## Observatories
 
