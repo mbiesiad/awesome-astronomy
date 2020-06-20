@@ -1,7 +1,5 @@
 # Awesome Astronomy [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Astronomy-related awesome list.
-
 A curated list of assets available on the Internet related to the astronomy. As you know, that's a large field of science, so any contribution is warmly welcome!
 
 ## Contents
@@ -83,7 +81,7 @@ A curated list of assets available on the Internet related to the astronomy. As 
 
 * [SOHO](https://sohowww.nascom.nasa.gov/) - The Solar and Heliospheric Observatory.
 * [LASCO](https://lasco-www.nrl.navy.mil/index.php?p=content/about_lasco) - The Large Angle and Spectrometric Coronagraph.
-* [SWAN](http://swan.projet.latmos.ipsl.fr/) - The SWAN Instrument.
+* [SWAN](http://swan.projet.latmos.ipsl.fr/) - Solar Wind Anisotropies project was developped in collaboration with Finnish Meteorological Institute.
 * [SDAC.virtualsolar.org](https://sdac.virtualsolar.org/cgi/search)
 * [Max-Planck Institute for Solar System Research - correlated](https://star.mps.mpg.de/sunrise/) - Study the structure and dynamics of the solar magnetic field.
 * [star.mpae.gwdg.de](http://star.mpae.gwdg.de/) - Max Planck Institute for solar system research, solar and stellar coronae group.
@@ -109,13 +107,13 @@ A curated list of assets available on the Internet related to the astronomy. As 
 ## Exoplanet projects
 
 * [Exoplanet Exploration Program](https://exoplanets.nasa.gov/) - NASA's Exoplanet Exploration Program.
-* [SRON](https://www.sron.nl/exoplanets) - SRON's Exoplanets programme.
+* [SRON](https://www.sron.nl/exoplanets) - SRON's Exoplanets programme, the Dutch national expertise institute for scientific space research.
 * [NASAExoplanetArchive](https://exoplanetarchive.ipac.caltech.edu/) - A service of NASA Exoplanet Science Institute.
 * [List of exoplanet search projects](https://en.wikipedia.org/wiki/List_of_exoplanet_search_projects) - List of exoplanet search projects by Wikipedia.
 
 ## Astrophotography
 
-* [Astrophotography/ Amateur Astronomy Enthusiasts](https://www.facebook.com/groups/astrophotographers/) - Facebook' group.
+* [Astrophotography/ Amateur Astronomy Enthusiasts](https://www.facebook.com/groups/astrophotographers/) - Facebook' group about astrophotography.
 * [Astrophotography tips](https://skyandtelescope.org/astronomy-resources/astrophotography-tips/) - Astrophotography: Tips & Techniques (skyandtelescope.org).
 * [Astrophotography how-to](http://www.astropix.com/html/i_astrop/toc_ap.html) - Catching the Light. Astrophotography by Jerry Lodriguss.
 
@@ -163,28 +161,28 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 
 Selected Space & Physics projects:
 
-* [Galaxy Zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo) - Zooniverse project.
-* [Variable Star Zoo](https://www.zooniverse.org/projects/ilacerna/variable-star-zoo) - Zooniverse project.
-* [SuperWASP Variable Stars](https://www.zooniverse.org/projects/ajnorton/superwasp-variable-stars) - Zooniverse project.
-* [Planet Hunters TESS](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess) - Zooniverse project.
-* [Muon Hunters 2.0](https://www.zooniverse.org/projects/dwright04/muon-hunters-2-dot-0) - Zooniverse project.
-* [Hubble Asteroid Hunter](https://www.zooniverse.org/projects/sandorkruk/hubble-asteroid-hunter) - Zooniverse project.
-* [Galaxy Zoo Mobile](https://www.zooniverse.org/projects/mikewalmsley/galaxy-zoo-mobile) - Zooniverse project.
-* [Solar Stormwatch II](https://www.zooniverse.org/projects/shannon-/solar-stormwatch-ii) - Zooniverse project.
-* [Backyard Worlds: Planet 9](https://www.zooniverse.org/projects/marckuchner/backyard-worlds-planet-9) - Zooniverse project.
-* [Gravity Spy](https://www.zooniverse.org/projects/zooniverse/gravity-spy) - Zooniverse project.
-* [Radio Meteor Zoo](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo) - Zooniverse project.
-* [Comet Hunters](https://www.zooniverse.org/projects/mschwamb/comet-hunters) - Zooniverse project.
-* [Pulsar Hunters](https://www.zooniverse.org/projects/zooniverse/pulsar-hunters) - Zooniverse project.
-* [Supernova Hunters](https://www.zooniverse.org/projects/dwright04/supernova-hunters) - Zooniverse project.
-* [Disk Detective](https://www.diskdetective.org/#/) - Zooniverse project.
-* [Planet Hunters](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess#/) - Zooniverse project TESS.
-* [Higgs Hunters](https://www.higgshunters.org/#/) - Zooniverse project.
-* [Galaxy Zoo: Bar Lengths](https://www.zooniverse.org/projects/vrooje/galaxy-zoo-bar-lengths) - Zooniverse project.
-* [Milky Way Project](https://www.zooniverse.org/projects/povich/milky-way-project) - Zooniverse project.
-* [Radio Galaxy Zoo](https://radio.galaxyzoo.org/#/) - Zooniverse project.
-* [Astronomy Rewind](https://www.zooniverse.org/projects/zooniverse/astronomy-rewind) - Zooniverse project.
-* [Radio Meteor Zoo](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo) - Zooniverse project.
+* [Galaxy Zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo) - Zooniverse project about galaxies.
+* [Variable Star Zoo](https://www.zooniverse.org/projects/ilacerna/variable-star-zoo) - Zooniverse project about variable stars.
+* [SuperWASP Variable Stars](https://www.zooniverse.org/projects/ajnorton/superwasp-variable-stars) - Zooniverse project about variable stars.
+* [Planet Hunters TESS](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess) - Zooniverse project about exoplanets.
+* [Muon Hunters 2.0](https://www.zooniverse.org/projects/dwright04/muon-hunters-2-dot-0) - Zooniverse project about muons.
+* [Hubble Asteroid Hunter](https://www.zooniverse.org/projects/sandorkruk/hubble-asteroid-hunter) - Zooniverse project about asteroids.
+* [Galaxy Zoo Mobile](https://www.zooniverse.org/projects/mikewalmsley/galaxy-zoo-mobile) - Zooniverse project about galaxies.
+* [Solar Stormwatch II](https://www.zooniverse.org/projects/shannon-/solar-stormwatch-ii) - Zooniverse project about the Sun.
+* [Backyard Worlds: Planet 9](https://www.zooniverse.org/projects/marckuchner/backyard-worlds-planet-9) - Zooniverse project about planet 9.
+* [Gravity Spy](https://www.zooniverse.org/projects/zooniverse/gravity-spy) - Zooniverse project about gravitational waves.
+* [Radio Meteor Zoo](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo) - Zooniverse project about meteors.
+* [Comet Hunters](https://www.zooniverse.org/projects/mschwamb/comet-hunters) - Zooniverse project about comets.
+* [Pulsar Hunters](https://www.zooniverse.org/projects/zooniverse/pulsar-hunters) - Zooniverse project about pulsars.
+* [Supernova Hunters](https://www.zooniverse.org/projects/dwright04/supernova-hunters) - Zooniverse project about supernovas.
+* [Disk Detective](https://www.diskdetective.org/#/) - Zooniverse project about stars, which are surrounded by dust-rich circumstellar disks.
+* [Planet Hunters](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess#/) - Zooniverse project TESS, about exoplanets.
+* [Higgs Hunters](https://www.higgshunters.org/#/) - Zooniverse project about hints of the Higgs boson.
+* [Galaxy Zoo: Bar Lengths](https://www.zooniverse.org/projects/vrooje/galaxy-zoo-bar-lengths) - Zooniverse project about galaxies.
+* [Milky Way Project](https://www.zooniverse.org/projects/povich/milky-way-project) - Zooniverse project about the Milky Way.
+* [Radio Galaxy Zoo](https://radio.galaxyzoo.org/#/) - Zooniverse project about black holes.
+* [Astronomy Rewind](https://www.zooniverse.org/projects/zooniverse/astronomy-rewind) - Zooniverse project aimed at turning the SAO/NASA Astrophysics Data System (ADS) into a data resource.
+* [Radio Meteor Zoo](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo) - Zooniverse project about meteors.
 
 ## Sources for scientific papers
 
@@ -210,13 +208,13 @@ Astro groups on Facebook, Yahoo or groups.io etc.
 
 ### Twitter
 
-* [TheMarsSociety](https://twitter.com/TheMarsSociety) - Twitter handle.
-* [ATLAS Project](https://twitter.com/fallingstarIfA) - Twitter handle.
-* [NASA_DEVELOP](https://twitter.com/NASA_DEVELOP) - Twitter handle.
-* [ASAS-SN](https://twitter.com/SuperASASSN) - Twitter handle.
-* [NASA Supercomputing](https://twitter.com/NASA_Supercomp) - Twitter handle.
-* [NASA People](https://twitter.com/NASApeople) - Twitter handle.
-* [NASA Goddard Images](https://twitter.com/NASAGoddardPix) - Twitter handle.
+* [TheMarsSociety](https://twitter.com/TheMarsSociety) - Twitter handle of The Mars Society, connected with the Mars subject.
+* [ATLAS Project](https://twitter.com/fallingstarIfA) - Twitter handle of the ATLAS Project, connected with asteroids subject.
+* [NASA_DEVELOP](https://twitter.com/NASA_DEVELOP) - NASA Applied Sciences Program that conducts research projects applying NASA Earth observations to environmental policy issues around the globe.
+* [ASAS-SN](https://twitter.com/SuperASASSN) - Global network of robotic telescopes, All-Sky Automated Survey for SuperNovae.
+* [NASA Supercomputing](https://twitter.com/NASA_Supercomp) - NASA supercomputers enable scientific discoveries and engineering triumphs for missions in aeronautics, Earth and space science and exploration of the universe.
+* [NASA People](https://twitter.com/NASApeople) - Twitter handle about career in NASA.
+* [NASA Goddard Images](https://twitter.com/NASAGoddardPix) - The official image, video tweeting account for NASA Goddard..
 * [NASA HQ PHOTO](https://twitter.com/nasahqphoto) - Twitter handle.
 * [NASA Marshall](https://twitter.com/NASA_Marshall) - Twitter handle.
 * [ATel](https://twitter.com/astronomerstel) - Twitter handle.
@@ -242,12 +240,12 @@ Astro groups on Facebook, Yahoo or groups.io etc.
 
 ### Facebook
 
-* [Comets and Asteroids](https://www.facebook.com/Comets-and-Asteroids-140234731687/) - Facebook link.
-* [The Moon Appreciation Society](https://www.facebook.com/MoonAppSoc/) - Facebook link.
+* [Comets and Asteroids](https://www.facebook.com/Comets-and-Asteroids-140234731687/) - Facebook link to the page about comets and asteroids.
+* [The Moon Appreciation Society](https://www.facebook.com/MoonAppSoc/) - Facebook link to page about the Moon.
 
 ### Groups
 
-* [Comets and Asteroids Group](https://www.facebook.com/groups/1454757177944714/) - Facebook link.
+* [Comets and Asteroids Group](https://www.facebook.com/groups/1454757177944714/) - Facebook link to the group about comets and asteroids.
 
 ## Awesome links
 
