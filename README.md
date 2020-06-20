@@ -169,7 +169,7 @@ Selected Space & Physics projects:
 * [Hubble Asteroid Hunter](https://www.zooniverse.org/projects/sandorkruk/hubble-asteroid-hunter) - Zooniverse project about asteroids.
 * [Galaxy Zoo Mobile](https://www.zooniverse.org/projects/mikewalmsley/galaxy-zoo-mobile) - Zooniverse project about galaxies.
 * [Solar Stormwatch II](https://www.zooniverse.org/projects/shannon-/solar-stormwatch-ii) - Zooniverse project about the Sun.
-* [Backyard Worlds: Planet 9](https://www.zooniverse.org/projects/marckuchner/backyard-worlds-planet-9) - Zooniverse project about planet 9.
+* [Backyard Worlds: Planet 9](https://www.zooniverse.org/projects/marckuchner/backyard-worlds-planet-9) - Zooniverse project about Planet Nine.
 * [Gravity Spy](https://www.zooniverse.org/projects/zooniverse/gravity-spy) - Zooniverse project about gravitational waves.
 * [Radio Meteor Zoo](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo) - Zooniverse project about meteors.
 * [Comet Hunters](https://www.zooniverse.org/projects/mschwamb/comet-hunters) - Zooniverse project about comets.
