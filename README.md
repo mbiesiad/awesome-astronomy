@@ -208,35 +208,35 @@ Astro groups on Facebook, Yahoo or groups.io etc.
 
 ### Twitter
 
-* [TheMarsSociety](https://twitter.com/TheMarsSociety) - Twitter handle of The Mars Society, connected with the Mars subject.
-* [ATLAS Project](https://twitter.com/fallingstarIfA) - Twitter handle of the ATLAS Project, connected with asteroids subject.
+* [TheMarsSociety](https://twitter.com/TheMarsSociety) - Twitter handle of The Mars Society, Mars related subjects.
+* [ATLAS Project](https://twitter.com/fallingstarIfA) - Twitter handle of the ATLAS Project, asteroids related subjects.
 * [NASA_DEVELOP](https://twitter.com/NASA_DEVELOP) - NASA Applied Sciences Program that conducts research projects applying NASA Earth observations to environmental policy issues around the globe.
 * [ASAS-SN](https://twitter.com/SuperASASSN) - Global network of robotic telescopes, All-Sky Automated Survey for SuperNovae.
 * [NASA Supercomputing](https://twitter.com/NASA_Supercomp) - NASA supercomputers enable scientific discoveries and engineering triumphs for missions in aeronautics, Earth and space science and exploration of the universe.
 * [NASA People](https://twitter.com/NASApeople) - Twitter handle about career in NASA.
 * [NASA Goddard Images](https://twitter.com/NASAGoddardPix) - The official image, video tweeting account for NASA Goddard..
-* [NASA HQ PHOTO](https://twitter.com/nasahqphoto) - Twitter handle.
-* [NASA Marshall](https://twitter.com/NASA_Marshall) - Twitter handle.
-* [ATel](https://twitter.com/astronomerstel) - Twitter handle.
-* [NASA Tournament Lab](https://twitter.com/NASA_NTL) - Twitter handle.
-* [ESA EarthObservation](https://twitter.com/ESA_EO) - Twitter handle.
-* [ESA Exhibitions](https://twitter.com/ESAExhibitions) - Twitter handle.
-* [Astronomy Magazine](https://twitter.com/AstronomyMag) - Twitter handle.
-* [Sky & Telescope](https://twitter.com/SkyandTelescope) - Twitter handle.
-* [NASA Earth](https://twitter.com/NASAEarth) - Twitter handle.
-* [NASA Ice](https://twitter.com/NASA_ICE) - Twitter handle.
-* [NASA Climate](https://twitter.com/NASAClimate) - Twitter handle.
-* [CERN](https://twitter.com/CERN) - Twitter handle.
-* [Scientific American](https://twitter.com/sciam) - Twitter handle.
-* [NASA JPL](https://twitter.com/NASAJPL) - Twitter handle.
-* [NASA's Kennedy Space Center](https://twitter.com/NASAKennedy) - Twitter handle.
-* [LIGO](https://twitter.com/LIGO) - Twitter handle.
-* [NASA Glenn Research](https://twitter.com/NASAglenn) - Twitter handle.
-* [ESA Science](https://twitter.com/esascience) - Twitter handle.
-* [ESA Operations](https://twitter.com/esaoperations) - Twitter handle.
-* [NASA Solar System](https://twitter.com/NASASolarSystem) - Twitter handle.
-* [NASA Astronauts](https://twitter.com/NASA_Astronauts) - Twitter handle.
-* [Pan-STARRS1 NEOwatch](https://twitter.com/PS1NEOwatch) - Twitter handle.
+* [NASA HQ PHOTO](https://twitter.com/nasahqphoto) - NASA Headquarters Photo Department.
+* [NASA Marshall](https://twitter.com/NASA_Marshall) - Twitter handle of NASA's Marshall Space Flight Center.
+* [ATel](https://twitter.com/astronomerstel) - Twitter handle of The Astronomer's Telegram.
+* [NASA Tournament Lab](https://twitter.com/NASA_NTL) - Engaging the crowd to contribute to NASA's Space Program.
+* [ESA EarthObservation](https://twitter.com/ESA_EO) - Twitter handle about ESA' Earth Observation.
+* [ESA Exhibitions](https://twitter.com/ESAExhibitions) - The European Space Agency Exhibitions Office, sharing the latest news and pics on ESA Events, tradeshows and more.
+* [Astronomy Magazine](https://twitter.com/AstronomyMag) - The best-selling astronomy magazine.
+* [Sky & Telescope](https://twitter.com/SkyandTelescope) - The world's leading compendium of information about the science and hobby of astronomy.
+* [NASA Earth](https://twitter.com/NASAEarth) - NASA uses the vantage point of space to increase our understanding of Earth and improve lives.
+* [NASA Ice](https://twitter.com/NASA_ICE) - Exploring Earth's sea ice, land ice, snow and permafrost.
+* [NASA Climate](https://twitter.com/NASAClimate) - NASA' climate science.
+* [CERN](https://twitter.com/CERN) - The European Organization for Nuclear Research.
+* [Scientific American](https://twitter.com/sciam) - An American popular science magazine.
+* [NASA JPL](https://twitter.com/NASAJPL) - NASA Jet Propulsion Laboratory manages many of NASA's robotic missions exploring Earth, the solar system and the universe.
+* [NASA's Kennedy Space Center](https://twitter.com/NASAKennedy) - The world’s preeminent launch complex for government and commercial space access, enabling the world to explore and work in space.
+* [LIGO](https://twitter.com/LIGO) - Official Twitter of the LIGO Scientific Collaboration.
+* [NASA Glenn Research](https://twitter.com/NASAglenn) - NASA Glenn is advancing exploration of our solar system and beyond while maintaining global leadership in aeronautics.
+* [ESA Science](https://twitter.com/esascience) - Science at the European Space Agency ESA, keeping you posted on European space science activities.
+* [ESA Operations](https://twitter.com/esaoperations) - From Earth orbit to deep space: sharing the excitement of realtime mission operations at the European Space Agency.
+* [NASA Solar System](https://twitter.com/NASASolarSystem) - NASA's Planetary Science Division.
+* [NASA Astronauts](https://twitter.com/NASA_Astronauts) - NASA astronauts Twitter handle.
+* [Pan-STARRS1 NEOwatch](https://twitter.com/PS1NEOwatch) - Automated updates when the Pan-STARRS1 team identify a new Near Earth Object. A ground-breaking astronomical survey telescope on Haleakala, Maui.
 
 ### Facebook
 
@@ -255,7 +255,7 @@ Other awesome links!
 * [Starlink](https://www.starlink.com/) - Satellite constellation being constructed by SpaceX.
 * [BRITE-PL](http://www.brite-pl.pl/) - Heweliusz is the second Polish scientific satellite.
 * [BRITE-Constellation](https://brite-constellation.at/) - A network of five nanosatellites.
-* [PlanetaryResources](https://github.com/PlanetaryResources) - Repo on GitHub.
+* [PlanetaryResources](https://github.com/PlanetaryResources) - Repo on GitHub from the Planetary Resources.
 * [consensys.space](https://www.consensys.space/) - Open Source Space.
 * [University Rover Challenge](http://urc.marssociety.org/) - Robotics competition for university level students.
 * [KRAKsat](https://www.kraksat.pl/space/) - Satellite has docked to International Space Station with Cygnus spaceship.
