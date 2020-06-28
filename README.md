@@ -116,6 +116,7 @@ A curated list of assets available on the Internet related to the astronomy. As 
 * [Astrophotography/ Amateur Astronomy Enthusiasts](https://www.facebook.com/groups/astrophotographers/) - Facebook' group about astrophotography.
 * [Astrophotography tips](https://skyandtelescope.org/astronomy-resources/astrophotography-tips/) - Astrophotography: Tips & Techniques (skyandtelescope.org).
 * [Astrophotography how-to](http://www.astropix.com/html/i_astrop/toc_ap.html) - Catching the Light. Astrophotography by Jerry Lodriguss.
+* [TWAN](http://www.twanight.org/newTWAN/index.asp) - The World At Night is an international effort to present stunning nightscape photos and timelapse videos of the world’s landmarks against celestial attractions. TWAN is a bridge between art, science, and culture.
 
 ## Society
 
@@ -267,6 +268,7 @@ Other awesome links!
 * [SpaceWeather](https://www.spaceweather.com/) - News and information about the Sun-Earth environment.
 * [SWPC](https://www.swpc.noaa.gov/) - Space Weather Prediction Center, National Oceanic and Atmospheric Administration.
 * [ZTF](https://www.ztf.caltech.edu/) - The Zwicky Transient Facility is a new time-domain survey that had first light at Palomar Observatory in 2017.
+* [DESI Survey](https://www.desi.lbl.gov/) - The Dark Energy Spectroscopic Instrument. The DESI Survey will measure the properties of Dark Energy using a survey of 30+ million galaxy redshifts.
 
 ## Conferences
 
