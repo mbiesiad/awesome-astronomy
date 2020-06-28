@@ -266,6 +266,7 @@ Other awesome links!
 * [The Virgo experiment](http://www.virgo-gw.eu/) - Large interferometer designed to detect gravitational waves.
 * [SpaceWeather](https://www.spaceweather.com/) - News and information about the Sun-Earth environment.
 * [SWPC](https://www.swpc.noaa.gov/) - Space Weather Prediction Center, National Oceanic and Atmospheric Administration.
+* [ZTF](https://www.ztf.caltech.edu/) - The Zwicky Transient Facility is a new time-domain survey that had first light at Palomar Observatory in 2017.
 
 ## Conferences
 
