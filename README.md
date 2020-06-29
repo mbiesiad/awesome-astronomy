@@ -269,6 +269,7 @@ Other awesome links!
 * [SWPC](https://www.swpc.noaa.gov/) - Space Weather Prediction Center, National Oceanic and Atmospheric Administration.
 * [ZTF](https://www.ztf.caltech.edu/) - The Zwicky Transient Facility is a new time-domain survey that had first light at Palomar Observatory in 2017.
 * [DESI Survey](https://www.desi.lbl.gov/) - The Dark Energy Spectroscopic Instrument. The DESI Survey will measure the properties of Dark Energy using a survey of 30+ million galaxy redshifts.
+* [LSST SSSC](https://lsst-sssc.github.io/) - Solar System Science Collaboration - preparing to study the Solar System with the Large Synoptic Survey Telescope.
 
 ## Conferences
 
