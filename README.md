@@ -70,6 +70,7 @@ A curated list of assets available on the Internet related to the astronomy. As 
 
 * [ICQ](http://www.icq.eps.harvard.edu/) - Comet Information and the International Comet Quarterly (ICQ).
 * [MPC](https://www.minorplanetcenter.net/iau/mpc.html) - Designation of minor bodies in the solar system.
+* [COBS](https://cobs.si/) - Comet Observation database (COBS) saw first light in 2010 and is maintained by Crni Vrh Observatory. It is a free and unique service for comet observers worldwide which allows submission, display and analysis of comet data in a single location.
 
 ## Asteroids
 
