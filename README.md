@@ -78,6 +78,7 @@ A curated list of assets available on the Internet related to the astronomy. As 
 * [TOTAS](https://totas.cosmos.esa.int/) - Teide Observatory Tenerife Asteroid Survey.
 * [ATLAS](http://www.fallingstar.com) - Asteroid Terrestrial-impact Last Alert System.
 * [Pan-STARRS](http://pswww.ifa.hawaii.edu/pswww) - The Panoramic Survey Telescope and Rapid Response System.
+* [NASA PDS: Small Bodies Node](https://pds-smallbodies.astro.umd.edu/) - The Small Bodies Node (SBN) is a part of NASA's Planetary Data System, specializes in the archiving, cataloging, and distributing of scientific data sets relevant to asteroids, comets and interplanetary dust.
 
 ## Sun
 
@@ -195,7 +196,9 @@ Selected Space & Physics projects:
 
 ## Databases
 
-* [NASA/IPAC Extragalactic Database](http://ned.ipac.caltech.edu/)
+* [NASA/IPAC Extragalactic Database](http://ned.ipac.caltech.edu/) - An online astronomical database for astronomers that collates and cross-correlates astronomical information on extragalactic objects (galaxies, quasars, radio, x-ray and infrared sources, etc.).
+* [SIMBAD](http://simbad.u-strasbg.fr/simbad/) - The Set of Identifications, Measurements and Bibliography for Astronomical Data is an astronomical database of objects beyond the Solar System.
+* [PDS](https://pds.nasa.gov/) - The Planetary Data System is a distributed data system that NASA uses to archive data collected by Solar System missions.
 
 ## Tools
 
