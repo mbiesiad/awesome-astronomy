@@ -44,6 +44,7 @@ A curated list of assets available on the Internet related to the astronomy. As 
 * [NASA Climate](https://climate.nasa.gov/) - NASA about the climate.
 * [HUBBLE SPACE TELESCOPE](https://hubblesite.org/) - A space telescope.
 * [NASCOM](https://sohowww.nascom.nasa.gov/) - The NASA (Ground) Communications System.
+* [ISS](https://www.nasa.gov/mission_pages/station/main/index.html) - International Space Station.
 
 ## ESA 
 
@@ -136,6 +137,8 @@ Astronomy-related societies, organisations etc on the world.
 * [PTMA](http://ptma.pl/) - Polish Society of Amateur Astronomers (pol. Polskie Towarzystwo Miłośników Astronomii).
 * [Urania – Postępy Astronomii](http://www.urania.edu.pl/) - Polish astronomical magazine.
 * [PKiM](http://www.pkim.org/) - Polish Fireball Network.
+* [Proxima](https://proxima.org.pl/) - Polish astronomical magazine.
+* [Astronomia Nova](http://www.astronomianova.org/index1.php?lang=eng) - Astronomia Nova association.
 
 ### International
 
@@ -149,6 +152,7 @@ Astronomy-related societies, organisations etc on the world.
 * [Astronomy](https://astronomy.com/) - A monthly American magazine about astronomy.
 * [S&T](https://skyandtelescope.org/) - Sky & Telescope is a monthly American magazine covering all aspects of amateur astronomy.
 * [CERN](https://home.cern/) - The European Organization for Nuclear Research, is the world's largest particle physics lab.
+* [AAVSO](https://www.aavso.org/) - American Association of Variable Star Observers.
 
 ## Citizen science
 
@@ -199,6 +203,7 @@ Selected Space & Physics projects:
 * [NASA/IPAC Extragalactic Database](http://ned.ipac.caltech.edu/) - An online astronomical database for astronomers that collates and cross-correlates astronomical information on extragalactic objects (galaxies, quasars, radio, x-ray and infrared sources, etc.).
 * [SIMBAD](http://simbad.u-strasbg.fr/simbad/) - The Set of Identifications, Measurements and Bibliography for Astronomical Data is an astronomical database of objects beyond the Solar System.
 * [PDS](https://pds.nasa.gov/) - The Planetary Data System is a distributed data system that NASA uses to archive data collected by Solar System missions.
+* [GCVS](http://www.sai.msu.su/gcvs/gcvs/) - General Catalogue of Variable Stars.
 
 ## Tools
 
