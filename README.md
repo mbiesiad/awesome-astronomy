@@ -86,7 +86,7 @@ A curated list of assets available on the Internet related to the astronomy. As 
 * [SOHO](https://sohowww.nascom.nasa.gov/) - The Solar and Heliospheric Observatory.
 * [LASCO](https://lasco-www.nrl.navy.mil/index.php?p=content/about_lasco) - The Large Angle and Spectrometric Coronagraph.
 * [SWAN](http://swan.projet.latmos.ipsl.fr/) - Solar Wind Anisotropies project was developped in collaboration with Finnish Meteorological Institute.
-* [SDAC.virtualsolar.org](https://sdac.virtualsolar.org/cgi/search)
+* [SDAC.virtualsolar.org](https://sdac.virtualsolar.org/cgi/search) - Virtual Solar Observatory.
 * [Max-Planck Institute for Solar System Research - correlated](https://star.mps.mpg.de/sunrise/) - Study the structure and dynamics of the solar magnetic field.
 * [star.mpae.gwdg.de](http://star.mpae.gwdg.de/) - Max Planck Institute for solar system research, solar and stellar coronae group.
 * [mps.mpg.de](https://www.mps.mpg.de/solar-physics) - Max Planck Institute for solar system research.
