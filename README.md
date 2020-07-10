@@ -93,6 +93,7 @@ A curated list of assets available on the Internet related to the astronomy. A n
 * [SDAC](https://umbra.nascom.nasa.gov/index.html/) - Solar Data Analysis Center.
 * [PSP](http://parkersolarprobe.jhuapl.edu/) - The Parker Solar Probe.
 * [WISPR](https://wispr.nrl.navy.mil/) - The Wide-Field Imager for Solar Probe.
+* [SOHO Newsroom](https://soho.nascom.nasa.gov/newsroom/) - Newsroom for Solar and Heliospheric Observatory.
 
 ## The Moon
 
@@ -280,6 +281,7 @@ Other awesome links!
 * [ZTF](https://www.ztf.caltech.edu/) - The Zwicky Transient Facility is a new time-domain survey that had first light at Palomar Observatory in 2017.
 * [DESI Survey](https://www.desi.lbl.gov/) - The Dark Energy Spectroscopic Instrument. The DESI Survey will measure the properties of Dark Energy using a survey of 30+ million galaxy redshifts.
 * [LSST SSSC](https://lsst-sssc.github.io/) - Solar System Science Collaboration - preparing to study the Solar System with the Large Synoptic Survey Telescope.
+* [SkyHunt](https://skyhuntblog.wordpress.com/) - Astroblog by Trygve Prestgard.
 
 ## Conferences
 
