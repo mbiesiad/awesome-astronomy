@@ -283,6 +283,7 @@ Other awesome links!
 * [LSST SSSC](https://lsst-sssc.github.io/) - Solar System Science Collaboration - preparing to study the Solar System with the Large Synoptic Survey Telescope.
 * [SkyHunt](https://skyhuntblog.wordpress.com/) - Astroblog by Trygve Prestgard.
 * [R.Kracht page](http://www.rkracht.de/soho/index.htm) - SOHO comets by Rainer Kracht.
+* [Mike Oates page](http://www.mikeoates.org/comets/) - Mike's SOHO Comet Hunt.
 
 ## Conferences
 
