@@ -282,6 +282,7 @@ Other awesome links!
 * [DESI Survey](https://www.desi.lbl.gov/) - The Dark Energy Spectroscopic Instrument. The DESI Survey will measure the properties of Dark Energy using a survey of 30+ million galaxy redshifts.
 * [LSST SSSC](https://lsst-sssc.github.io/) - Solar System Science Collaboration - preparing to study the Solar System with the Large Synoptic Survey Telescope.
 * [SkyHunt](https://skyhuntblog.wordpress.com/) - Astroblog by Trygve Prestgard.
+* [R.Kracht page](http://www.rkracht.de/soho/index.htm) - SOHO comets by Rainer Kracht.
 
 ## Conferences
 
