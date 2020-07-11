@@ -1,6 +1,6 @@
 # Awesome Astronomy [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of assets available on the Internet related to the astronomy. A natural science that studies celestial objects and phenomena. It uses mathematics, physics, and chemistry in order to explain their origin and evolution. As you know, that's a large field of science, so any contribution is warmly welcome!
+The field of science that using maths, physics, chemistry, IT and more to describe the world.
 
 ## Contents
 
