@@ -287,7 +287,7 @@ Other awesome links!
 * [SkyHunt](https://skyhuntblog.wordpress.com/) - Astroblog by Trygve Prestgard.
 * [R.Kracht page](http://www.rkracht.de/soho/index.htm) - SOHO comets by Rainer Kracht.
 * [Mike Oates page](http://www.mikeoates.org/comets/) - Mike's SOHO Comet Hunt.
-* [Einstein@Home] - A volunteer distributed computing project that searches for signals from rotating neutron stars in data from the LIGO gravitational-wave detectors, from large radio telescopes, and from the Fermi Gamma-ray Space Telescope.
+* [Einstein@Home](https://einsteinathome.org/) - A volunteer distributed computing project that searches for signals from rotating neutron stars in data from the LIGO gravitational-wave detectors, from large radio telescopes, and from the Fermi Gamma-ray Space Telescope.
 
 ## Conferences
 
