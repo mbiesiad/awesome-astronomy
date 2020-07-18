@@ -48,6 +48,8 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [WISE](http://wise.ssl.berkeley.edu/) - Wide-field Infrared Survey Explorer.
 * [NEOWISE](https://neowise.ipac.caltech.edu/) - Near-Earth Object Wide-field Infrared Survey Explorer.
 * [FGST](https://fermi.gsfc.nasa.gov/) - The Fermi Gamma-ray Space Telescope.
+* [New Horizons](http://pluto.jhuapl.edu/) - An interplanetary space probe that was launched as a part of NASA's New Frontiers program.
+* [New Frontiers program](https://www.nasa.gov/planetarymissions/newfrontiers.html) - A series of space exploration missions being conducted by NASA with the purpose of researching several of the Solar System bodies, including the dwarf planet Pluto.
 
 ## ESA 
 
@@ -89,6 +91,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [CSS](https://catalina.lpl.arizona.edu/) - An astronomical survey to discover comets and asteroids. It is conducted at the Steward Observatory's Catalina Station, located near Tucson, Arizona, in the United States.
 * [NEAT](http://neat.jpl.nasa.gov/) - Near-Earth Asteroid Tracking, a program run by NASA and the Jet Propulsion Laboratory, surveying the sky for near-Earth objects.
 * [LONEOS](http://asteroid.lowell.edu/asteroid/loneos/loneos.html) - Lowell Observatory Near-Earth-Object Search, a project designed to discover asteroids and comets that orbit near the Earth.
+* [CSBN](https://www.klet.org/csbn/) - The Committee for Small Bodies Nomenclature (also known as The Working Group for Small Bodies Nomenclature).
 
 ## Sun
 
