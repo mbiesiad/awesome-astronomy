@@ -304,6 +304,7 @@ Other awesome links!
 ## Conferences
 
 * [Waset.org - astronomy](https://waset.org/astronomy-conferences) - An indexed listing of upcoming meetings, seminars and other.
+* [IAU Events](https://www.iau-100.org/events) - The IAU100 celebrations consists of coordinated activities on national, regional and international levels.
 
 ## Contributing
 
