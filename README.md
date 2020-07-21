@@ -303,6 +303,7 @@ Other awesome links!
 * [Kleinplaneten](http://www.kleinplanetenseite.de/) - Site by Gerhard Lehmann about asteroids.
 * [MB Webpage](https://biesiadamichal.wordpress.com/) - Selected SOHO-comet discoveries by Michal Biesiada.
 * [Time and Date](https://www.timeanddate.com/astronomy/) - Useful page with section for astronomy.
+* [BBC Sky at Night magazine](https://www.skyatnightmagazine.com/) - A British monthly magazine about astronomy aimed at amateur astronomers and published by Immediate Media Company.
 
 ## Conferences
 
