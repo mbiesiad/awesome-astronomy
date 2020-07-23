@@ -50,6 +50,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [FGST](https://fermi.gsfc.nasa.gov/) - The Fermi Gamma-ray Space Telescope.
 * [New Horizons](http://pluto.jhuapl.edu/) - An interplanetary space probe that was launched as a part of NASA's New Frontiers program.
 * [New Frontiers program](https://www.nasa.gov/planetarymissions/newfrontiers.html) - A series of space exploration missions being conducted by NASA with the purpose of researching several of the Solar System bodies, including the dwarf planet Pluto.
+* [Perseverance rover](https://mars.nasa.gov/mars2020/) - A Mars rover manufactured by the Jet Propulsion Laboratory for use in NASA's Mars 2020 mission.
 
 ## ESA 
 
@@ -92,6 +93,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [NEAT](http://neat.jpl.nasa.gov/) - Near-Earth Asteroid Tracking, a program run by NASA and the Jet Propulsion Laboratory, surveying the sky for near-Earth objects.
 * [LONEOS](http://asteroid.lowell.edu/asteroid/loneos/loneos.html) - Lowell Observatory Near-Earth-Object Search, a project designed to discover asteroids and comets that orbit near the Earth.
 * [CSBN](https://www.klet.org/csbn/) - The Committee for Small Bodies Nomenclature (also known as The Working Group for Small Bodies Nomenclature).
+* [SpaceweatherRadio](https://www.spaceweatherradio.com/) - The short-lived echo of a radio signal.
 
 ## Sun
 
@@ -106,6 +108,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [PSP](http://parkersolarprobe.jhuapl.edu/) - The Parker Solar Probe.
 * [WISPR](https://wispr.nrl.navy.mil/) - The Wide-Field Imager for Solar Probe.
 * [SOHO Newsroom](https://soho.nascom.nasa.gov/newsroom/) - Newsroom for Solar and Heliospheric Observatory.
+* [Sunspots](https://soho.nascom.nasa.gov/sunspots/) - Sunspots by SOHO.
 
 ## The Moon
 
@@ -305,6 +308,7 @@ Other awesome links!
 * [MB Webpage](https://biesiadamichal.wordpress.com/) - Selected SOHO-comet discoveries by Michal Biesiada.
 * [Time and Date](https://www.timeanddate.com/astronomy/) - Useful page with section for astronomy.
 * [BBC Sky at Night magazine](https://www.skyatnightmagazine.com/) - A British monthly magazine about astronomy aimed at amateur astronomers and published by Immediate Media Company.
+* [Earth&Sky](https://earthsky.org/) - Site about about science and nature.
 
 ## Conferences
 
