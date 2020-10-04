@@ -124,6 +124,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 
 * [VO](http://ivoa.net/) - Virtual observatory.
 * [LSST](https://www.vro.org/) - The Vera C. Rubin Observatory, previously referred to as the Large Synoptic Survey Telescope (LSST), is an astronomical observatory currently under construction in Chile.
+* [LSO](https://lco.global/) - Las Cumbres Observatory is a network of astronomical observatories run by a non-profit private operating foundation directed by the technologist Wayne Rosing.
 
 ## Exoplanet projects
 
