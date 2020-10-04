@@ -309,6 +309,8 @@ Other awesome links!
 * [Time and Date](https://www.timeanddate.com/astronomy/) - Useful page with section for astronomy.
 * [BBC Sky at Night magazine](https://www.skyatnightmagazine.com/) - A British monthly magazine about astronomy aimed at amateur astronomers and published by Immediate Media Company.
 * [Earth&Sky](https://earthsky.org/) - Site about about science and nature.
+* [Perihelio](http://www.perihelio.org/) - Site about comets in twilight.
+* [CometChaser](https://www.cometchaser.de/) - Page is dedicated to all astronomers with small telescopes (also with comet section).
 
 ## Conferences
 
