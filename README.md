@@ -233,6 +233,7 @@ Selected Space & Physics projects:
 * [LaTeX](https://en.wikipedia.org/wiki/LaTeX) - A document preparation system.
 * [Python](https://www.python.org/) - An interpreted, high-level, general-purpose programming language.
 * [R](https://www.r-project.org/) - Programming language and free software environment for statistical computing and graphics.
+* [Stellarium](http://stellarium.org/) - A free and open source planetarium for your computer. 
 
 ## Social media & groups
 
@@ -312,6 +313,7 @@ Other awesome links!
 * [Earth&Sky](https://earthsky.org/) - Site about about science and nature.
 * [Perihelio](http://www.perihelio.org/) - Site about comets in twilight.
 * [CometChaser](https://www.cometchaser.de/) - Page is dedicated to all astronomers with small telescopes (also with comet section).
+* [Crash Course - Astronomy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL) - An introductory crash course on astronomy.
 
 ## Conferences
 
