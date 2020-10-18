@@ -314,6 +314,7 @@ Other awesome links!
 * [Perihelio](http://www.perihelio.org/) - Site about comets in twilight.
 * [CometChaser](https://www.cometchaser.de/) - Page is dedicated to all astronomers with small telescopes (also with comet section).
 * [Crash Course - Astronomy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL) - An introductory crash course on astronomy.
+* [Don Machholz](https://donmachholz.com/) - Site by Don Machholz, the comet hunter.
 
 ## Conferences
 
