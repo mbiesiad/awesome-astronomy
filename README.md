@@ -2,6 +2,10 @@
 
 The field of science that using maths, physics, chemistry, IT and more to describe the world.
 
+![NASA-Milky-Way](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/GSFC_20171208_Archive_e001738%7Eorig.jpg)
+
+> _Source: NASA - NASA's Hubble Shows Milky Way is Destined for Head-On Collision: https://images.nasa.gov/details-GSFC_20171208_Archive_e001738_
+
 ## Contents
 
 * [Translations](#translations)
@@ -75,6 +79,10 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 
 ## Comets
 
+![LovejoyComet](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/comet-lovejoy.png)
+
+> Comet Lovejoy2014. Source: [Sky & Telescope](https://skyandtelescope.org/online-gallery/comet-lovejoy-15/)
+
 * [ICQ](http://www.icq.eps.harvard.edu/) - Comet Information and the International Comet Quarterly (ICQ).
 * [MPC](https://www.minorplanetcenter.net/iau/mpc.html) - Designation of minor bodies in the solar system.
 * [COBS](https://cobs.si/) - Comet Observation database (COBS) saw first light in 2010 and is maintained by Crni Vrh Observatory. It is a free and unique service for comet observers worldwide which allows submission, display and analysis of comet data in a single location.
@@ -97,6 +105,10 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 
 ## Sun
 
+![NASA-Sun-Corona](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/corona2.en.jpg)
+
+> _Image of corona from NASA's Solar Dynamics Observatory showing features created by magnetic fields. Image credit: NASA https://spaceplace.nasa.gov/sun-corona/en/_
+
 * [SOHO](https://sohowww.nascom.nasa.gov/) - The Solar and Heliospheric Observatory.
 * [LASCO](https://lasco-www.nrl.navy.mil/index.php?p=content/about_lasco) - The Large Angle and Spectrometric Coronagraph.
 * [SWAN](http://swan.projet.latmos.ipsl.fr/) - Solar Wind Anisotropies project was developped in collaboration with Finnish Meteorological Institute.
@@ -111,6 +123,10 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [Sunspots](https://soho.nascom.nasa.gov/sunspots/) - Sunspots by SOHO.
 
 ## The Moon
+
+![Moon-Nasa](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/moon-nasa.png)
+
+> _A full moon captured July 18, 2008. Credit: NASA/Sean Smith https://asd.gsfc.nasa.gov/blueshift/index.php/2015/02/12/no-mardi-gras-under-a-full-moon/_
 
 * [Moon Society](https://www.moonsociety.org/) - Space advocacy organization.
 
@@ -177,6 +193,10 @@ Astronomy-related societies, organisations etc on the world.
 Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science)) is scientific research conducted, in whole or in part, by amateur (or nonprofessional) scientists.
 
 ### Sungrazer
+
+![Sungrazer-Lovejoy](https://github.com/mbiesiad/awesome-astronomy/blob/master/media/sungrazer-lovejoy.png)
+
+> _C/2011 W3 (Lovejoy) - SOHO/LASCO C3 (2011/12/15) - Credits: NASA, ESA (LASCO C3)_
 
 * [Sungrazer](https://sungrazer.nrl.navy.mil/) - A NASA-funded Citizen Science Project.
 
