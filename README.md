@@ -202,6 +202,7 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 > _C/2011 W3 (Lovejoy) - SOHO/LASCO C3 (2011/12/15) - Credits: NASA, ESA (LASCO C3)_
 
 * [Sungrazer](https://sungrazer.nrl.navy.mil/) - A NASA-funded Citizen Science Project.
+* [The Sungrazer Project] - New modern style site of Sungrazer.
 
 ### Zooniverse
 
