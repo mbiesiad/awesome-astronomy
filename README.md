@@ -343,6 +343,7 @@ Other awesome links!
 * [Astronomy & Astrophysics](https://www.aanda.org/) - A&A is an international journal which publishes papers on all aspects of astronomy and astrophysics.
 * [BOINC](https://boinc.berkeley.edu/) - The Berkeley Open Infrastructure for Network Computing is an open-source middleware system for volunteer computing and grid computing.
 * [Heavens-Above](https://www.heavens-above.com/) - The website is dedicated to helping people observe and track satellites orbiting the Earth without the need for optical equipment such as binoculars or telescopes.
+* [ASAS](http://www.astrouw.edu.pl/asas/) - The All Sky Automated Survey is a Polish project implemented on 7 April 1997 to do photometric monitoring of approximately 20 million stars brighter than 14 magnitude all over the sky.
 
 ## Conferences
 
