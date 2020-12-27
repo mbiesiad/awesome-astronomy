@@ -344,6 +344,8 @@ Other awesome links!
 * [BOINC](https://boinc.berkeley.edu/) - The Berkeley Open Infrastructure for Network Computing is an open-source middleware system for volunteer computing and grid computing.
 * [Heavens-Above](https://www.heavens-above.com/) - The website is dedicated to helping people observe and track satellites orbiting the Earth without the need for optical equipment such as binoculars or telescopes.
 * [ASAS](http://www.astrouw.edu.pl/asas/) - The All Sky Automated Survey is a Polish project implemented on 7 April 1997 to do photometric monitoring of approximately 20 million stars brighter than 14 magnitude all over the sky.
+* [The Pan-STARRS Survey for Transients](https://star.pst.qub.ac.uk/ps1threepi/psdb/) - The Pan-STARRS1 telescope carried out the 3Pi survey of the whole sky north of -30 degrees between 2010-2014 in grizy (PS1 specific filters). This was run by the PS1 Science Consortium.
+* [Transient Name Server](https://www.wis-tns.org/) - TNS by IAU Supernova Working Group.
 
 ## Conferences
 
