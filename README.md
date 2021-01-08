@@ -264,6 +264,25 @@ Selected Space & Physics projects:
 ## Repositories
 
 * [Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
+* [Astronomy for Meteor](https://github.com/jagi/meteor-astronomy) - Model layer for Meteor.
+* [SunPy](https://github.com/sunpy/sunpy) - Python for Solar Physics.
+* [Mapping The Solar System](https://github.com/eleanorlutz/asteroids_atlas_of_space) - Code, data, and instructions for mapping orbits of asteroids in the solar system.
+* [Astroquery](https://github.com/astropy/astroquery) - Functions and classes to access online data resources.
+* [OpenSpace](https://github.com/OpenSpace/OpenSpace) - An open source astrovisualization project.
+* [Astronomy Picture of the Day (APOD) microservice](https://github.com/nasa/apod-api) - Astronomy Picture of the Day API service.
+* [Lightkurve](https://github.com/KeplerGO/lightkurve) - A friendly package for Kepler & TESS time series analysis in Python.
+* [Taotie](https://github.com/dr-guangtou/taotie) - A curated collection of resources for astrophysical research.
+* [Allsky Camera](https://github.com/thomasjacquin/allsky) - A Raspberry Pi operated Wireless Allsky Camera.
+* [Tensorflow Elliptical vs Sprial Galaxy Image Classifier](https://github.com/rhnvrm/galaxy-image-classifier-tensorflow) - Classify whether an image is of a Spiral or an Elliptical Galaxy using Transfer Learning (Tensorflow).
+* [Gaia Sky](https://github.com/langurmonkey/gaiasky) - Mirror of Gaia Sky repository hosted on GitLab.
+* [astro-rust](https://github.com/saurvs/astro-rust) - Astronomical algorithms in Rust.
+* [Astroberry Server](https://github.com/rkaczorek/astroberry-server) - A ready to use system for Raspberry Pi for controlling all your astronomy equipment.
+* [galpy](https://github.com/jobovy/galpy) - Galactic Dynamics in Python.
+* [The Solar System](https://github.com/sanderblue/solar-system-threejs) - The Solar System: Modeled to scale with Three.js.
+* [astronomia](https://github.com/commenthol/astronomia) - An astronomical library.
+* [PyTransit](https://github.com/hpparvi/PyTransit) - Fast and easy exoplanet transit light curve modelling.
+* [gaia_tools](https://github.com/jobovy/gaia_tools) - Tools for working with the ESA Gaia data and related data sets.
+* [Astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package.
 
 ## Social media & groups
 
