@@ -25,6 +25,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [Sources for scientific papers](#sources-for-scientific-papers)
 * [Databases](#databases)
 * [Tools](#tools)
+* [Repositories](#repositories)
 * [Social media & groups](#social-media--groups)
 * [Awesome links](#awesome-links)
 * [Conferences](#conferences)
@@ -259,6 +260,10 @@ Selected Space & Physics projects:
 * [R](https://www.r-project.org/) - Programming language and free software environment for statistical computing and graphics.
 * [Stellarium](http://stellarium.org/) - A free and open source planetarium for your computer.
 * [IRIS](http://www.astrosurf.com/buil/iris-software.html) - Free image processing software.
+
+## Repositories
+
+* [Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
 
 ## Social media & groups
 
