@@ -284,6 +284,7 @@ Selected Space & Physics projects:
 * [PyTransit](https://github.com/hpparvi/PyTransit) - Fast and easy exoplanet transit light curve modelling.
 * [gaia_tools](https://github.com/jobovy/gaia_tools) - Tools for working with the ESA Gaia data and related data sets.
 * [Astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package.
+* [INDIGO](https://github.com/indigo-astronomy/indigo) - A system of standards and frameworks for multiplatform and distributed astronomy software development designed to scale with your needs.
 
 ## Social media & groups
 
