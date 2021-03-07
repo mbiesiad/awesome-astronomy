@@ -235,10 +235,13 @@ Selected Space & Physics projects:
 * [Radio Galaxy Zoo](https://radio.galaxyzoo.org/#/) - Zooniverse project about black holes.
 * [Astronomy Rewind](https://www.zooniverse.org/projects/zooniverse/astronomy-rewind) - Zooniverse project aimed at turning the SAO/NASA Astrophysics Data System (ADS) into a data resource.
 * [Radio Meteor Zoo](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo) - Zooniverse project about meteors.
-* [Radio Galaxy Zoo: LOFAR](https://www.zooniverse.org/projects/chrismrp/radio-galaxy-zoo-lofar) - Help discover the weirdest variable stars.
-* [Star Notes](https://www.zooniverse.org/projects/projectphaedra/star-notes) - Help transcribe the groundbreaking work of early women astronomers.
+* [Radio Galaxy Zoo: LOFAR](https://www.zooniverse.org/projects/chrismrp/radio-galaxy-zoo-lofar) - Help to discover the weirdest variable stars.
+* [Star Notes](https://www.zooniverse.org/projects/projectphaedra/star-notes) - Help to transcribe the groundbreaking work of early women astronomers.
 * [AI4Mars](https://www.zooniverse.org/projects/hiro-ono/ai4mars) - Teaching Mars rovers how to classify Martian terrain.
 * [Bursts from Space](https://www.zooniverse.org/projects/mikewalmsley/bursts-from-space) - Focused on the mysterious bursts from space.
+* [Zwicky Chemical Factory](https://www.zooniverse.org/projects/adamamiller/zwicky-chemical-factory) - Help to classify stellar explosions for understand how elements are created in the universe.
+* [Citizen ASAS-SN](https://www.zooniverse.org/projects/tharinduj/citizen-asas-sn) - Classify the light curves of variable stars and help to find the most unusual ones.
+* [Dark Energy Explorers](https://www.zooniverse.org/projects/erinmc/dark-energy-explorers) - Identify distant galaxies to help measure dark energy when the universe was just ~2-3 billion years old.
 
 ## Sources for scientific papers
 
