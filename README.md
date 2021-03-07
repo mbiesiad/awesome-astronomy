@@ -292,6 +292,7 @@ Selected Space & Physics projects:
 * [gaia_tools](https://github.com/jobovy/gaia_tools) - Tools for working with the ESA Gaia data and related data sets.
 * [Astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package.
 * [INDIGO](https://github.com/indigo-astronomy/indigo) - A system of standards and frameworks for multiplatform and distributed astronomy software development designed to scale with your needs.
+* [Supernova Hunters results] - Repo about results of Supernova Hunters project.
 
 ## Social media & groups
 
