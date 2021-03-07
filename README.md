@@ -236,6 +236,9 @@ Selected Space & Physics projects:
 * [Astronomy Rewind](https://www.zooniverse.org/projects/zooniverse/astronomy-rewind) - Zooniverse project aimed at turning the SAO/NASA Astrophysics Data System (ADS) into a data resource.
 * [Radio Meteor Zoo](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo) - Zooniverse project about meteors.
 * [Radio Galaxy Zoo: LOFAR](https://www.zooniverse.org/projects/chrismrp/radio-galaxy-zoo-lofar) - Help discover the weirdest variable stars.
+* [Star Notes](https://www.zooniverse.org/projects/projectphaedra/star-notes) - Help transcribe the groundbreaking work of early women astronomers.
+* [AI4Mars](https://www.zooniverse.org/projects/hiro-ono/ai4mars) - Teaching Mars rovers how to classify Martian terrain.
+* [Bursts from Space](https://www.zooniverse.org/projects/mikewalmsley/bursts-from-space) - Focused on the mysterious bursts from space.
 
 ## Sources for scientific papers
 
