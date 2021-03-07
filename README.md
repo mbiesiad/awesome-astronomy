@@ -377,6 +377,7 @@ Other awesome links!
 * [Lunares](https://lunares.space/) - Lunares Habitat is a research station based in Poland, which enables conducting similar manned lunar and Martian missions.
 * [MDRS](http://mdrs.marssociety.org/) - The Mars Desert Research Station is the second simulated Mars analog habitat owned and operated by the Mars Society.
 * [MARS-500](http://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Mars500) - The mission was a psychosocial isolation experiment conducted between 2007 and 2011 by Russia, the European Space Agency and China, in preparation for an unspecified future crewed spaceflight to the planet Mars. Information at the official ESA site.
+* [LOFAR](https://www.astron.nl/telescopes/lofar) - The Low-Frequency Array is a large radio telescope network located mainly in the Netherlands, completed in 2012 by ASTRON, the Netherlands Institute for Radio Astronomy and its international partners, and operated by ASTRON's radio observatory, of the Netherlands Organisation for Scientific Research.
 
 ## Conferences
 
