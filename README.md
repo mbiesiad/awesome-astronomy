@@ -235,6 +235,7 @@ Selected Space & Physics projects:
 * [Radio Galaxy Zoo](https://radio.galaxyzoo.org/#/) - Zooniverse project about black holes.
 * [Astronomy Rewind](https://www.zooniverse.org/projects/zooniverse/astronomy-rewind) - Zooniverse project aimed at turning the SAO/NASA Astrophysics Data System (ADS) into a data resource.
 * [Radio Meteor Zoo](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo) - Zooniverse project about meteors.
+* [Radio Galaxy Zoo: LOFAR](https://www.zooniverse.org/projects/chrismrp/radio-galaxy-zoo-lofar) - Help discover the weirdest variable stars.
 
 ## Sources for scientific papers
 
