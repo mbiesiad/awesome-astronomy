@@ -375,6 +375,7 @@ Other awesome links!
 * [Astronomers Without Borders](https://astronomerswithoutborders.org/) - AWB is a U.S.-based organization founded by Mike Simmons, dedicated to spreading astronomy throughout the world and connecting people through this universal interest.
 * [Lunares](https://lunares.space/) - Lunares Habitat is a research station based in Poland, which enables conducting similar manned lunar and Martian missions.
 * [MDRS](http://mdrs.marssociety.org/) - The Mars Desert Research Station is the second simulated Mars analog habitat owned and operated by the Mars Society.
+* [MARS-500](http://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Mars500) - The mission was a psychosocial isolation experiment conducted between 2007 and 2011 by Russia, the European Space Agency and China, in preparation for an unspecified future crewed spaceflight to the planet Mars. Information at the official ESA site.
 
 ## Conferences
 
