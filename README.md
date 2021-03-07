@@ -387,6 +387,8 @@ Other awesome links!
 * [MDRS](http://mdrs.marssociety.org/) - The Mars Desert Research Station is the second simulated Mars analog habitat owned and operated by the Mars Society.
 * [MARS-500](http://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Mars500) - The mission was a psychosocial isolation experiment conducted between 2007 and 2011 by Russia, the European Space Agency and China, in preparation for an unspecified future crewed spaceflight to the planet Mars. Information at the official ESA site.
 * [LOFAR](https://www.astron.nl/telescopes/lofar) - The Low-Frequency Array is a large radio telescope network located mainly in the Netherlands, completed in 2012 by ASTRON, the Netherlands Institute for Radio Astronomy and its international partners, and operated by ASTRON's radio observatory, of the Netherlands Organisation for Scientific Research.
+* [The European Astrobiology and Society Resource Centre](https://www.astrobiology.eu/) - All you ever wanted to know about societal aspects of astrobiology in one place.
+* [ASB](https://astrobiologysociety.org/) - The Astrobiology Society of Britain is a learned society dedicated to the understanding and advancement of astrobiology in the United Kingdom. The organisation is affiliated with NASA.
 
 ## Conferences
 
