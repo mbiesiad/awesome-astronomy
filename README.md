@@ -374,6 +374,7 @@ Other awesome links!
 * [Transient Name Server](https://www.wis-tns.org/) - TNS by IAU Supernova Working Group.
 * [Astronomers Without Borders](https://astronomerswithoutborders.org/) - AWB is a U.S.-based organization founded by Mike Simmons, dedicated to spreading astronomy throughout the world and connecting people through this universal interest.
 * [Lunares](https://lunares.space/) - Lunares Habitat is a research station based in Poland, which enables conducting similar manned lunar and Martian missions.
+* [MDRS](http://mdrs.marssociety.org/) - The Mars Desert Research Station is the second simulated Mars analog habitat owned and operated by the Mars Society.
 
 ## Conferences
 
