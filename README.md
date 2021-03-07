@@ -330,6 +330,7 @@ Astro groups on Facebook, Yahoo or groups.io etc.
 ### Groups
 
 * [Comets and Asteroids Group](https://www.facebook.com/groups/1454757177944714/) - Facebook link to the group about comets and asteroids.
+* [Sungrazer Comet Section](https://www.facebook.com/groups/633346904255340) - Sungrazer Comet Section on the Facebook.
 
 ## Awesome links
 
