@@ -389,6 +389,7 @@ Other awesome links!
 * [LOFAR](https://www.astron.nl/telescopes/lofar) - The Low-Frequency Array is a large radio telescope network located mainly in the Netherlands, completed in 2012 by ASTRON, the Netherlands Institute for Radio Astronomy and its international partners, and operated by ASTRON's radio observatory, of the Netherlands Organisation for Scientific Research.
 * [The European Astrobiology and Society Resource Centre](https://www.astrobiology.eu/) - All you ever wanted to know about societal aspects of astrobiology in one place.
 * [ASB](https://astrobiologysociety.org/) - The Astrobiology Society of Britain is a learned society dedicated to the understanding and advancement of astrobiology in the United Kingdom. The organisation is affiliated with NASA.
+* [JWST](https://www.jwst.nasa.gov/) - The James Webb Space Telescope is a joint NASA-ESA-CSA space telescope that is planned to succeed the Hubble Space Telescope as NASA's flagship astrophysics mission.
 
 ## Conferences
 
