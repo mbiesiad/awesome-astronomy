@@ -391,6 +391,7 @@ Other awesome links!
 * [The European Astrobiology and Society Resource Centre](https://www.astrobiology.eu/) - All you ever wanted to know about societal aspects of astrobiology in one place.
 * [ASB](https://astrobiologysociety.org/) - The Astrobiology Society of Britain is a learned society dedicated to the understanding and advancement of astrobiology in the United Kingdom. The organisation is affiliated with NASA.
 * [JWST](https://www.jwst.nasa.gov/) - The James Webb Space Telescope is a joint NASA-ESA-CSA space telescope that is planned to succeed the Hubble Space Telescope as NASA's flagship astrophysics mission.
+* [FAST](https://fast.bao.ac.cn/) - The Five-hundred-meter Aperture Spherical radio Telescope is a radio telescope located in the Dawodang depression, a natural basin in Pingtang County, Guizhou, southwest China.
 
 ## Conferences
 
