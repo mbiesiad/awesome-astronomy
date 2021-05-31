@@ -305,7 +305,6 @@ Astro groups on Facebook, Yahoo or groups.io etc.
 * [TheMarsSociety](https://twitter.com/TheMarsSociety) - Twitter handle of The Mars Society, Mars related subjects.
 * [ATLAS Project](https://twitter.com/fallingstarIfA) - Twitter handle of the ATLAS Project, asteroids related subjects.
 * [NASA_DEVELOP](https://twitter.com/NASA_DEVELOP) - NASA Applied Sciences Program that conducts research projects applying NASA Earth observations to environmental policy issues around the globe.
-* [ASAS-SN](https://twitter.com/SuperASASSN) - Global network of robotic telescopes, All-Sky Automated Survey for SuperNovae.
 * [NASA Supercomputing](https://twitter.com/NASA_Supercomp) - NASA supercomputers enable scientific discoveries and engineering triumphs for missions in aeronautics, Earth and space science and exploration of the universe.
 * [NASA People](https://twitter.com/NASApeople) - Twitter handle about career in NASA.
 * [NASA Goddard Images](https://twitter.com/NASAGoddardPix) - The official image, video tweeting account for NASA Goddard..
@@ -392,6 +391,7 @@ Other awesome links!
 * [ASB](https://astrobiologysociety.org/) - The Astrobiology Society of Britain is a learned society dedicated to the understanding and advancement of astrobiology in the United Kingdom. The organisation is affiliated with NASA.
 * [JWST](https://www.jwst.nasa.gov/) - The James Webb Space Telescope is a joint NASA-ESA-CSA space telescope that is planned to succeed the Hubble Space Telescope as NASA's flagship astrophysics mission.
 * [FAST](https://fast.bao.ac.cn/) - The Five-hundred-meter Aperture Spherical radio Telescope is a radio telescope located in the Dawodang depression, a natural basin in Pingtang County, Guizhou, southwest China.
+* [ASAS-SN](http://www.astronomy.ohio-state.edu/asassn/index.shtml) - Global network of robotic telescopes, All-Sky Automated Survey for SuperNovae.
 
 ## Conferences
 
