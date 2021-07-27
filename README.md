@@ -272,6 +272,8 @@ Selected Space & Physics projects:
 * [R](https://www.r-project.org/) - Programming language and free software environment for statistical computing and graphics.
 * [Stellarium](http://stellarium.org/) - A free and open source planetarium for your computer.
 * [IRIS](http://www.astrosurf.com/buil/iris-software.html) - Free image processing software.
+* [SPICE](https://naif.jpl.nasa.gov/naif/toolkit.html) - A toolkit comprised of several items like large collection of user-level application program interfaces (APIs) and underlying subroutines and functions, provided as source code with extensive user-focused documentation or ready-to-use library made from the APIs.
+* [Cosmographia](https://naif.jpl.nasa.gov/naif/cosmographia.html) - A SPICE-enhanced version of the open source visualization tool.
 
 ## Repositories
 
