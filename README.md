@@ -160,7 +160,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 
 * [Astrophotography/ Amateur Astronomy Enthusiasts](https://www.facebook.com/groups/astrophotographers/) - Facebook' group about astrophotography.
 * [Astrophotography tips](https://skyandtelescope.org/astronomy-resources/astrophotography-tips/) - Astrophotography: Tips & Techniques (skyandtelescope.org).
-* [Astrophotography how-to](http://www.astropix.com/html/i_astrop/toc_ap.html) - Catching the Light. Astrophotography by Jerry Lodriguss.
+* [Astrophotography how-to](https://www.astropix.com/) - Catching the Light. Astrophotography by Jerry Lodriguss.
 * [TWAN](http://www.twanight.org/newTWAN/index.asp) - The World At Night is an international effort to present stunning nightscape photos and timelapse videos of the world’s landmarks against celestial attractions. TWAN is a bridge between art, science, and culture.
 
 ## Society
