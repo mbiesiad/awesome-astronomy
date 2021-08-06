@@ -107,7 +107,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [SpaceweatherRadio](https://www.spaceweather.com/radio/index.php) - The short-lived echo of a radio signal.
 * [CNEOS](https://cneos.jpl.nasa.gov/) - The Center for Near-Earth Object Studies is NASA's center for computing asteroid and comet orbits and their odds of Earth impact.
 * [The Spaceguard Centre](https://spaceguardcentre.com/) - The National Near Earth Objects Information Centre.
-* [Orbit@home](http://orbit.psi.edu/) - Orbit@home was a BOINC-based distributed computing project of the Planetary Science Institute.
+* [Orbit@home](https://en.wikipedia.org/wiki/Orbit@home) - Orbit@home was a BOINC-based distributed computing project of the Planetary Science Institute.
 
 ## Sun
 
