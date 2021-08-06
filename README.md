@@ -78,7 +78,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [ISRO](http://www.isro.gov.in/) - The Indian Space Research Organisation.
 * [ISA](http://space.gov.il/en) - The Israel Space Agency.
 * [ASI](http://www.asi.it/) - The Italian Space Agency.
-* [JAXA](http://www.jaxa.jp/index_e.html) - The Japan Aerospace Exploration Agency.
+* [JAXA](https://www.jaxa.jp/) - The Japan Aerospace Exploration Agency.
 
 ## Comets
 
