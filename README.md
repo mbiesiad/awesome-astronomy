@@ -265,7 +265,7 @@ Selected Space & Physics projects:
 ## Tools
 
 * [FITS](https://en.wikipedia.org/wiki/FITS) - Flexible Image Transport System.
-* [Fitswork](https://www.fitswork.de/software/softw_en.php) - A windows image processing program.
+* Fitswork - A windows image processing program.
 * [LaTeX](https://en.wikipedia.org/wiki/LaTeX) - A document preparation system.
 * [Python](https://www.python.org/) - An interpreted, high-level, general-purpose programming language.
 * [R](https://www.r-project.org/) - Programming language and free software environment for statistical computing and graphics.
