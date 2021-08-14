@@ -80,7 +80,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [ISA](http://space.gov.il/en) - The Israel Space Agency.
 * [ASI](http://www.asi.it/) - The Italian Space Agency.
 * [JAXA](https://www.jaxa.jp/) - The Japan Aerospace Exploration Agency.
-* [CNES](https://cnes.fr/en/) - Centre national d'études spatiales (eng. The National Centre for Space Studies) is the French government space agency.
+* [CNES](https://cnes.fr/en/) - Centre national d'études spatiales (Eng. The National Centre for Space Studies) is the French government space agency.
 
 ## Comets
 
