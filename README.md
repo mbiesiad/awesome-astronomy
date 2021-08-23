@@ -75,7 +75,6 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [POLSA](https://polsa.gov.pl/) - Polish Space Agency.
 * [CSA](http://www.asc-csa.gc.ca/) - Canadian Space Agency.
 * [UKSA](https://www.gov.uk/ukspaceagency) - UK Space Agency.
-* [BAA](https://britastro.org/) - British Astronomical Association.
 * [DLR](http://www.dlr.de/) - The German Aerospace Center.
 * [ISRO](http://www.isro.gov.in/) - The Indian Space Research Organisation.
 * [ISA](http://space.gov.il/en) - The Israel Space Agency.
@@ -197,6 +196,7 @@ Astronomy-related societies, organisations etc on the world.
 * [S&T](https://skyandtelescope.org/) - Sky & Telescope is a monthly American magazine covering all aspects of amateur astronomy.
 * [CERN](https://home.cern/) - The European Organization for Nuclear Research, is the world's largest particle physics lab.
 * [AAVSO](https://www.aavso.org/) - American Association of Variable Star Observers.
+* [BAA](https://britastro.org/) - British Astronomical Association.
 
 ## Citizen science
 
