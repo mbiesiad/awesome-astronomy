@@ -404,6 +404,7 @@ Other awesome links!
 * [ASAS-SN](http://www.astronomy.ohio-state.edu/asassn/index.shtml) - Global network of robotic telescopes, All-Sky Automated Survey for SuperNovae.
 * [DES](https://www.darkenergysurvey.org/) - The Dark Energy Survey is a visible and near-infrared survey that aims to probe the dynamics of the expansion of the Universe and the growth of large-scale structure.
 * [SGAC](https://spacegeneration.org/) - The Space Generation Advisory Council is a global network for students and young professionals interested in the space industry.
+* [SuperWASP](https://www.superwasp.org/) - The UK's leading extra-solar planet detection programme.
 
 ## Conferences
 
