@@ -26,6 +26,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [Databases](#databases)
 * [Tools](#tools)
 * [Repositories](#repositories)
+* [Apps](#apps)
 * [Hackathons](#hackathons)
 * [Social media & groups](#social-media--groups)
 * [Awesome links](#awesome-links)
@@ -301,6 +302,13 @@ Selected Space & Physics projects:
 * [Astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package.
 * [INDIGO](https://github.com/indigo-astronomy/indigo) - A system of standards and frameworks for multiplatform and distributed astronomy software development designed to scale with your needs.
 * [Supernova Hunters results](https://supernovahunters.github.io/) - Repo about results of Supernova Hunters project.
+
+## Apps
+
+* [Google Sky](https://www.google.com/sky/) - The space version of Google's Earth application.
+* [Sky Map](https://play.google.com/store/apps/details?id=com.google.android.stardroid&hl=en&gl=US) - A hand-held planetarium for your the Android device.
+* [Heavens-Above](https://play.google.com/store/apps/details?id=com.heavens_above.viewer&hl=en&gl=US) - App provides you with precise pass predictions for the ISS, visible satellites and radio satellites.
+* [Star Trails](https://play.google.com/store/apps/details?id=com.slash.startrails&hl=en&gl=US) - App quite good, If you have some long exposures and want to create star trails from them.
 
 ## Hackathons
 
