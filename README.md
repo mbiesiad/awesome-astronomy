@@ -413,6 +413,7 @@ Other awesome links!
 * [DES](https://www.darkenergysurvey.org/) - The Dark Energy Survey is a visible and near-infrared survey that aims to probe the dynamics of the expansion of the Universe and the growth of large-scale structure.
 * [SGAC](https://spacegeneration.org/) - The Space Generation Advisory Council is a global network for students and young professionals interested in the space industry.
 * [SuperWASP](https://www.superwasp.org/) - The UK's leading extra-solar planet detection programme.
+* [ISSI](https://www.issibern.ch/) - An Institute of Advanced Studies based in Bern, Switzerland.
 
 ## Conferences
 
