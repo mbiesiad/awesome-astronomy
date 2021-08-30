@@ -183,6 +183,8 @@ Astronomy-related societies, organisations etc on the world.
 * [PKiM](http://www.pkim.org/) - Polish Fireball Network.
 * [Proxima](https://proxima.org.pl/) - Polish astronomical magazine.
 * [Astronomia Nova](http://www.astronomianova.org/index1.php?lang=eng) - Astronomia Nova association.
+* [CAMK](http://www.camk.edu.pl/en/) - The Nicolaus Copernicus Astronomical Center (Polish: Centrum Astronomiczne im. Mikołaja Kopernika) is a Polish scientific research institute of the Polish Academy of Sciences headquartered in Warsaw.
+* [NCBJ](https://www.ncbj.gov.pl/) - National Centre for Nuclear Research (Polish: Narodowe Centrum Badań Jądrowych) is the largest research Institute in Poland.
 
 ### International
 
@@ -198,6 +200,7 @@ Astronomy-related societies, organisations etc on the world.
 * [CERN](https://home.cern/) - The European Organization for Nuclear Research, is the world's largest particle physics lab.
 * [AAVSO](https://www.aavso.org/) - American Association of Variable Star Observers.
 * [BAA](https://britastro.org/) - British Astronomical Association.
+* [EAS](https://eas.unige.ch/) - The European Astronomical Society is a learned society, founded under the Swiss Civil Code in 1990, as an association to contribute and promote the advancement of astronomy in Europe, and to deal with astronomical matters at a European level.
 
 ## Citizen science
 
