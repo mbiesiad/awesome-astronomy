@@ -174,11 +174,11 @@ Astronomy-related societies, organisations etc on the world.
 
 ### Poland
 
-* [SRC](http://www.cbk.waw.pl/) - The Space Research Centre (pol. Centrum Badań Kosmicznych) is an interdisciplinary research institute of the Polish Academy of Sciences.
-* [TOS](https://pl.wikipedia.org/wiki/Towarzystwo_Obserwator%C3%B3w_S%C5%82o%C5%84ca) - Solar Observers Society (pol. Towarzystwo Obserwatorów Słońca).
-* [PTA](http://www.pta.edu.pl/) - The Polish Astronomical Society (pol. Polskie Towarzystwo Astronomiczne).
-* [PTF](http://www.ptf.net.pl/) - The Polish Physical Society (pol. Polskie Towarzystwo Fizyczne).
-* [PTMA](http://ptma.pl/) - Polish Society of Amateur Astronomers (pol. Polskie Towarzystwo Miłośników Astronomii).
+* [SRC](http://www.cbk.waw.pl/) - The Space Research Centre (Polish: Centrum Badań Kosmicznych) is an interdisciplinary research institute of the Polish Academy of Sciences.
+* [TOS](https://pl.wikipedia.org/wiki/Towarzystwo_Obserwator%C3%B3w_S%C5%82o%C5%84ca) - Solar Observers Society (Polish: Towarzystwo Obserwatorów Słońca).
+* [PTA](http://www.pta.edu.pl/) - The Polish Astronomical Society (Polish: Polskie Towarzystwo Astronomiczne).
+* [PTF](http://www.ptf.net.pl/) - The Polish Physical Society (Polish: Polskie Towarzystwo Fizyczne).
+* [PTMA](http://ptma.pl/) - Polish Society of Amateur Astronomers (Polish: Polskie Towarzystwo Miłośników Astronomii).
 * [Urania – Postępy Astronomii](http://www.urania.edu.pl/) - Polish astronomical magazine.
 * [PKiM](http://www.pkim.org/) - Polish Fireball Network.
 * [Proxima](https://proxima.org.pl/) - Polish astronomical magazine.
