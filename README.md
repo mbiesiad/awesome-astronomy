@@ -174,7 +174,7 @@ Astronomy-related societies, organisations etc on the world.
 
 ### Poland
 
-* [SRC](http://www.cbk.waw.pl/) - The Space Research Centre (Polish: Centrum Badań Kosmicznych) is an interdisciplinary research institute of the Polish Academy of Sciences.
+* [CBK](http://www.cbk.waw.pl/) - The Space Research Centre (Polish: Centrum Badań Kosmicznych) is an interdisciplinary research institute of the Polish Academy of Sciences.
 * [TOS](https://pl.wikipedia.org/wiki/Towarzystwo_Obserwator%C3%B3w_S%C5%82o%C5%84ca) - Solar Observers Society (Polish: Towarzystwo Obserwatorów Słońca).
 * [PTA](http://www.pta.edu.pl/) - The Polish Astronomical Society (Polish: Polskie Towarzystwo Astronomiczne).
 * [PTF](http://www.ptf.net.pl/) - The Polish Physical Society (Polish: Polskie Towarzystwo Fizyczne).
