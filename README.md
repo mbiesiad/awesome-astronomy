@@ -202,6 +202,7 @@ Astronomy-related societies, organisations etc on the world.
 * [AAVSO](https://www.aavso.org/) - American Association of Variable Star Observers.
 * [BAA](https://britastro.org/) - British Astronomical Association.
 * [EAS](https://eas.unige.ch/) - The European Astronomical Society is a learned society, founded under the Swiss Civil Code in 1990, as an association to contribute and promote the advancement of astronomy in Europe, and to deal with astronomical matters at a European level.
+* [RAS](https://ras.ac.uk/) - The Royal Astronomical Society is a learned society and charity that encourages and promotes the study of astronomy, solar-system science, geophysics and closely related branches of science.
 
 ## Citizen science
 
