@@ -186,6 +186,7 @@ Astronomy-related societies, organisations etc on the world.
 * [Astronomia Nova](http://www.astronomianova.org/index1.php?lang=eng) - Astronomia Nova association.
 * [CAMK](http://www.camk.edu.pl/en/) - The Nicolaus Copernicus Astronomical Center (Polish: Centrum Astronomiczne im. Mikołaja Kopernika) is a Polish scientific research institute of the Polish Academy of Sciences headquartered in Warsaw.
 * [NCBJ](https://www.ncbj.gov.pl/) - National Centre for Nuclear Research (Polish: Narodowe Centrum Badań Jądrowych) is the largest research Institute in Poland.
+* [PTAstrobio](https://astrobio.pl/) - A society which was initiated by Polish experts dealing with problems with astrobiology.
 
 ### International
 
