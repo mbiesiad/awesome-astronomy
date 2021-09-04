@@ -421,6 +421,7 @@ Other awesome links!
 * [SGAC](https://spacegeneration.org/) - The Space Generation Advisory Council is a global network for students and young professionals interested in the space industry.
 * [SuperWASP](https://www.superwasp.org/) - The UK's leading extra-solar planet detection programme.
 * [ISSI](https://www.issibern.ch/) - An Institute of Advanced Studies based in Bern, Switzerland.
+* [SETI](https://www.seti.org/) - The search for extraterrestrial intelligence is a collective term for scientific searches for intelligent extraterrestrial life, for example, monitoring electromagnetic radiation for signs of transmissions from civilizations on other planets.
 
 ## Conferences
 
