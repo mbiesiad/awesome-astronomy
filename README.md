@@ -29,7 +29,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [Apps](#apps)
 * [Hackathons](#hackathons)
 * [Social media & groups](#social-media--groups)
-* [Awesome links](#awesome-links)
+* [Miscellaneous](#miscellaneous)
 * [Conferences](#conferences)
 * [Code of Conduct](#code-of-conduct)
 
@@ -365,7 +365,7 @@ Astro groups on Facebook, Yahoo or groups.io etc.
 * [Comets and Asteroids Group](https://www.facebook.com/groups/1454757177944714/) - Facebook link to the group about comets and asteroids.
 * [Sungrazer Comet Section](https://www.facebook.com/groups/633346904255340) - Sungrazer Comet Section on the Facebook.
 
-## Awesome links
+## Miscellaneous
 
 Other awesome links!
 
