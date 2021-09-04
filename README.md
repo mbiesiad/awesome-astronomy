@@ -25,8 +25,11 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [Sources for scientific papers](#sources-for-scientific-papers)
 * [Databases](#databases)
 * [Tools](#tools)
+* [Repositories](#repositories)
+* [Apps](#apps)
+* [Hackathons](#hackathons)
 * [Social media & groups](#social-media--groups)
-* [Awesome links](#awesome-links)
+* [Miscellaneous](#miscellaneous)
 * [Conferences](#conferences)
 * [Code of Conduct](#code-of-conduct)
 
@@ -55,6 +58,9 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [New Horizons](http://pluto.jhuapl.edu/) - An interplanetary space probe that was launched as a part of NASA's New Frontiers program.
 * [New Frontiers program](https://www.nasa.gov/planetarymissions/newfrontiers.html) - A series of space exploration missions being conducted by NASA with the purpose of researching several of the Solar System bodies, including the dwarf planet Pluto.
 * [Perseverance rover](https://mars.nasa.gov/mars2020/) - A Mars rover manufactured by the Jet Propulsion Laboratory for use in NASA's Mars 2020 mission.
+* [Deep Space Network](https://eyes.nasa.gov/dsn/) - DSN is NASA’s international array of giant radio antennas that supports interplanetary spacecraft missions, plus a few that orbit Earth.
+* [NAI](https://astrobiology.nasa.gov/nai/) - The NASA Astrobiology Institute is a virtual distributed organization that integrates astrobiology research and training programs in concert with the national and international science communities.
+* [Artemis program](https://www.nasa.gov/specials/artemis/) - United States-led international human spaceflight program.
 
 ## ESA 
 
@@ -75,7 +81,8 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [ISRO](http://www.isro.gov.in/) - The Indian Space Research Organisation.
 * [ISA](http://space.gov.il/en) - The Israel Space Agency.
 * [ASI](http://www.asi.it/) - The Italian Space Agency.
-* [JAXA](http://www.jaxa.jp/index_e.html) - The Japan Aerospace Exploration Agency.
+* [JAXA](https://www.jaxa.jp/) - The Japan Aerospace Exploration Agency.
+* [CNES](https://cnes.fr/en/) - Centre national d'études spatiales (Eng. The National Centre for Space Studies) is the French government space agency.
 
 ## Comets
 
@@ -98,13 +105,13 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [MLS](https://newton.spacedys.com/neodys/index.php?pc=2.1.0&o=G96) - Mount Lemmon Survey is a part of the Catalina Sky Survey with observatory code G96.
 * [Spacewatch](https://spacewatch.lpl.arizona.edu/) - An astronomical survey that specializes in the study of minor planets, including various types of asteroids and comets at Kitt Peak National Observatory near Tucson, Arizona, in the United States.
 * [CSS](https://catalina.lpl.arizona.edu/) - An astronomical survey to discover comets and asteroids. It is conducted at the Steward Observatory's Catalina Station, located near Tucson, Arizona, in the United States.
-* [NEAT](http://neat.jpl.nasa.gov/) - Near-Earth Asteroid Tracking, a program run by NASA and the Jet Propulsion Laboratory, surveying the sky for near-Earth objects.
+* [NEAT](https://en.wikipedia.org/wiki/Near-Earth_Asteroid_Tracking) - Near-Earth Asteroid Tracking, a program run by NASA and the Jet Propulsion Laboratory, surveying the sky for near-Earth objects.
 * [LONEOS](http://asteroid.lowell.edu/asteroid/loneos/loneos.html) - Lowell Observatory Near-Earth-Object Search, a project designed to discover asteroids and comets that orbit near the Earth.
 * [CSBN](https://www.klet.org/csbn/) - The Committee for Small Bodies Nomenclature (also known as The Working Group for Small Bodies Nomenclature).
-* [SpaceweatherRadio](https://www.spaceweatherradio.com/) - The short-lived echo of a radio signal.
+* [SpaceweatherRadio](https://www.spaceweather.com/radio/index.php) - The short-lived echo of a radio signal.
 * [CNEOS](https://cneos.jpl.nasa.gov/) - The Center for Near-Earth Object Studies is NASA's center for computing asteroid and comet orbits and their odds of Earth impact.
 * [The Spaceguard Centre](https://spaceguardcentre.com/) - The National Near Earth Objects Information Centre.
-* [Orbit@home](http://orbit.psi.edu/) - Orbit@home was a BOINC-based distributed computing project of the Planetary Science Institute.
+* [Orbit@home](https://en.wikipedia.org/wiki/Orbit@home) - Orbit@home was a BOINC-based distributed computing project of the Planetary Science Institute.
 
 ## Sun
 
@@ -144,6 +151,8 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [VO](http://ivoa.net/) - Virtual observatory.
 * [LSST](https://www.vro.org/) - The Vera C. Rubin Observatory, previously referred to as the Large Synoptic Survey Telescope (LSST), is an astronomical observatory currently under construction in Chile.
 * [LSO](https://lco.global/) - Las Cumbres Observatory is a network of astronomical observatories run by a non-profit private operating foundation directed by the technologist Wayne Rosing.
+* [ALMA](https://www.almaobservatory.org) - The Atacama Large Millimeter/submillimeter Array is an astronomical interferometer of 66 radio telescopes in the Atacama Desert of northern Chile, which observe electromagnetic radiation at millimeter and submillimeter wavelengths.
+* [ROG](https://www.rmg.co.uk/royal-observatory) - The Royal Observatory is an observatory situated on a hill in Greenwich Park in east London, overlooking the River Thames to the north.
 
 ## Exoplanet projects
 
@@ -156,7 +165,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 
 * [Astrophotography/ Amateur Astronomy Enthusiasts](https://www.facebook.com/groups/astrophotographers/) - Facebook' group about astrophotography.
 * [Astrophotography tips](https://skyandtelescope.org/astronomy-resources/astrophotography-tips/) - Astrophotography: Tips & Techniques (skyandtelescope.org).
-* [Astrophotography how-to](http://www.astropix.com/html/i_astrop/toc_ap.html) - Catching the Light. Astrophotography by Jerry Lodriguss.
+* [Astrophotography how-to](https://www.astropix.com/) - Catching the Light. Astrophotography by Jerry Lodriguss.
 * [TWAN](http://www.twanight.org/newTWAN/index.asp) - The World At Night is an international effort to present stunning nightscape photos and timelapse videos of the world’s landmarks against celestial attractions. TWAN is a bridge between art, science, and culture.
 
 ## Society
@@ -167,15 +176,18 @@ Astronomy-related societies, organisations etc on the world.
 
 ### Poland
 
-* [SRC](http://www.cbk.waw.pl/) - The Space Research Centre.
-* [TOS](https://pl.wikipedia.org/wiki/Towarzystwo_Obserwator%C3%B3w_S%C5%82o%C5%84ca) - Solar Observers Society (pol. Towarzystwo Obserwatorów Słońca).
-* [PTA](http://www.pta.edu.pl/) - The Polish Astronomical Society (pol. Polskie Towarzystwo Astronomiczne).
-* [PTF](http://www.ptf.net.pl/) - The Polish Physical Society (pol. Polskie Towarzystwo Fizyczne).
-* [PTMA](http://ptma.pl/) - Polish Society of Amateur Astronomers (pol. Polskie Towarzystwo Miłośników Astronomii).
+* [CBK](http://www.cbk.waw.pl/) - The Space Research Centre (Polish: Centrum Badań Kosmicznych) is an interdisciplinary research institute of the Polish Academy of Sciences.
+* [TOS](https://pl.wikipedia.org/wiki/Towarzystwo_Obserwator%C3%B3w_S%C5%82o%C5%84ca) - Solar Observers Society (Polish: Towarzystwo Obserwatorów Słońca).
+* [PTA](http://www.pta.edu.pl/) - The Polish Astronomical Society (Polish: Polskie Towarzystwo Astronomiczne).
+* [PTF](http://www.ptf.net.pl/) - The Polish Physical Society (Polish: Polskie Towarzystwo Fizyczne).
+* [PTMA](http://ptma.pl/) - Polish Society of Amateur Astronomers (Polish: Polskie Towarzystwo Miłośników Astronomii).
 * [Urania – Postępy Astronomii](http://www.urania.edu.pl/) - Polish astronomical magazine.
 * [PKiM](http://www.pkim.org/) - Polish Fireball Network.
 * [Proxima](https://proxima.org.pl/) - Polish astronomical magazine.
 * [Astronomia Nova](http://www.astronomianova.org/index1.php?lang=eng) - Astronomia Nova association.
+* [CAMK](http://www.camk.edu.pl/en/) - The Nicolaus Copernicus Astronomical Center (Polish: Centrum Astronomiczne im. Mikołaja Kopernika) is a Polish scientific research institute of the Polish Academy of Sciences headquartered in Warsaw.
+* [NCBJ](https://www.ncbj.gov.pl/) - National Centre for Nuclear Research (Polish: Narodowe Centrum Badań Jądrowych) is the largest research Institute in Poland.
+* [PTAstrobio](https://astrobio.pl/) - A society which was initiated by Polish experts dealing with problems with astrobiology.
 
 ### International
 
@@ -190,6 +202,10 @@ Astronomy-related societies, organisations etc on the world.
 * [S&T](https://skyandtelescope.org/) - Sky & Telescope is a monthly American magazine covering all aspects of amateur astronomy.
 * [CERN](https://home.cern/) - The European Organization for Nuclear Research, is the world's largest particle physics lab.
 * [AAVSO](https://www.aavso.org/) - American Association of Variable Star Observers.
+* [BAA](https://britastro.org/) - British Astronomical Association.
+* [EAS](https://eas.unige.ch/) - The European Astronomical Society is a learned society, founded under the Swiss Civil Code in 1990, as an association to contribute and promote the advancement of astronomy in Europe, and to deal with astronomical matters at a European level.
+* [RAS](https://ras.ac.uk/) - The Royal Astronomical Society is a learned society and charity that encourages and promotes the study of astronomy, solar-system science, geophysics and closely related branches of science.
+* [SPA](https://www.popastro.com/main_spa1/) - The Society for Popular Astronomy is a national astronomical society based in the United Kingdom for beginners to amateur astronomy.
 
 ## Citizen science
 
@@ -201,8 +217,7 @@ Citizen science (via [Wikipedia](https://en.wikipedia.org/wiki/Citizen_science))
 
 > _C/2011 W3 (Lovejoy) - SOHO/LASCO C3 (2011/12/15) - Credits: NASA, ESA (LASCO C3)_
 
-* [Sungrazer](https://sungrazer.nrl.navy.mil/) - A NASA-funded Citizen Science Project.
-* [The Sungrazer Project] - New modern style site of Sungrazer.
+* [The Sungrazer Project](https://sungrazer.nrl.navy.mil/) - A NASA-funded Citizen Science Project focused mainly on the comets.
 
 ### Zooniverse
 
@@ -233,6 +248,13 @@ Selected Space & Physics projects:
 * [Radio Galaxy Zoo](https://radio.galaxyzoo.org/#/) - Zooniverse project about black holes.
 * [Astronomy Rewind](https://www.zooniverse.org/projects/zooniverse/astronomy-rewind) - Zooniverse project aimed at turning the SAO/NASA Astrophysics Data System (ADS) into a data resource.
 * [Radio Meteor Zoo](https://www.zooniverse.org/projects/zooniverse/radio-meteor-zoo) - Zooniverse project about meteors.
+* [Radio Galaxy Zoo: LOFAR](https://www.zooniverse.org/projects/chrismrp/radio-galaxy-zoo-lofar) - Help to discover the weirdest variable stars.
+* [Star Notes](https://www.zooniverse.org/projects/projectphaedra/star-notes) - Help to transcribe the groundbreaking work of early women astronomers.
+* [AI4Mars](https://www.zooniverse.org/projects/hiro-ono/ai4mars) - Teaching Mars rovers how to classify Martian terrain.
+* [Bursts from Space](https://www.zooniverse.org/projects/mikewalmsley/bursts-from-space) - Focused on the mysterious bursts from space.
+* [Zwicky Chemical Factory](https://www.zooniverse.org/projects/adamamiller/zwicky-chemical-factory) - Help to classify stellar explosions for understand how elements are created in the universe.
+* [Citizen ASAS-SN](https://www.zooniverse.org/projects/tharinduj/citizen-asas-sn) - Classify the light curves of variable stars and help to find the most unusual ones.
+* [Dark Energy Explorers](https://www.zooniverse.org/projects/erinmc/dark-energy-explorers) - Identify distant galaxies to help measure dark energy when the universe was just ~2-3 billion years old.
 
 ## Sources for scientific papers
 
@@ -249,16 +271,56 @@ Selected Space & Physics projects:
 * [AstDyS-2](https://newton.spacedys.com/astdys/) - Website provides data on numbered and multiopposition asteroids, including orbital elements, their uncertainty, proper elements, ephemerides with uncertainty, and more.
 * [JPL](https://ssd.jpl.nasa.gov/sbdb.cgi) - JPL Small-Body Database Browser.
 * [MPC](https://www.minorplanetcenter.net/db_search/) - MPC Database Search.
+* [ASIAGOSN](https://heasarc.gsfc.nasa.gov/W3Browse/all/asiagosn.html) - Asiago Supernova Catalog.
+* [HEASARC](https://heasarc.gsfc.nasa.gov/) - The High Energy Astrophysics Science Archive Research Center is the primary archive for NASA's (and other space agencies') missions studying electromagnetic radiation from extremely energetic cosmic phenomena ranging from black holes to the Big Bang.
 
 ## Tools
 
 * [FITS](https://en.wikipedia.org/wiki/FITS) - Flexible Image Transport System.
-* [Fitswork](https://www.fitswork.de/software/softw_en.php) - A windows image processing program.
+* Fitswork - A windows image processing program.
 * [LaTeX](https://en.wikipedia.org/wiki/LaTeX) - A document preparation system.
 * [Python](https://www.python.org/) - An interpreted, high-level, general-purpose programming language.
 * [R](https://www.r-project.org/) - Programming language and free software environment for statistical computing and graphics.
 * [Stellarium](http://stellarium.org/) - A free and open source planetarium for your computer.
 * [IRIS](http://www.astrosurf.com/buil/iris-software.html) - Free image processing software.
+* [SPICE](https://naif.jpl.nasa.gov/naif/toolkit.html) - A toolkit comprised of several items like large collection of user-level application program interfaces (APIs) and underlying subroutines and functions, provided as source code with extensive user-focused documentation or ready-to-use library made from the APIs.
+* [Cosmographia](https://naif.jpl.nasa.gov/naif/cosmographia.html) - A SPICE-enhanced version of the open source visualization tool.
+
+## Repositories
+
+* [Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
+* [Astronomy for Meteor](https://github.com/jagi/meteor-astronomy) - Model layer for Meteor.
+* [SunPy](https://github.com/sunpy/sunpy) - Python for Solar Physics.
+* [Mapping The Solar System](https://github.com/eleanorlutz/asteroids_atlas_of_space) - Code, data, and instructions for mapping orbits of asteroids in the solar system.
+* [Astroquery](https://github.com/astropy/astroquery) - Functions and classes to access online data resources.
+* [OpenSpace](https://github.com/OpenSpace/OpenSpace) - An open source astrovisualization project.
+* [Astronomy Picture of the Day (APOD) microservice](https://github.com/nasa/apod-api) - Astronomy Picture of the Day API service.
+* [Lightkurve](https://github.com/KeplerGO/lightkurve) - A friendly package for Kepler & TESS time series analysis in Python.
+* [Taotie](https://github.com/dr-guangtou/taotie) - A curated collection of resources for astrophysical research.
+* [Allsky Camera](https://github.com/thomasjacquin/allsky) - A Raspberry Pi operated Wireless Allsky Camera.
+* [Tensorflow Elliptical vs Sprial Galaxy Image Classifier](https://github.com/rhnvrm/galaxy-image-classifier-tensorflow) - Classify whether an image is of a Spiral or an Elliptical Galaxy using Transfer Learning (Tensorflow).
+* [Gaia Sky](https://github.com/langurmonkey/gaiasky) - Mirror of Gaia Sky repository hosted on GitLab.
+* [astro-rust](https://github.com/saurvs/astro-rust) - Astronomical algorithms in Rust.
+* [Astroberry Server](https://github.com/rkaczorek/astroberry-server) - A ready to use system for Raspberry Pi for controlling all your astronomy equipment.
+* [galpy](https://github.com/jobovy/galpy) - Galactic Dynamics in Python.
+* [The Solar System](https://github.com/sanderblue/solar-system-threejs) - The Solar System: Modeled to scale with Three.js.
+* [astronomia](https://github.com/commenthol/astronomia) - An astronomical library.
+* [PyTransit](https://github.com/hpparvi/PyTransit) - Fast and easy exoplanet transit light curve modelling.
+* [gaia_tools](https://github.com/jobovy/gaia_tools) - Tools for working with the ESA Gaia data and related data sets.
+* [Astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package.
+* [INDIGO](https://github.com/indigo-astronomy/indigo) - A system of standards and frameworks for multiplatform and distributed astronomy software development designed to scale with your needs.
+* [Supernova Hunters results](https://supernovahunters.github.io/) - Repo about results of Supernova Hunters project.
+
+## Apps
+
+* [Google Sky](https://www.google.com/sky/) - The space version of Google's Earth application.
+* [Sky Map](https://play.google.com/store/apps/details?id=com.google.android.stardroid&hl=en&gl=US) - A hand-held planetarium for your the Android device.
+* [Heavens-Above](https://play.google.com/store/apps/details?id=com.heavens_above.viewer&hl=en&gl=US) - App provides you with precise pass predictions for the ISS, visible satellites and radio satellites.
+* [Star Trails](https://play.google.com/store/apps/details?id=com.slash.startrails&hl=en&gl=US) - App quite good, If you have some long exposures and want to create star trails from them.
+
+## Hackathons
+
+* [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) - An international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and others where teams engage the NASA’s free and open data to address real-world problems on Earth and in space.
 
 ## Social media & groups
 
@@ -269,7 +331,6 @@ Astro groups on Facebook, Yahoo or groups.io etc.
 * [TheMarsSociety](https://twitter.com/TheMarsSociety) - Twitter handle of The Mars Society, Mars related subjects.
 * [ATLAS Project](https://twitter.com/fallingstarIfA) - Twitter handle of the ATLAS Project, asteroids related subjects.
 * [NASA_DEVELOP](https://twitter.com/NASA_DEVELOP) - NASA Applied Sciences Program that conducts research projects applying NASA Earth observations to environmental policy issues around the globe.
-* [ASAS-SN](https://twitter.com/SuperASASSN) - Global network of robotic telescopes, All-Sky Automated Survey for SuperNovae.
 * [NASA Supercomputing](https://twitter.com/NASA_Supercomp) - NASA supercomputers enable scientific discoveries and engineering triumphs for missions in aeronautics, Earth and space science and exploration of the universe.
 * [NASA People](https://twitter.com/NASApeople) - Twitter handle about career in NASA.
 * [NASA Goddard Images](https://twitter.com/NASAGoddardPix) - The official image, video tweeting account for NASA Goddard..
@@ -304,8 +365,9 @@ Astro groups on Facebook, Yahoo or groups.io etc.
 ### Groups
 
 * [Comets and Asteroids Group](https://www.facebook.com/groups/1454757177944714/) - Facebook link to the group about comets and asteroids.
+* [Sungrazer Comet Section](https://www.facebook.com/groups/633346904255340) - Sungrazer Comet Section on the Facebook.
 
-## Awesome links
+## Miscellaneous
 
 Other awesome links!
 
@@ -342,6 +404,25 @@ Other awesome links!
 * [Don Machholz](https://donmachholz.com/) - Site by Don Machholz, the comet hunter.
 * [Astronomy & Astrophysics](https://www.aanda.org/) - A&A is an international journal which publishes papers on all aspects of astronomy and astrophysics.
 * [BOINC](https://boinc.berkeley.edu/) - The Berkeley Open Infrastructure for Network Computing is an open-source middleware system for volunteer computing and grid computing.
+* [Heavens-Above](https://www.heavens-above.com/) - The website is dedicated to helping people observe and track satellites orbiting the Earth without the need for optical equipment such as binoculars or telescopes.
+* [ASAS](http://www.astrouw.edu.pl/asas/) - The All Sky Automated Survey is a Polish project implemented on 7 April 1997 to do photometric monitoring of approximately 20 million stars brighter than 14 magnitude all over the sky.
+* [The Pan-STARRS Survey for Transients](https://star.pst.qub.ac.uk/ps1threepi/psdb/) - The Pan-STARRS1 telescope carried out the 3Pi survey of the whole sky north of -30 degrees between 2010-2014 in grizy (PS1 specific filters). This was run by the PS1 Science Consortium.
+* [Transient Name Server](https://www.wis-tns.org/) - TNS by IAU Supernova Working Group.
+* [Astronomers Without Borders](https://astronomerswithoutborders.org/) - AWB is a U.S.-based organization founded by Mike Simmons, dedicated to spreading astronomy throughout the world and connecting people through this universal interest.
+* [Lunares](https://lunares.space/) - Lunares Habitat is a research station based in Poland, which enables conducting similar manned lunar and Martian missions.
+* [MDRS](http://mdrs.marssociety.org/) - The Mars Desert Research Station is the second simulated Mars analog habitat owned and operated by the Mars Society.
+* [MARS-500](http://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Mars500) - The mission was a psychosocial isolation experiment conducted between 2007 and 2011 by Russia, the European Space Agency and China, in preparation for an unspecified future crewed spaceflight to the planet Mars. Information at the official ESA site.
+* [LOFAR](https://www.astron.nl/telescopes/lofar) - The Low-Frequency Array is a large radio telescope network located mainly in the Netherlands, completed in 2012 by ASTRON, the Netherlands Institute for Radio Astronomy and its international partners, and operated by ASTRON's radio observatory, of the Netherlands Organisation for Scientific Research.
+* [The European Astrobiology and Society Resource Centre](https://www.astrobiology.eu/) - All you ever wanted to know about societal aspects of astrobiology in one place.
+* [ASB](https://astrobiologysociety.org/) - The Astrobiology Society of Britain is a learned society dedicated to the understanding and advancement of astrobiology in the United Kingdom. The organisation is affiliated with NASA.
+* [JWST](https://www.jwst.nasa.gov/) - The James Webb Space Telescope is a joint NASA-ESA-CSA space telescope that is planned to succeed the Hubble Space Telescope as NASA's flagship astrophysics mission.
+* [FAST](https://fast.bao.ac.cn/) - The Five-hundred-meter Aperture Spherical radio Telescope is a radio telescope located in the Dawodang depression, a natural basin in Pingtang County, Guizhou, southwest China.
+* [ASAS-SN](http://www.astronomy.ohio-state.edu/asassn/index.shtml) - Global network of robotic telescopes, All-Sky Automated Survey for SuperNovae.
+* [DES](https://www.darkenergysurvey.org/) - The Dark Energy Survey is a visible and near-infrared survey that aims to probe the dynamics of the expansion of the Universe and the growth of large-scale structure.
+* [SGAC](https://spacegeneration.org/) - The Space Generation Advisory Council is a global network for students and young professionals interested in the space industry.
+* [SuperWASP](https://www.superwasp.org/) - The UK's leading extra-solar planet detection programme.
+* [ISSI](https://www.issibern.ch/) - An Institute of Advanced Studies based in Bern, Switzerland.
+* [SETI](https://www.seti.org/) - The search for extraterrestrial intelligence is a collective term for scientific searches for intelligent extraterrestrial life, for example, monitoring electromagnetic radiation for signs of transmissions from civilizations on other planets.
 
 ## Conferences
 
