@@ -255,6 +255,7 @@ Selected Space & Physics projects:
 * [Zwicky Chemical Factory](https://www.zooniverse.org/projects/adamamiller/zwicky-chemical-factory) - Help to classify stellar explosions for understand how elements are created in the universe.
 * [Citizen ASAS-SN](https://www.zooniverse.org/projects/tharinduj/citizen-asas-sn) - Classify the light curves of variable stars and help to find the most unusual ones.
 * [Dark Energy Explorers](https://www.zooniverse.org/projects/erinmc/dark-energy-explorers) - Identify distant galaxies to help measure dark energy when the universe was just ~2-3 billion years old.
+* [Active Asteroids](https://www.zooniverse.org/projects/orionnau/active-asteroids) - The project is focused on active asteroids.
 
 ## Sources for scientific papers
 
