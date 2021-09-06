@@ -257,6 +257,10 @@ Selected Space & Physics projects:
 * [Dark Energy Explorers](https://www.zooniverse.org/projects/erinmc/dark-energy-explorers) - Identify distant galaxies to help measure dark energy when the universe was just ~2-3 billion years old.
 * [Active Asteroids](https://www.zooniverse.org/projects/orionnau/active-asteroids) - The project is focused on active asteroids.
 
+### Other
+
+* [NASA's citizen science projects](https://science.nasa.gov/citizenscience) - Collaborations between scientists and interested members of the public.
+
 ## Sources for scientific papers
 
 * [arXiv](https://arxiv.org/) - A free distribution service and an open-access archive.
