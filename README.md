@@ -61,6 +61,8 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [Deep Space Network](https://eyes.nasa.gov/dsn/) - DSN is NASA’s international array of giant radio antennas that supports interplanetary spacecraft missions, plus a few that orbit Earth.
 * [NAI](https://astrobiology.nasa.gov/nai/) - The NASA Astrobiology Institute is a virtual distributed organization that integrates astrobiology research and training programs in concert with the national and international science communities.
 * [Artemis program](https://www.nasa.gov/specials/artemis/) - United States-led international human spaceflight program.
+* [Photojournal JPL](https://photojournal.jpl.nasa.gov/) - NASA's Image Access Site for Visual Exploration of the Universe.
+* [JPL Image Gallery](https://www.jpl.nasa.gov/images) - JPL is a federally funded research and development center managed for NASA by Caltech (Image Gallery site).
 
 ## ESA 
 
@@ -70,6 +72,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [ESA Operations](http://www.esa.int/Enabling_Support/Operations) - Realtime mission operations at the European Space Agency.
 * [ESAC](http://www.esa.int/About_Us/ESAC) - The ESA's centre for space science.
 * [Planck](http://www.esa.int/Science_Exploration/Space_Science/Planck) - Space observatory operated by the European Space Agency.
+* [ESA Earth Online](https://earth.esa.int/eogateway) - Earth Observation information discovery platform.
 
 ## Other Governments' Agences
 
@@ -255,6 +258,11 @@ Selected Space & Physics projects:
 * [Zwicky Chemical Factory](https://www.zooniverse.org/projects/adamamiller/zwicky-chemical-factory) - Help to classify stellar explosions for understand how elements are created in the universe.
 * [Citizen ASAS-SN](https://www.zooniverse.org/projects/tharinduj/citizen-asas-sn) - Classify the light curves of variable stars and help to find the most unusual ones.
 * [Dark Energy Explorers](https://www.zooniverse.org/projects/erinmc/dark-energy-explorers) - Identify distant galaxies to help measure dark energy when the universe was just ~2-3 billion years old.
+* [Active Asteroids](https://www.zooniverse.org/projects/orionnau/active-asteroids) - The project is focused on active asteroids.
+
+### Other
+
+* [NASA's citizen science projects](https://science.nasa.gov/citizenscience) - Collaborations between scientists and interested members of the public.
 
 ## Sources for scientific papers
 
@@ -310,6 +318,8 @@ Selected Space & Physics projects:
 * [Astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package.
 * [INDIGO](https://github.com/indigo-astronomy/indigo) - A system of standards and frameworks for multiplatform and distributed astronomy software development designed to scale with your needs.
 * [Supernova Hunters results](https://supernovahunters.github.io/) - Repo about results of Supernova Hunters project.
+* [AAS WorldWide Telescope](https://github.com/WorldWideTelescope) - A tool for showcasing astronomical data and knowledge.
+* [find_orb](https://github.com/Bill-Gray/find_orb) - Orbit determination from observation.
 
 ## Apps
 
@@ -423,6 +433,7 @@ Other awesome links!
 * [SuperWASP](https://www.superwasp.org/) - The UK's leading extra-solar planet detection programme.
 * [ISSI](https://www.issibern.ch/) - An Institute of Advanced Studies based in Bern, Switzerland.
 * [SETI](https://www.seti.org/) - The search for extraterrestrial intelligence is a collective term for scientific searches for intelligent extraterrestrial life, for example, monitoring electromagnetic radiation for signs of transmissions from civilizations on other planets.
+* [Project Pluto](https://www.projectpluto.com/) - Project Pluto supplies astronomical software, both commercial and freeware, to amateur and professional astronomers.
 
 ## Conferences
 
