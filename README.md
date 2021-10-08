@@ -317,6 +317,7 @@ Selected Space & Physics projects:
 * [Astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package.
 * [INDIGO](https://github.com/indigo-astronomy/indigo) - A system of standards and frameworks for multiplatform and distributed astronomy software development designed to scale with your needs.
 * [Supernova Hunters results](https://supernovahunters.github.io/) - Repo about results of Supernova Hunters project.
+* [AAS WorldWide Telescope](https://github.com/WorldWideTelescope) - A tool for showcasing astronomical data and knowledge.
 
 ## Apps
 
