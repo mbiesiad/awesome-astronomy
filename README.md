@@ -72,6 +72,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [ESA Operations](http://www.esa.int/Enabling_Support/Operations) - Realtime mission operations at the European Space Agency.
 * [ESAC](http://www.esa.int/About_Us/ESAC) - The ESA's centre for space science.
 * [Planck](http://www.esa.int/Science_Exploration/Space_Science/Planck) - Space observatory operated by the European Space Agency.
+* [ESA Earth Online](https://earth.esa.int/eogateway) - Earth Observation information discovery platform.
 
 ## Other Governments' Agences
 
