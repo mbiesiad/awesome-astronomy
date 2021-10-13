@@ -259,6 +259,7 @@ Selected Space & Physics projects:
 * [Citizen ASAS-SN](https://www.zooniverse.org/projects/tharinduj/citizen-asas-sn) - Classify the light curves of variable stars and help to find the most unusual ones.
 * [Dark Energy Explorers](https://www.zooniverse.org/projects/erinmc/dark-energy-explorers) - Identify distant galaxies to help measure dark energy when the universe was just ~2-3 billion years old.
 * [Active Asteroids](https://www.zooniverse.org/projects/orionnau/active-asteroids) - The project is focused on active asteroids.
+* [NASA GLOBE CLOUD GAZE](https://www.zooniverse.org/projects/nasaglobe/nasa-globe-cloud-gaze) - A NASA funded project aimed to help NASA better understand the effect clouds are having on Earth’s climate.
 
 ### Other
 
