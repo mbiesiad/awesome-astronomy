@@ -209,6 +209,7 @@ Astronomy-related societies, organisations etc on the world.
 * [EAS](https://eas.unige.ch/) - The European Astronomical Society is a learned society, founded under the Swiss Civil Code in 1990, as an association to contribute and promote the advancement of astronomy in Europe, and to deal with astronomical matters at a European level.
 * [RAS](https://ras.ac.uk/) - The Royal Astronomical Society is a learned society and charity that encourages and promotes the study of astronomy, solar-system science, geophysics and closely related branches of science.
 * [SPA](https://www.popastro.com/main_spa1/) - The Society for Popular Astronomy is a national astronomical society based in the United Kingdom for beginners to amateur astronomy.
+* [RiAus](https://riaus.org.au/) - The Royal Institution of Australia (RiAus) is a national scientific not-for-profit organisation with a mission to "bring science to people and people to science".
 
 ## Citizen science
 
@@ -259,6 +260,7 @@ Selected Space & Physics projects:
 * [Citizen ASAS-SN](https://www.zooniverse.org/projects/tharinduj/citizen-asas-sn) - Classify the light curves of variable stars and help to find the most unusual ones.
 * [Dark Energy Explorers](https://www.zooniverse.org/projects/erinmc/dark-energy-explorers) - Identify distant galaxies to help measure dark energy when the universe was just ~2-3 billion years old.
 * [Active Asteroids](https://www.zooniverse.org/projects/orionnau/active-asteroids) - The project is focused on active asteroids.
+* [NASA GLOBE CLOUD GAZE](https://www.zooniverse.org/projects/nasaglobe/nasa-globe-cloud-gaze) - A NASA funded project aimed to help NASA better understand the effect clouds are having on Earth’s climate.
 
 ### Other
 
@@ -434,6 +436,7 @@ Other awesome links!
 * [ISSI](https://www.issibern.ch/) - An Institute of Advanced Studies based in Bern, Switzerland.
 * [SETI](https://www.seti.org/) - The search for extraterrestrial intelligence is a collective term for scientific searches for intelligent extraterrestrial life, for example, monitoring electromagnetic radiation for signs of transmissions from civilizations on other planets.
 * [Project Pluto](https://www.projectpluto.com/) - Project Pluto supplies astronomical software, both commercial and freeware, to amateur and professional astronomers.
+* [COSMOS](https://cosmosmagazine.com/) - A science magazine produced in Australia with a global outlook and literary ambitions, published by the Royal Institution of Australia (RiAus).
 
 ## Conferences
 
