@@ -156,6 +156,8 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [LSO](https://lco.global/) - Las Cumbres Observatory is a network of astronomical observatories run by a non-profit private operating foundation directed by the technologist Wayne Rosing.
 * [ALMA](https://www.almaobservatory.org) - The Atacama Large Millimeter/submillimeter Array is an astronomical interferometer of 66 radio telescopes in the Atacama Desert of northern Chile, which observe electromagnetic radiation at millimeter and submillimeter wavelengths.
 * [ROG](https://www.rmg.co.uk/royal-observatory) - The Royal Observatory is an observatory situated on a hill in Greenwich Park in east London, overlooking the River Thames to the north.
+* [ON](https://www.gov.br/observatorio/pt-br) - The National Observatory it's located in the city of Rio de Janeiro, it is one of the oldest scientific institutions in Brazil.
+
 
 ## Exoplanet projects
 
@@ -210,6 +212,8 @@ Astronomy-related societies, organisations etc on the world.
 * [RAS](https://ras.ac.uk/) - The Royal Astronomical Society is a learned society and charity that encourages and promotes the study of astronomy, solar-system science, geophysics and closely related branches of science.
 * [SPA](https://www.popastro.com/main_spa1/) - The Society for Popular Astronomy is a national astronomical society based in the United Kingdom for beginners to amateur astronomy.
 * [RiAus](https://riaus.org.au/) - The Royal Institution of Australia (RiAus) is a national scientific not-for-profit organisation with a mission to "bring science to people and people to science".
+* [SAB](https://sab-astro.org.br/) - The Brazilian Astronomical Society is the organization responsible for Astronomy in Brazil.
+* [AfAS](http://www.africanastronomicalsociety.org/) - African Astronomical Society (AfAS) is the Pan-African professional society for astronomers.
 
 ## Citizen science
 
@@ -368,6 +372,25 @@ Astro groups on Facebook, Yahoo or groups.io etc.
 * [NASA Solar System](https://twitter.com/NASASolarSystem) - NASA's Planetary Science Division.
 * [NASA Astronauts](https://twitter.com/NASA_Astronauts) - NASA astronauts Twitter handle.
 * [Pan-STARRS1 NEOwatch](https://twitter.com/PS1NEOwatch) - Automated updates when the Pan-STARRS1 team identify a new Near Earth Object. A ground-breaking astronomical survey telescope on Haleakala, Maui.
+* [NASA Asteroid Watch](https://twitter.com/AsteroidWatch) - NASA's Planetary Defense Coordination Office detects, tracks, and characterizes Near-Earth Objects (NEOs) to enable mitigation of potential future NEO impacts.
+
+### Twitter - Astronomers and Scientific Disseminators
+
+
+* [Aline Novais](https://twitter.com/astroaline) - PhD student at Valongo UFRJ, studying atmospheres of exoplanets and science disseminator. User: @astroaline. Language: Portuguese-BR.
+* [Ana Carolina Posses](https://twitter.com/astroposses) - Astronomer, doctoral student in extragalactics at UDP (Chile) and Columnist in Revista Galileu. User: @astroposses. Language: Portuguese-BR.
+* [Camila Esperança](https://twitter.com/astronomacamila) - Astronomer and PhD student at ESO. User: @astronomacamila. Language: Portuguese.
+* [Dr. Mae Jemison](https://twitter.com/maejemison) - 1st woman of color in space, Astronaut, Physician, Engineer, Educator, Futurist, Leader 100 YearStarship, Area Peace Corps Medical Officer. User: @maejemison. Language: English.
+* [Eduardo Machado Pereira](https://twitter.com/mp_eduard) - astronomer at the Valongo Observatory and PhD at the National Observatory. User: @mp_eduard Language: Portuguese-BR.
+* [Franciele Kruczkiewicz](https://twitter.com/intelectorta) - PhD in Astrochemistry. User: @intelectorta. Language: Portuguese-BR and English.
+* [Neil deGrasse Tyson](https://twitter.com/neiltyson) - Astrophysicist and host of the new seasons of the Cosmos tv show. User: @neiltyson. Language: English.
+* [Roberta Duarte](https://twitter.com/import_robs) - Physics. PhD student in Astrophysics at @blackholesusp.Working and promoting black holes and AI (on #AstroThreadBR). Itineraries in Ciência Todo Dia. User: @import_robs. Language: Portuguese-BR and English.
+* [Rayssa Guimarães](https://twitter.com/acosmicray) - Astronomer and Master's Student at Valongo UFRJ. She hunt black holes in galaxies, she's part of AdAstra Science and UFRJ Physics Week. User: @acosmicray. Language: Portuguese-BR and English.
+* [Ricardo Ogando](https://twitter.com/rilogando) - Astronomer and scientific popularizer. User: @rilogando. Language: Portuguese-BR.
+* [Sofia Fonseca](https://twitter.com/sofia_fonsecao) - Astronomy student at UFRJ, amateur astrophotographer and science communicator. User: @sofia_fonsecao. Language: Portuguese-BR.
+* [Prof. Abel Méndez](https://twitter.com/ProfAbelMendez) - Planetary Astrobiologist and Director of the Planetary HabLab. Looking at habitable worlds from the Arecibo Observatory. User: @ProfAbelMendez. Language: English.
+* [Thiago S Gonçalves](https://twitter.com/thiagosgbr) - Astronomer at Valongo UFRJ, scientific disseminator. SAB Press Coordinator. User: @thiagosgbr. Language: Portuguese-BR.
+
 
 ### Facebook
 
