@@ -264,6 +264,7 @@ Selected Space & Physics projects:
 * [Dark Energy Explorers](https://www.zooniverse.org/projects/erinmc/dark-energy-explorers) - Identify distant galaxies to help measure dark energy when the universe was just ~2-3 billion years old.
 * [Active Asteroids](https://www.zooniverse.org/projects/orionnau/active-asteroids) - The project is focused on active asteroids.
 * [NASA GLOBE CLOUD GAZE](https://www.zooniverse.org/projects/nasaglobe/nasa-globe-cloud-gaze) - A NASA funded project aimed to help NASA better understand the effect clouds are having on Earth’s climate.
+* [Planet Hunters NGTS](https://www.zooniverse.org/projects/mschwamb/planet-hunters-ngts/) - The project is focused on discovering hidden worlds with the Next-Generation Transit Survey.
 
 ### Other
 
