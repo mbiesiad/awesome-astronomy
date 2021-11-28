@@ -249,7 +249,6 @@ Selected Space & Physics projects:
 * [Pulsar Hunters](https://www.zooniverse.org/projects/zooniverse/pulsar-hunters) - Zooniverse project about pulsars.
 * [Supernova Hunters](https://www.zooniverse.org/projects/dwright04/supernova-hunters) - Zooniverse project about supernovas.
 * [Disk Detective](https://www.diskdetective.org/#/) - Zooniverse project about stars, which are surrounded by dust-rich circumstellar disks.
-* [Planet Hunters](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess#/) - Zooniverse project TESS, about exoplanets.
 * [Higgs Hunters](https://www.higgshunters.org/#/) - Zooniverse project about hints of the Higgs boson.
 * [Galaxy Zoo: Bar Lengths](https://www.zooniverse.org/projects/vrooje/galaxy-zoo-bar-lengths) - Zooniverse project about galaxies.
 * [Milky Way Project](https://www.zooniverse.org/projects/povich/milky-way-project) - Zooniverse project about the Milky Way.
@@ -265,6 +264,7 @@ Selected Space & Physics projects:
 * [Dark Energy Explorers](https://www.zooniverse.org/projects/erinmc/dark-energy-explorers) - Identify distant galaxies to help measure dark energy when the universe was just ~2-3 billion years old.
 * [Active Asteroids](https://www.zooniverse.org/projects/orionnau/active-asteroids) - The project is focused on active asteroids.
 * [NASA GLOBE CLOUD GAZE](https://www.zooniverse.org/projects/nasaglobe/nasa-globe-cloud-gaze) - A NASA funded project aimed to help NASA better understand the effect clouds are having on Earth’s climate.
+* [Planet Hunters NGTS](https://www.zooniverse.org/projects/mschwamb/planet-hunters-ngts/) - The project is focused on discovering hidden worlds with the Next-Generation Transit Survey.
 
 ### Other
 
@@ -460,6 +460,7 @@ Other awesome links!
 * [SETI](https://www.seti.org/) - The search for extraterrestrial intelligence is a collective term for scientific searches for intelligent extraterrestrial life, for example, monitoring electromagnetic radiation for signs of transmissions from civilizations on other planets.
 * [Project Pluto](https://www.projectpluto.com/) - Project Pluto supplies astronomical software, both commercial and freeware, to amateur and professional astronomers.
 * [COSMOS](https://cosmosmagazine.com/) - A science magazine produced in Australia with a global outlook and literary ambitions, published by the Royal Institution of Australia (RiAus).
+* [NGTS](https://ngtransits.org/) - The Next-Generation Transit Survey is a wide-field photometric survey designed primarily to find and characterise transiting exoplanets.
 
 ## Conferences
 
