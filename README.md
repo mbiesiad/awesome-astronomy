@@ -249,7 +249,6 @@ Selected Space & Physics projects:
 * [Pulsar Hunters](https://www.zooniverse.org/projects/zooniverse/pulsar-hunters) - Zooniverse project about pulsars.
 * [Supernova Hunters](https://www.zooniverse.org/projects/dwright04/supernova-hunters) - Zooniverse project about supernovas.
 * [Disk Detective](https://www.diskdetective.org/#/) - Zooniverse project about stars, which are surrounded by dust-rich circumstellar disks.
-* [Planet Hunters](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess#/) - Zooniverse project TESS, about exoplanets.
 * [Higgs Hunters](https://www.higgshunters.org/#/) - Zooniverse project about hints of the Higgs boson.
 * [Galaxy Zoo: Bar Lengths](https://www.zooniverse.org/projects/vrooje/galaxy-zoo-bar-lengths) - Zooniverse project about galaxies.
 * [Milky Way Project](https://www.zooniverse.org/projects/povich/milky-way-project) - Zooniverse project about the Milky Way.
