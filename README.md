@@ -269,6 +269,7 @@ Selected Space & Physics projects:
 * [NASA GLOBE CLOUD GAZE](https://www.zooniverse.org/projects/nasaglobe/nasa-globe-cloud-gaze) - A NASA funded project aimed to help NASA better understand the effect clouds are having on Earth’s climate.
 * [Planet Hunters NGTS](https://www.zooniverse.org/projects/mschwamb/planet-hunters-ngts/) - The project is focused on discovering hidden worlds with the Next-Generation Transit Survey.
 * [Bursts from Space: MeerKAT](https://www.zooniverse.org/projects/alex-andersson/bursts-from-space-meerkat) - The project is focused on the light curves and images to determine if a source is radio-variable or transient.
+* [Solar Jet Hunter](https://www.zooniverse.org/projects/sophiemu/solar-jet-hunter) - This project uses only one of the AIA wavelengths: the 30.4 nanometers (nm) filter. In this filter, jets are generally brighter than the average brightness of the Sun, which make them easier to spot in images or videos. However, many jets can be seen in more than one AIA filter, indicating that the jet plasma contains components at several different temperatures.
 
 ### Other
 
