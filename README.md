@@ -159,6 +159,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [ALMA](https://www.almaobservatory.org) - The Atacama Large Millimeter/submillimeter Array is an astronomical interferometer of 66 radio telescopes in the Atacama Desert of northern Chile, which observe electromagnetic radiation at millimeter and submillimeter wavelengths.
 * [ROG](https://www.rmg.co.uk/royal-observatory) - The Royal Observatory is an observatory situated on a hill in Greenwich Park in east London, overlooking the River Thames to the north.
 * [ON](https://www.gov.br/observatorio/pt-br) - The National Observatory it's located in the city of Rio de Janeiro, it is one of the oldest scientific institutions in Brazil.
+* [SARAO](https://www.sarao.ac.za/) - The South African Radio Astronomy Observatory, a facility of the National Research Foundation, is responsible for managing all radio astronomy initiatives and facilities in South Africa, including the MeerKAT Radio Telescope in the Karoo, and the Geodesy and VLBI activities at the HartRAO facility.
 
 
 ## Exoplanet projects
