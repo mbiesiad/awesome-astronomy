@@ -2,7 +2,7 @@
 
 The field of science that using maths, physics, chemistry, IT and more to describe the world.
 
-![NASA-Milky-Way](/media/GSFC_20171208_Archive_e001738%7Eorig.jpg)
+![NASA-Milky-Way](/media/GSFC_20171208_Archive_e001738~orig.jpg)
 
 > _Source: NASA - NASA's Hubble Shows Milky Way is Destined for Head-On Collision: https://images.nasa.gov/details-GSFC_20171208_Archive_e001738_
 
