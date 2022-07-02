@@ -136,6 +136,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [WISPR](https://wispr.nrl.navy.mil/) - The Wide-Field Imager for Solar Probe.
 * [SOHO Newsroom](https://soho.nascom.nasa.gov/newsroom/) - Newsroom for Solar and Heliospheric Observatory.
 * [Sunspots](https://soho.nascom.nasa.gov/sunspots/) - Sunspots by SOHO.
+* [JHelioviewer](https://www.jhelioviewer.org/) - A visualization software for solar image data based on the JPEG 2000 compression standard.
 
 ## The Moon
 
