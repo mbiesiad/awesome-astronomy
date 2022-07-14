@@ -334,6 +334,7 @@ Selected Space & Physics projects:
 * [Supernova Hunters results](https://supernovahunters.github.io/) - Repo about results of Supernova Hunters project.
 * [AAS WorldWide Telescope](https://github.com/WorldWideTelescope) - A tool for showcasing astronomical data and knowledge.
 * [find_orb](https://github.com/Bill-Gray/find_orb) - Orbit determination from observation.
+* [WebbCompare](https://github.com/JohnEdChristensen/WebbCompare) - Comparison James Webb Space Telescope images with older images.
 
 ## Apps
 
