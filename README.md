@@ -222,6 +222,7 @@ Astronomy-related societies, organisations etc on the world.
 * [SAB](https://sab-astro.org.br/) - The Brazilian Astronomical Society is the organization responsible for Astronomy in Brazil.
 * [AfAS](http://www.africanastronomicalsociety.org/) - African Astronomical Society (AfAS) is the Pan-African professional society for astronomers.
 * [ASCOM Initiative](https://ascom-standards.org/) - The ASCOM Initiative establishes standard interfaces that enable communication between applications and diverse astronomy hardware.
+* [OpenAstronomy](https://openastronomy.org/) - A collaboration between open source astronomy and astrophysics projects to share resources, ideas, and to improve code.
 
 ## Citizen science
 
@@ -342,6 +343,7 @@ Selected Space & Physics projects:
 * [WebbCompare](https://github.com/JohnEdChristensen/WebbCompare) - Comparison James Webb Space Telescope images with older images.
 * [Transformation to Open Science](https://github.com/nasa/Transform-to-Open-Science) - TOPS repo.
 * [ASCOM Initiative](https://github.com/ASCOMInitiative) - ASCOM repo.
+* [OpenAstronomy](https://github.com/openastronomy) - OpenAstronomy repo.
 
 ## Apps
 
