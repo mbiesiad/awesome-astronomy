@@ -64,6 +64,8 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [Photojournal JPL](https://photojournal.jpl.nasa.gov/) - NASA's Image Access Site for Visual Exploration of the Universe.
 * [JPL Image Gallery](https://www.jpl.nasa.gov/images) - JPL is a federally funded research and development center managed for NASA by Caltech (Image Gallery site).
 * [Planetary Defense](https://www.nasa.gov/planetarydefense) - Planetary Defense Coordination Office.
+* [TOPS](https://science.nasa.gov/open-science/transform-to-open-science) - Transform to Open Science.
+* [CAPSTONE](https://www.nasa.gov/directorates/spacetech/small_spacecraft/capstone) - Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment will help reduce risk for future spacecraft by validating innovative navigation technologies and verifying the dynamics of this halo-shaped orbit.
 
 ## ESA 
 
@@ -219,6 +221,8 @@ Astronomy-related societies, organisations etc on the world.
 * [RiAus](https://riaus.org.au/) - The Royal Institution of Australia (RiAus) is a national scientific not-for-profit organisation with a mission to "bring science to people and people to science".
 * [SAB](https://sab-astro.org.br/) - The Brazilian Astronomical Society is the organization responsible for Astronomy in Brazil.
 * [AfAS](http://www.africanastronomicalsociety.org/) - African Astronomical Society (AfAS) is the Pan-African professional society for astronomers.
+* [ASCOM Initiative](https://ascom-standards.org/) - The ASCOM Initiative establishes standard interfaces that enable communication between applications and diverse astronomy hardware.
+* [OpenAstronomy](https://openastronomy.org/) - A collaboration between open source astronomy and astrophysics projects to share resources, ideas, and to improve code.
 
 ## Citizen science
 
@@ -277,6 +281,7 @@ Selected Space & Physics projects:
 ### Other
 
 * [NASA's citizen science projects](https://science.nasa.gov/citizenscience) - Collaborations between scientists and interested members of the public.
+* [IASC](http://iasc.cosmosearch.org/) - The International Astronomical Search Collaboration is a citizen science program that provides high-quality astronomical data to citizen scientists around the world.
 
 ## Sources for scientific papers
 
@@ -307,6 +312,7 @@ Selected Space & Physics projects:
 * [IRIS](http://www.astrosurf.com/buil/iris-software.html) - Free image processing software.
 * [SPICE](https://naif.jpl.nasa.gov/naif/toolkit.html) - A toolkit comprised of several items like large collection of user-level application program interfaces (APIs) and underlying subroutines and functions, provided as source code with extensive user-focused documentation or ready-to-use library made from the APIs.
 * [Cosmographia](https://naif.jpl.nasa.gov/naif/cosmographia.html) - A SPICE-enhanced version of the open source visualization tool.
+* [Astrometrica](http://iasc.cosmosearch.org/Home/Astrometrica) - Software which provides the ability to easily compare astromerical images for the purpose of moving object detection.
 
 ## Repositories
 
@@ -335,6 +341,9 @@ Selected Space & Physics projects:
 * [AAS WorldWide Telescope](https://github.com/WorldWideTelescope) - A tool for showcasing astronomical data and knowledge.
 * [find_orb](https://github.com/Bill-Gray/find_orb) - Orbit determination from observation.
 * [WebbCompare](https://github.com/JohnEdChristensen/WebbCompare) - Comparison James Webb Space Telescope images with older images.
+* [Transformation to Open Science](https://github.com/nasa/Transform-to-Open-Science) - TOPS repo.
+* [ASCOM Initiative](https://github.com/ASCOMInitiative) - ASCOM repo.
+* [OpenAstronomy](https://github.com/openastronomy) - OpenAstronomy repo.
 
 ## Apps
 
