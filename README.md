@@ -221,6 +221,7 @@ Astronomy-related societies, organisations etc on the world.
 * [RiAus](https://riaus.org.au/) - The Royal Institution of Australia (RiAus) is a national scientific not-for-profit organisation with a mission to "bring science to people and people to science".
 * [SAB](https://sab-astro.org.br/) - The Brazilian Astronomical Society is the organization responsible for Astronomy in Brazil.
 * [AfAS](http://www.africanastronomicalsociety.org/) - African Astronomical Society (AfAS) is the Pan-African professional society for astronomers.
+* [ASCOM Initiative](https://ascom-standards.org/) - The ASCOM Initiative establishes standard interfaces that enable communication between applications and diverse astronomy hardware.
 
 ## Citizen science
 
@@ -340,6 +341,7 @@ Selected Space & Physics projects:
 * [find_orb](https://github.com/Bill-Gray/find_orb) - Orbit determination from observation.
 * [WebbCompare](https://github.com/JohnEdChristensen/WebbCompare) - Comparison James Webb Space Telescope images with older images.
 * [Transformation to Open Science](https://github.com/nasa/Transform-to-Open-Science) - TOPS repo.
+* [ASCOM Initiative](https://github.com/ASCOMInitiative) - ASCOM repo.
 
 ## Apps
 
