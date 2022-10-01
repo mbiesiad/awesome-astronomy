@@ -277,6 +277,7 @@ Selected Space & Physics projects:
 ### Other
 
 * [NASA's citizen science projects](https://science.nasa.gov/citizenscience) - Collaborations between scientists and interested members of the public.
+* [IASC](http://iasc.cosmosearch.org/) - The International Astronomical Search Collaboration is a citizen science program that provides high-quality astronomical data to citizen scientists around the world.
 
 ## Sources for scientific papers
 
