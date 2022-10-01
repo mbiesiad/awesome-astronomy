@@ -287,6 +287,7 @@ Selected Space & Physics projects:
 
 * [arXiv](https://arxiv.org/) - A free distribution service and an open-access archive.
 * [ADS](https://ui.adsabs.harvard.edu/) - Astrophysics Data System.
+* [Inspirehep](https://inspirehep.net/) - Astrophysics papers database with focus on astro particle-physics
 * [ResearchGate](https://www.researchgate.net/) - A European commercial social networking site for scientists and researchers.
 
 ## Databases
