@@ -481,6 +481,7 @@ Other awesome links!
 * [Project Pluto](https://www.projectpluto.com/) - Project Pluto supplies astronomical software, both commercial and freeware, to amateur and professional astronomers.
 * [COSMOS](https://cosmosmagazine.com/) - A science magazine produced in Australia with a global outlook and literary ambitions, published by the Royal Institution of Australia (RiAus).
 * [NGTS](https://ngtransits.org/) - The Next-Generation Transit Survey is a wide-field photometric survey designed primarily to find and characterise transiting exoplanets.
+* [Komeciarz](https://komeciarz.pl/) - Michal Kusiak (comets and asteroids discoverer) webpage. 
 
 ## Conferences
 
