@@ -44,7 +44,6 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 
 * [NASA](https://www.nasa.gov/) - The National Aeronautics and Space Administration.
 * [APOD](https://apod.nasa.gov/apod/astropix.html) - Astronomy Picture of the Day.
-* [DEVELOP](https://develop.larc.nasa.gov/) - A NASA Applied Sciences Program.
 * [NASA Supercomputing](https://www.nas.nasa.gov/SC18/) - NASA supercomputers.
 * [NASApeople](https://www.nasa.gov/careers) - NASA' career.
 * [NASA Earth](https://www.nasa.gov/topics/earth/index.html) - NASA about the Earth and lives.
@@ -56,7 +55,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [NEOWISE](https://neowise.ipac.caltech.edu/) - Near-Earth Object Wide-field Infrared Survey Explorer.
 * [FGST](https://fermi.gsfc.nasa.gov/) - The Fermi Gamma-ray Space Telescope.
 * [New Horizons](http://pluto.jhuapl.edu/) - An interplanetary space probe that was launched as a part of NASA's New Frontiers program.
-* [New Frontiers program](https://www.nasa.gov/planetarymissions/newfrontiers.html) - A series of space exploration missions being conducted by NASA with the purpose of researching several of the Solar System bodies, including the dwarf planet Pluto.
+* [New Frontiers program](https://science.nasa.gov/planetary-science/programs/new-frontiers/) - A series of space exploration missions being conducted by NASA with the purpose of researching several of the Solar System bodies, including the dwarf planet Pluto.
 * [Perseverance rover](https://mars.nasa.gov/mars2020/) - A Mars rover manufactured by the Jet Propulsion Laboratory for use in NASA's Mars 2020 mission.
 * [Deep Space Network](https://eyes.nasa.gov/dsn/) - DSN is NASA’s international array of giant radio antennas that supports interplanetary spacecraft missions, plus a few that orbit Earth.
 * [NAI](https://astrobiology.nasa.gov/nai/) - The NASA Astrobiology Institute is a virtual distributed organization that integrates astrobiology research and training programs in concert with the national and international science communities.
@@ -64,7 +63,6 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [Photojournal JPL](https://photojournal.jpl.nasa.gov/) - NASA's Image Access Site for Visual Exploration of the Universe.
 * [JPL Image Gallery](https://www.jpl.nasa.gov/images) - JPL is a federally funded research and development center managed for NASA by Caltech (Image Gallery site).
 * [Planetary Defense](https://www.nasa.gov/planetarydefense) - Planetary Defense Coordination Office.
-* [TOPS](https://science.nasa.gov/open-science/transform-to-open-science) - Transform to Open Science.
 * [CAPSTONE](https://www.nasa.gov/directorates/spacetech/small_spacecraft/capstone) - Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment will help reduce risk for future spacecraft by validating innovative navigation technologies and verifying the dynamics of this halo-shaped orbit.
 
 ## ESA 
@@ -178,7 +176,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [Astrophotography/ Amateur Astronomy Enthusiasts](https://www.facebook.com/groups/astrophotographers/) - Facebook' group about astrophotography.
 * [Astrophotography tips](https://skyandtelescope.org/astronomy-resources/astrophotography-tips/) - Astrophotography: Tips & Techniques (skyandtelescope.org).
 * [Astrophotography how-to](https://www.astropix.com/) - Catching the Light. Astrophotography by Jerry Lodriguss.
-* [TWAN](http://www.twanight.org/newTWAN/index.asp) - The World At Night is an international effort to present stunning nightscape photos and timelapse videos of the world’s landmarks against celestial attractions. TWAN is a bridge between art, science, and culture.
+* [TWAN](https://twanight.org/galleries/) - The World At Night is an international effort to present stunning nightscape photos and timelapse videos of the world’s landmarks against celestial attractions. TWAN is a bridge between art, science, and culture.
 
 ## Society
 
@@ -196,7 +194,7 @@ Astronomy-related societies, organisations etc on the world.
 * [Urania – Postępy Astronomii](http://www.urania.edu.pl/) - Polish astronomical magazine.
 * [PKiM](http://www.pkim.org/) - Polish Fireball Network.
 * [Proxima](https://proxima.org.pl/) - Polish astronomical magazine.
-* [Astronomia Nova](http://www.astronomianova.org/index1.php?lang=eng) - Astronomia Nova association.
+* [Astronomia Nova](https://astronomianova.org/) - Astronomia Nova association.
 * [CAMK](http://www.camk.edu.pl/en/) - The Nicolaus Copernicus Astronomical Center (Polish: Centrum Astronomiczne im. Mikołaja Kopernika) is a Polish scientific research institute of the Polish Academy of Sciences headquartered in Warsaw.
 * [NCBJ](https://www.ncbj.gov.pl/) - National Centre for Nuclear Research (Polish: Narodowe Centrum Badań Jądrowych) is the largest research Institute in Poland.
 * [PTAstrobio](https://astrobio.pl/) - A society which was initiated by Polish experts dealing with problems with astrobiology.
@@ -293,7 +291,6 @@ Selected Space & Physics projects:
 ## Databases
 
 * [NASA/IPAC Extragalactic Database](http://ned.ipac.caltech.edu/) - An online astronomical database for astronomers that collates and cross-correlates astronomical information on extragalactic objects (galaxies, quasars, radio, x-ray and infrared sources, etc.).
-* [SIMBAD](http://simbad.u-strasbg.fr/simbad/) - The Set of Identifications, Measurements and Bibliography for Astronomical Data is an astronomical database of objects beyond the Solar System.
 * [PDS](https://pds.nasa.gov/) - The Planetary Data System is a distributed data system that NASA uses to archive data collected by Solar System missions.
 * [GCVS](http://www.sai.msu.su/gcvs/gcvs/) - General Catalogue of Variable Stars.
 * [AstDyS-2](https://newton.spacedys.com/astdys/) - Website provides data on numbered and multiopposition asteroids, including orbital elements, their uncertainty, proper elements, ephemerides with uncertainty, and more.
@@ -342,7 +339,6 @@ Selected Space & Physics projects:
 * [AAS WorldWide Telescope](https://github.com/WorldWideTelescope) - A tool for showcasing astronomical data and knowledge.
 * [find_orb](https://github.com/Bill-Gray/find_orb) - Orbit determination from observation.
 * [WebbCompare](https://github.com/JohnEdChristensen/WebbCompare) - Comparison James Webb Space Telescope images with older images.
-* [Transformation to Open Science](https://github.com/nasa/Transform-to-Open-Science) - TOPS repo.
 * [ASCOM Initiative](https://github.com/ASCOMInitiative) - ASCOM repo.
 * [OpenAstronomy](https://github.com/openastronomy) - OpenAstronomy repo.
 
@@ -433,8 +429,6 @@ Other awesome links!
 * [PlanetaryResources](https://github.com/PlanetaryResources) - Repo on GitHub from the Planetary Resources.
 * [consensys.space](https://www.consensys.space/) - Open Source Space.
 * [University Rover Challenge](http://urc.marssociety.org/) - Robotics competition for university level students.
-* [KRAKsat](https://www.kraksat.pl/space/) - Satellite has docked to International Space Station with Cygnus spaceship.
-* [Scorpio](http://www.scorpio.pwr.edu.pl/language/en/project-scorpio/) - Scorpio rovers family.
 * [Space is More](https://www.spaceismore.com/) - Research team focused on space architecture and engineering.
 * [Messier marathon](https://en.wikipedia.org/wiki/Messier_marathon) - An attempt, usually organized by amateur astronomers.
 * [SEDS USA](https://seds.org/) - Students for the Exploration and Development of Space is an international student organization.
@@ -446,7 +440,6 @@ Other awesome links!
 * [LSST SSSC](https://lsst-sssc.github.io/) - Solar System Science Collaboration - preparing to study the Solar System with the Large Synoptic Survey Telescope.
 * [SkyHunt](https://skyhuntblog.wordpress.com/) - Astroblog by Trygve Prestgard.
 * [R.Kracht page](http://www.rkracht.de/soho/index.htm) - SOHO comets by Rainer Kracht.
-* [Mike Oates page](http://www.mikeoates.org/comets/) - Mike's SOHO Comet Hunt.
 * [Einstein@Home](https://einsteinathome.org/) - A volunteer distributed computing project that searches for signals from rotating neutron stars in data from the LIGO gravitational-wave detectors, from large radio telescopes, and from the Fermi Gamma-ray Space Telescope.
 * [Kleinplaneten](http://www.kleinplanetenseite.de/) - Site by Gerhard Lehmann about asteroids.
 * [MB Webpage](https://biesiadamichal.wordpress.com/) - Selected SOHO-comet discoveries by Michal Biesiada.
@@ -461,16 +454,14 @@ Other awesome links!
 * [BOINC](https://boinc.berkeley.edu/) - The Berkeley Open Infrastructure for Network Computing is an open-source middleware system for volunteer computing and grid computing.
 * [Heavens-Above](https://www.heavens-above.com/) - The website is dedicated to helping people observe and track satellites orbiting the Earth without the need for optical equipment such as binoculars or telescopes.
 * [ASAS](http://www.astrouw.edu.pl/asas/) - The All Sky Automated Survey is a Polish project implemented on 7 April 1997 to do photometric monitoring of approximately 20 million stars brighter than 14 magnitude all over the sky.
-* [The Pan-STARRS Survey for Transients](https://star.pst.qub.ac.uk/ps1threepi/psdb/) - The Pan-STARRS1 telescope carried out the 3Pi survey of the whole sky north of -30 degrees between 2010-2014 in grizy (PS1 specific filters). This was run by the PS1 Science Consortium.
 * [Transient Name Server](https://www.wis-tns.org/) - TNS by IAU Supernova Working Group.
 * [Astronomers Without Borders](https://astronomerswithoutborders.org/) - AWB is a U.S.-based organization founded by Mike Simmons, dedicated to spreading astronomy throughout the world and connecting people through this universal interest.
 * [Lunares](https://lunares.space/) - Lunares Habitat is a research station based in Poland, which enables conducting similar manned lunar and Martian missions.
 * [MDRS](http://mdrs.marssociety.org/) - The Mars Desert Research Station is the second simulated Mars analog habitat owned and operated by the Mars Society.
 * [MARS-500](http://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Mars500) - The mission was a psychosocial isolation experiment conducted between 2007 and 2011 by Russia, the European Space Agency and China, in preparation for an unspecified future crewed spaceflight to the planet Mars. Information at the official ESA site.
 * [LOFAR](https://www.astron.nl/telescopes/lofar) - The Low-Frequency Array is a large radio telescope network located mainly in the Netherlands, completed in 2012 by ASTRON, the Netherlands Institute for Radio Astronomy and its international partners, and operated by ASTRON's radio observatory, of the Netherlands Organisation for Scientific Research.
-* [The European Astrobiology and Society Resource Centre](https://www.astrobiology.eu/) - All you ever wanted to know about societal aspects of astrobiology in one place.
 * [ASB](https://astrobiologysociety.org/) - The Astrobiology Society of Britain is a learned society dedicated to the understanding and advancement of astrobiology in the United Kingdom. The organisation is affiliated with NASA.
-* [JWST](https://www.jwst.nasa.gov/) - The James Webb Space Telescope is a joint NASA-ESA-CSA space telescope that is planned to succeed the Hubble Space Telescope as NASA's flagship astrophysics mission.
+* [JWST](https://science.nasa.gov/mission/webb/) - The James Webb Space Telescope is a joint NASA-ESA-CSA space telescope that is planned to succeed the Hubble Space Telescope as NASA's flagship astrophysics mission.
 * [FAST](https://fast.bao.ac.cn/) - The Five-hundred-meter Aperture Spherical radio Telescope is a radio telescope located in the Dawodang depression, a natural basin in Pingtang County, Guizhou, southwest China.
 * [ASAS-SN](http://www.astronomy.ohio-state.edu/asassn/index.shtml) - Global network of robotic telescopes, All-Sky Automated Survey for SuperNovae.
 * [DES](https://www.darkenergysurvey.org/) - The Dark Energy Survey is a visible and near-infrared survey that aims to probe the dynamics of the expansion of the Universe and the growth of large-scale structure.
