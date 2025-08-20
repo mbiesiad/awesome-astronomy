@@ -341,6 +341,7 @@ Selected Space & Physics projects:
 * [WebbCompare](https://github.com/JohnEdChristensen/WebbCompare) - Comparison James Webb Space Telescope images with older images.
 * [ASCOM Initiative](https://github.com/ASCOMInitiative) - ASCOM repo.
 * [OpenAstronomy](https://github.com/openastronomy) - OpenAstronomy repo.
+* [Paloma's Orrery](https://github.com/tonylquintanilla/palomas_orrery) - Interactive Python 3D visualization: solar system exploration, spacecraft tracking, stellar mapping, with NASA/ESA data integration.
 
 ## Apps
 
