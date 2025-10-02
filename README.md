@@ -162,7 +162,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [ROG](https://www.rmg.co.uk/royal-observatory) - The Royal Observatory is an observatory situated on a hill in Greenwich Park in east London, overlooking the River Thames to the north.
 * [ON](https://www.gov.br/observatorio/pt-br) - The National Observatory it's located in the city of Rio de Janeiro, it is one of the oldest scientific institutions in Brazil.
 * [SARAO](https://www.sarao.ac.za/) - The South African Radio Astronomy Observatory, a facility of the National Research Foundation, is responsible for managing all radio astronomy initiatives and facilities in South Africa, including the MeerKAT Radio Telescope in the Karoo, and the Geodesy and VLBI activities at the HartRAO facility.
-
+* [NSF–DOE Vera C. Rubin Observatory](https://rubinobservatory.org/) - The NSF-DOE Vera C. Rubin Observatory is a joint project by the U.S. National Science Foundation and the Department of Energy, located on Cerro Pachón in Chile.
 
 ## Exoplanet projects
 
