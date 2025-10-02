@@ -163,6 +163,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [ON](https://www.gov.br/observatorio/pt-br) - The National Observatory it's located in the city of Rio de Janeiro, it is one of the oldest scientific institutions in Brazil.
 * [SARAO](https://www.sarao.ac.za/) - The South African Radio Astronomy Observatory, a facility of the National Research Foundation, is responsible for managing all radio astronomy initiatives and facilities in South Africa, including the MeerKAT Radio Telescope in the Karoo, and the Geodesy and VLBI activities at the HartRAO facility.
 * [NSF–DOE Vera C. Rubin Observatory](https://rubinobservatory.org/) - The NSF-DOE Vera C. Rubin Observatory is a joint project by the U.S. National Science Foundation and the Department of Energy, located on Cerro Pachón in Chile.
+* [Kilo-Degree Survey (KiDS)](https://kids.strw.leidenuniv.nl/) - KiDS is an ESO Public Survey carried out with the VLT Survey Telescope and OmegaCAM camera, that has imaged 1347 square degrees in four filters (u, g, r, i).
 
 ## Exoplanet projects
 
