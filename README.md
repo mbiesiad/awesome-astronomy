@@ -222,6 +222,7 @@ Astronomy-related societies, organisations etc on the world.
 * [AfAS](http://www.africanastronomicalsociety.org/) - African Astronomical Society (AfAS) is the Pan-African professional society for astronomers.
 * [ASCOM Initiative](https://ascom-standards.org/) - The ASCOM Initiative establishes standard interfaces that enable communication between applications and diverse astronomy hardware.
 * [OpenAstronomy](https://openastronomy.org/) - A collaboration between open source astronomy and astrophysics projects to share resources, ideas, and to improve code.
+* [CfA](https://www.cfa.harvard.edu/) - An astrophysics research institute jointly operated by the Harvard College Observatory and Smithsonian Astrophysical Observatory.
 
 ## Citizen science
 
