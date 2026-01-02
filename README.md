@@ -305,6 +305,7 @@ Selected Space & Physics projects:
 ## Tools
 
 * [FITS](https://en.wikipedia.org/wiki/FITS) - Flexible Image Transport System.
+* [Vedika](https://vedika.io) - AI-powered Vedic astrology API with Swiss Ephemeris calculations, planetary positions, panchang, and astronomical data in 22 languages.
 * Fitswork - A windows image processing program.
 * [LaTeX](https://en.wikipedia.org/wiki/LaTeX) - A document preparation system.
 * [Python](https://www.python.org/) - An interpreted, high-level, general-purpose programming language.
