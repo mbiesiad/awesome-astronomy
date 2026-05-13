@@ -101,7 +101,6 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 
 ## Asteroids
 
-* [TOTAS](https://totas.neo.s2p.esa.int) - Teide Observatory Tenerife Asteroid Survey.
 * [ATLAS](http://www.fallingstar.com) - Asteroid Terrestrial-impact Last Alert System.
 * [Pan-STARRS](http://pswww.ifa.hawaii.edu/pswww) - The Panoramic Survey Telescope and Rapid Response System.
 * [NASA PDS: Small Bodies Node](https://pds-smallbodies.astro.umd.edu/) - The Small Bodies Node (SBN) is a part of NASA's Planetary Data System, specializes in the archiving, cataloging, and distributing of scientific data sets relevant to asteroids, comets and interplanetary dust.
