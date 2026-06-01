@@ -344,6 +344,7 @@ Selected Space & Physics projects:
 * [WebbCompare](https://github.com/JohnEdChristensen/WebbCompare) - Comparison James Webb Space Telescope images with older images.
 * [ASCOM Initiative](https://github.com/ASCOMInitiative) - ASCOM repo.
 * [OpenAstronomy](https://github.com/openastronomy) - OpenAstronomy repo.
+* [Las Cumbres Observatory](https://github.com/lcogt) - GH account of Las Cumbres Observatory (LCO) org.
 
 ## Apps
 
