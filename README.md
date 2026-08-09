@@ -314,6 +314,7 @@ Selected Space & Physics projects:
 * [SPICE](https://naif.jpl.nasa.gov/naif/toolkit.html) - A toolkit comprised of several items like large collection of user-level application program interfaces (APIs) and underlying subroutines and functions, provided as source code with extensive user-focused documentation or ready-to-use library made from the APIs.
 * [Cosmographia](https://naif.jpl.nasa.gov/naif/cosmographia.html) - A SPICE-enhanced version of the open source visualization tool.
 * [Astrometrica](http://iasc.cosmosearch.org/Home/Astrometrica) - Software which provides the ability to easily compare astromerical images for the purpose of moving object detection.
+* [Planetary Atlas](https://planetatlas.org) - Browser-based zoomable maps of 14 worlds built from open NASA, USGS, ESA and JAXA imagery, with IAU nomenclature and surface mission landing sites.
 
 ## Repositories
 
