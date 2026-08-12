@@ -300,6 +300,7 @@ Selected Space & Physics projects:
 * [MPC](https://www.minorplanetcenter.net/db_search/) - MPC Database Search.
 * [ASIAGOSN](https://heasarc.gsfc.nasa.gov/W3Browse/all/asiagosn.html) - Asiago Supernova Catalog.
 * [HEASARC](https://heasarc.gsfc.nasa.gov/) - The High Energy Astrophysics Science Archive Research Center is the primary archive for NASA's (and other space agencies') missions studying electromagnetic radiation from extremely energetic cosmic phenomena ranging from black holes to the Big Bang.
+* [CycleCalcs](https://www.cyclecalcs.com/api.html) - Computed ephemeris as a keyless REST API and as CC0 bulk data: moon phases with perigee distance, true-node crossings, eclipse circumstances with Saros series, apsides, libration, retrograde stations and conjunctions. Every response names its frame, epoch, time scale and refraction model. The 1700-2200 archive is byte-reproducible from a pinned engine (DOI 10.5281/zenodo.21905242).
 
 ## Tools
 
