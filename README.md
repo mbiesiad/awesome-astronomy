@@ -352,6 +352,7 @@ Selected Space & Physics projects:
 * [Heavens-Above](https://play.google.com/store/apps/details?id=com.heavens_above.viewer&hl=en&gl=US) - App provides you with precise pass predictions for the ISS, visible satellites and radio satellites.
 * [Star Trails](https://play.google.com/store/apps/details?id=com.slash.startrails&hl=en&gl=US) - App quite good, If you have some long exposures and want to create star trails from them.
 * [Night Sky](https://apps.apple.com/us/app/night-sky/id475772902) - A stargazing reference app, where the user can explore a virtual representation of the night sky to identify stars, planets, constellations and satellites.
+* [3D Solar System Simulator](https://www.3dsolarsystem.net/) - Free browser-based (WebGL) model of the Sun and planets with a true-scale mode, adjustable orbital time and first-person views on the Moon and Mars.
 
 ## Hackathons
 
