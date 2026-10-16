@@ -344,6 +344,7 @@ Selected Space & Physics projects:
 * [WebbCompare](https://github.com/JohnEdChristensen/WebbCompare) - Comparison James Webb Space Telescope images with older images.
 * [ASCOM Initiative](https://github.com/ASCOMInitiative) - ASCOM repo.
 * [OpenAstronomy](https://github.com/openastronomy) - OpenAstronomy repo.
+* [exostab](https://github.com/mimitoz62/exostab) - Orbital-stability indicators (Hill spacing, angular momentum deficit, N-body with REBOUND) for known multi-planet systems from the NASA Exoplanet Archive.
 
 ## Apps
 
