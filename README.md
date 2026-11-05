@@ -352,6 +352,7 @@ Selected Space & Physics projects:
 * [Heavens-Above](https://play.google.com/store/apps/details?id=com.heavens_above.viewer&hl=en&gl=US) - App provides you with precise pass predictions for the ISS, visible satellites and radio satellites.
 * [Star Trails](https://play.google.com/store/apps/details?id=com.slash.startrails&hl=en&gl=US) - App quite good, If you have some long exposures and want to create star trails from them.
 * [Night Sky](https://apps.apple.com/us/app/night-sky/id475772902) - A stargazing reference app, where the user can explore a virtual representation of the night sky to identify stars, planets, constellations and satellites.
+* [SkyLive](https://skylive.world/) - Live sky cams, aurora cams and launch webcasts, each with a map of the sky above the camera showing the Moon phase, the naked-eye planets and the brightest stars. Also has a calendar of sky events and a feed for sharing astrophotos. Free to watch without an account.
 
 ## Hackathons
 
