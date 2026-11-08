@@ -304,6 +304,7 @@ Selected Space & Physics projects:
 
 ## Tools
 
+* [Calculation Hub Telescope Magnification Calculator](https://calculation-hub.com/astronomy/telescope-magnification) - Free focal-length magnification, exit-pupil, and approximate field-of-view calculations with optical and seeing limitations.
 * [FITS](https://en.wikipedia.org/wiki/FITS) - Flexible Image Transport System.
 * Fitswork - A windows image processing program.
 * [LaTeX](https://en.wikipedia.org/wiki/LaTeX) - A document preparation system.
