@@ -352,6 +352,7 @@ Selected Space & Physics projects:
 * [Heavens-Above](https://play.google.com/store/apps/details?id=com.heavens_above.viewer&hl=en&gl=US) - App provides you with precise pass predictions for the ISS, visible satellites and radio satellites.
 * [Star Trails](https://play.google.com/store/apps/details?id=com.slash.startrails&hl=en&gl=US) - App quite good, If you have some long exposures and want to create star trails from them.
 * [Night Sky](https://apps.apple.com/us/app/night-sky/id475772902) - A stargazing reference app, where the user can explore a virtual representation of the night sky to identify stars, planets, constellations and satellites.
+* [Perigee](https://perigee.info/) - Free, open-source web app showing in 3D and in real time the satellites around the Earth, the orbiters of the Moon and Mars and the probes of the solar system, with pass predictions, eclipse maps and the night sky for any place, in English and French.
 
 ## Hackathons
 
