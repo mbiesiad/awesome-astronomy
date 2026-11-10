@@ -98,6 +98,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [MPC](https://www.minorplanetcenter.net/iau/mpc.html) - Designation of minor bodies in the solar system.
 * [COBS](https://cobs.si/) - Comet Observation database (COBS) saw first light in 2010 and is maintained by Crni Vrh Observatory. It is a free and unique service for comet observers worldwide which allows submission, display and analysis of comet data in a single location.
 * [BAA Comet section](https://people.ast.cam.ac.uk/~jds/) - British Astronomical Association Comet Section, visual observations page.
+* [Perfect Clock Comets](https://perfectclock.cc/comets) - Comets within reach of binoculars or a small telescope this year, on a timeline in your time zone, with expected brightness, perihelion, closest approach to Earth, and morning or evening sky, each linked to its forecast.
 
 ## Asteroids
 
@@ -118,6 +119,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 * [Orbit@home](https://en.wikipedia.org/wiki/Orbit@home) - Orbit@home was a BOINC-based distributed computing project of the Planetary Science Institute.
 * [DART Mission](https://www.nasa.gov/planetarydefense/dart) - The Double Asteroid Redirection Test mission is a planetary defense-driven test of technologies for preventing an impact of Earth by a hazardous asteroid.
 * [Psyche mission](https://psyche.asu.edu/) - A planned orbiter mission that will explore the origin of planetary cores by studying the metallic asteroid of the same name.
+* [Perfect Clock Near-Earth Asteroids](https://perfectclock.cc/near-earth-asteroids) - Upcoming flybys of asteroids closer than the Moon and of large asteroids within 20 lunar distances, from NASA/JPL close-approach data, on a timeline in your time zone with distance, size, and speed.
 
 ## Sun
 
@@ -146,6 +148,7 @@ The field of science that using maths, physics, chemistry, IT and more to descri
 > _A full moon captured July 18, 2008. Credit: NASA/Sean Smith https://asd.gsfc.nasa.gov/blueshift/index.php/2015/02/12/no-mardi-gras-under-a-full-moon/_
 
 * [Moon Society](https://www.moonsociety.org/) - Space advocacy organization.
+* [Perfect Clock Moon Phases](https://perfectclock.cc/moon-phases) - New moon, first quarter, full moon, and last quarter at the exact minute in your time zone for the next year, with traditional full moon names and supermoons.
 
 ## Experiments
 
