@@ -345,6 +345,7 @@ Selected Space & Physics projects:
 * [ASCOM Initiative](https://github.com/ASCOMInitiative) - ASCOM repo.
 * [OpenAstronomy](https://github.com/openastronomy) - OpenAstronomy repo.
 * [Las Cumbres Observatory](https://github.com/lcogt) - GH account of Las Cumbres Observatory (LCO) org.
+* [theastrotales-core](https://github.com/Neeleshydv/theastrotales-core) - High-precision zero-dependency astronomical ephemeris and chart calculation engine in JavaScript. Powers [TheAstroTales](https://theastrotales.com).
 
 ## Apps
 
