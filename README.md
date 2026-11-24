@@ -283,6 +283,7 @@ Selected Space & Physics projects:
 
 * [NASA's citizen science projects](https://science.nasa.gov/citizenscience) - Collaborations between scientists and interested members of the public.
 * [IASC](http://iasc.cosmosearch.org/) - The International Astronomical Search Collaboration is a citizen science program that provides high-quality astronomical data to citizen scientists around the world.
+* [RealAether](https://geebs369.github.io/realaether/) - Self-funded citizen-science site with live space weather, a Raspberry Pi cosmic-ray detector, a near-Earth object close-approach tracker, open methods, and Sky Companion, a phone web app (https://geebs369.github.io/realaether/sky/).
 
 ## Sources for scientific papers
 
