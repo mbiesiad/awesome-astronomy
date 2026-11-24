@@ -304,6 +304,7 @@ Selected Space & Physics projects:
 
 ## Tools
 
+* [ArabSkyPedia](https://arabskypedia.com/) - Arabic-language interactive sky atlas with Arabic star and constellation names, Moon phases, and beginner astronomy resources.
 * [FITS](https://en.wikipedia.org/wiki/FITS) - Flexible Image Transport System.
 * Fitswork - A windows image processing program.
 * [LaTeX](https://en.wikipedia.org/wiki/LaTeX) - A document preparation system.
@@ -489,4 +490,3 @@ Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) fir
 ## Code of Conduct
 
 See [Code of Conduct](CODE-OF-CONDUCT.md).
-
